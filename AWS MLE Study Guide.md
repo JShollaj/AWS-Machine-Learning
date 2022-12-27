@@ -267,6 +267,20 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 ### **Formatting data**
 
-- Choosing the right data format (parquet is usually faster).
+- Choose the right data format (parquet is usually faster).
+
+- Put similar items under same columns.
+
+- Avoid blank rows.
+
+- Avoid trailing whitespaces.
+
+- Keep format consistent (f.ex address, currency, date etc.).
+
+- Quality > Quantity of data.
+
+### **Normalizing data**
+
+- Decimal place (f.ex in excel accounting nr.).
 
 - 
