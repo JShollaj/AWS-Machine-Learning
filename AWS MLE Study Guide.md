@@ -417,13 +417,19 @@ When running an ordinary least squared
 
 - Covariance (Type -> Positive / Negative)
 
-- R Squared - How much the independent variable is explained by changes in dependent variables.
+- R Squared &rarr; How much the independent variable is explained by changes in dependent variables.
 
-- Adjusted R Squared - Penalizes for non-contributing variables.
+- Adjusted R Squared &rarr; Penalizes for non-contributing variables.
 
-- F-Stat - Finds out if variables are statistically significant.
+- F-Stat &rarr; Finds out if variables are statistically significant.
 
+- Coef &rarr; Positive or inverse relationship of the dependent to the independent variable.
 
+- Std Error &rarr; Std of Coef &rarr; Variation of Coefficient.
+
+- p|t| &rarr; Uses t-stat to produce p-value (showing statistical significance).
+
+- 
 
 
 
