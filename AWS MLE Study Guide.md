@@ -397,7 +397,7 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - Other terms to know (Standard Error, Chi Squared Tests).
 
-*To learn more about how to learn and apply basic stats required for the exam try [this repository book](https://github.com/AllenDowney/ThinkStats2)*.
+*To learn more and apply basic stats required for the exam try [this repository book](https://github.com/AllenDowney/ThinkStats2)*.
 
 </br>
 
@@ -441,7 +441,9 @@ When running an ordinary least squared
 
 - JB &rarr; Alternative method of measuring normalcy of distribution.
 
-- 
+- Condition Number &rarr; Measures multicollinearity 
+
+*To learn more about how to learn and apply basic stats required for the exam try [this repository book](https://github.com/AllenDowney/ThinkStats2)*.
 
 
 
