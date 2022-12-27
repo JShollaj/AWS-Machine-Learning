@@ -132,7 +132,9 @@ Storage solution which:
 
 - Can store petabytes (2^50 bytes).
 
-- Option for EFS Infrequent-Access One Zone &rarr; 
+- Option for EFS Infrequent-Access One Zone &rarr; Price performance optimized on accessed data (saves up to 92% of file storage).
+
+
 
 
 
