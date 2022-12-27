@@ -1,6 +1,8 @@
 
 # **[Official Exam Guide](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-certified-machine-learning-specialty-exam-guide )**
 
+This is a summarized version of the most important topics derived from the official exam guide. Here we follow step by step each key word from the document and bring a high level description and definition for each of them.
+
 ## Domain 1: Data Engineering
 
 Identify and compare storage mediums, classes and data sources. Know the difference between data engineering concepts such as data lakes, batch load vs streaming data. 
