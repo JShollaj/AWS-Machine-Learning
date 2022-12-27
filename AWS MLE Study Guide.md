@@ -213,5 +213,36 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 
 ## **Domain 2: Exploratory Data Analysis**
 
+### **How to deal with missing data**
 
+To deal with missing data we can impute, delete rows/columns or not do anything.
 
+### **Data Imputation Methods (Numeric)**
+
+- KNN Imputer (Using mean value from n-neighbors). **Best One**
+
+- MICE (Using predictive mean matching through chain equation).
+
+- Bayesian PCA (Maximizing marginal likehood through BPCA).
+
+- Bayesian Linear Regression (Mean imputation as a linear combination of features).
+
+- Others (Mean, Mode, Median, Forward/Backward, Interpolation).
+
+### **Data Imputation Methods (Non-Numeric)**
+
+- Most frequent value.
+
+-Add 'Unknown' or NA.
+
+- Category specific imputation (f.ex animal for dogs & cats).
+
+### **How to deal with corrupt data**
+
+- Delete row/columns.
+
+- Create new category.
+
+- Imputation (See Above).
+
+- Predictive model for missing values.
