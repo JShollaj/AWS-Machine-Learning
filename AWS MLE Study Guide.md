@@ -455,6 +455,18 @@ When running an ordinary least squared
 
 ## **Domain 3: Modeling**
 
+</br>
+
+### **When to use ML/AI:**
+
+- When we have the right amount of data (and the right data).
+
+- Properly have assessed the ROI and similar use cases.
+
+- Ease of support and deployment.
+
+- Team support (Devs, Product, DevOps).
+
 
 
 
