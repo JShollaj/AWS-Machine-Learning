@@ -327,6 +327,8 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 
 - Combination of both.
 
+</br>
+
 ### **Labeled data:**
 
 - Manual through domain knowledge (customizable against bias).
@@ -334,4 +336,8 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 - Mechanical turk (access to workforce in marketplace).
 
 - Sagemaker Groundtruth Plus (Share data and required labeling & and you get them labeled).
+
+</br>
+
+### **Feature Engineering Concepts:**
 
