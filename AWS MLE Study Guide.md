@@ -152,7 +152,11 @@ Block storage solution which:
 
 - Has automated lifecycle manager based on given policies.
 
+</br>
 
+**Summary**: We have many options which overlap and are context dependent. For longest term storage follow this pattern:
+
+S3 &rarr; EBS &rarr; EFS (Different tiers based on given context)
 
 
 
