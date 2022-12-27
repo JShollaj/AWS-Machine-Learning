@@ -249,8 +249,20 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 ### **Types of missing/corrupt data**
 
-- MCAR &rarr; Missing completely at random (No Pattern).
+- M.C.A.R &rarr; Missing completely at random (No Pattern).
 
-- MAR &rarr; Missing completely at random (Usually machine error which can be inferred).
+- M.A.R &rarr; Missing completely at random (Usually machine error which can be inferred).
 
-- 
+- M.N.A.R &rarr; Missing not at random (Deliberately hiding info like salary).
+
+- S.M.D &rarr; Structurally missing data (We know pattern and can infer).
+
+### **Types of preprocessing**
+
+- NLP (lowercase, punctuation, numbers, special char, emojis etc.).
+
+- CV (greyscale, standardize image, augment data etc.).
+
+- Most use cases are context and case dependent on what the scope or objective is.
+
+### **Formatting data**
