@@ -383,6 +383,8 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - PMF (Used to calculate the mean and variance of the discrete distribution).
 
+- CDF (Obtained by summing up the probability density function and getting the cumulative probability for a random variable).
+
 - 
 
 
