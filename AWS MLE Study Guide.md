@@ -24,3 +24,9 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 ------
 
 ## **Domain 1: Data Engineering**
+
+### Main storage mediums
+
+- Aurora, RDS, Redshift (Relational) &rarr; For ERP/CRM
+
+- DynamoDB (NoSQL-Key Value) &rarr; 
