@@ -531,8 +531,39 @@ We need to decide based on:
 
 ### **[Logistic Regression](https://youtu.be/yIYKR4sgzI8)**
 
+- Simple algorithm for classifying categorical data.
 
+- Examples include Spam detection etc.
 
+### **[K-Means](https://www.youtube.com/watch?v=4b5d3muPQmA)**
+
+- Mean of clustered data points is at minimum / per cluster.
+
+- We use it when:
+
+  - We dont have specific outcome to predict.
+
+  - Unsupervised problem (lacking labels).
+
+### **[Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)**
+
+- Adjusting and assessing relationship of variables
+
+- Use when we want to predict outcome of target variable based on the relationship predictor variables.
+
+- A simple checklist to check whether the model is appropriate is the following:
+
+  - Check for a linear relationship of variables.
+
+  - Multivariate normality (close to normal distribution).
+
+  - No multicollinearity (correlation of independent variables).
+
+  - Autocorrelation kept to a minimum (similarity of lagged version with itself).
+
+  - Homoscedasticity (constant variance of error term).
+
+  
 
 
 
