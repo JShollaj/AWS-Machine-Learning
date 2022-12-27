@@ -5,6 +5,8 @@
 
 Identify and compare storage mediums, classes and data sources. Know the difference between data engineering concepts such as data lakes, batch load vs streaming data. 
 
-## Domain 1: Data Engineering
+## Domain 2: Exploratory Data Analysis
+
+Learn how to deal with missing/corrupt data and various preprocessing techniques for NLP/CV. 
 
 
