@@ -124,7 +124,7 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 ### **EFS - Elastic File System**
 
-Storage solution which:
+File storage solution which:
 
 - Enables sharing data without provisioning & can scale automatically.
 
@@ -134,10 +134,24 @@ Storage solution which:
 
 - Option for EFS Infrequent-Access One Zone &rarr; Price performance optimized on accessed data (saves up to 92% of file storage).
 
-
 </br>
 
 ### **EBS - Elastic Block Store**
+
+Block storage solution which:
+
+- Think of hard drive for single EC2.
+
+- Block storage (equally sized blocks).
+
+- Performance advantage (EBS Encryption with low latency).
+
+- Use case for long-term logs & distribution of mass content.
+
+- Have snapshots of backups for compliance.
+
+- 
+
 
 
 
