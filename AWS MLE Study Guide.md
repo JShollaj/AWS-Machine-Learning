@@ -168,7 +168,7 @@ The main focus should be on the use case, tier and pricing optimization.
 
 The main difference is that:
 
-- Batch load requires processing data over all (or most data) in a dataset with large batches of data. Latency is usually in minutes or hours. (Use BATCH or Glue)
+- Batch load requires processing data over all (or most data) in a dataset with large batches of data. Latency is usually in minutes or hours. (Use BATCH or Glue). AWS Glue is an event driven ETL tool which has many features such as no code, monitoring data quality, data prep etc.
 
 - Streaming processes in real time in micro-batches in seconds or milliseconds for simple functions (Kinesis or MSK).
 
@@ -184,7 +184,7 @@ The main difference is that:
 
 - Managed Service Kafka (MSK) &rarr; Managed Kafka solution if you have existing Kafka solution integrated for the data stream.
 
-**Summary**: For Batch operations we have ETL or massive BATCH operations which we can schedule. We can also deploy open source solutions (f.ex Airflow). For streaming we can use firehose mainly for loading streaming data transfer while data streams for real time ingestion.
+**Summary**: For Batch operations we have GLUE or massive BATCH operations which we can schedule. We can also deploy open source solutions (f.ex Airflow). For streaming we can use firehose mainly for loading streaming data transfer while data streams for real time ingestion.
 
 *Refer [here](https://www.whizlabs.com/blog/aws-kinesis-data-streams-vs-aws-kinesis-data-firehose/) for more details.*
 
