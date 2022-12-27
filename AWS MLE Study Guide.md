@@ -50,3 +50,5 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 **Data Lakes (definition and services)**:
 
 ![Data Lakes in AWS](https://d1.awsstatic.com/Data%20Lake/320x320-what-is-a-data-lake.b32634fa96e91bb5670b885be9428a2c0c40c76d.png) 
+
+Definition: Centralized repository that allows you to store all your structured and unstructured data at any scale.
