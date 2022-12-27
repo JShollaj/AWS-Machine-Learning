@@ -623,6 +623,12 @@ We need to decide based on:
 
 ### **Other Important Concepts**
 
+- Loss Functions (Display whether models show improvement).
+
+- Squared Error (Square of difference between actual and predicted values).
+
+- Gradient Descent (Optimization algorithm where multiple epochs adjust with changing weights to find local/global minima).
+
 
 
 
