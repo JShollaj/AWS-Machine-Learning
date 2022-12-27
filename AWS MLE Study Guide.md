@@ -355,3 +355,6 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 
 ### **Graphing Data:**
 
+Use the [following guide](https://www.sqlbi.com/ref/power-bi-visuals-reference/) for which chart to use for each scenario. A summarized version is as below:
+
+- 
