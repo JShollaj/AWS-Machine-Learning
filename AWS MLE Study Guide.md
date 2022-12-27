@@ -249,7 +249,8 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 ### **Types of missing/corrupt data**
 
-- MCAR &rarr; Missing completely at random (No Pattern)
+- MCAR &rarr; Missing completely at random (No Pattern).
 
-- MAR &rarr; Missing completely at random ()
+- MAR &rarr; Missing completely at random (Usually machine error which can be inferred).
 
+- 
