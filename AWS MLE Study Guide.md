@@ -5,7 +5,7 @@ This is a summarized version of the most important topics derived from the offic
 
 ## Domain 1: Data Engineering
 
-Identify and compare storage mediums, classes and data sources. Know the difference between data engineering concepts such as data lakes, batch load vs streaming data. 
+Identify and compare storage mediums, classes and data sources. Know the difference between data engineering concepts such as data lakes, batch load vs streaming data.
 
 ## Domain 2: Exploratory Data Analysis
 
@@ -19,10 +19,8 @@ Learn when and how to use each algorithm for specific use cases. Main focus on m
 
 Focus on productionizing maintainable and secure ML models through AWS services. Decide when to use out of the box ML models instead of building your own. Learn MLOPs architectures.
 
+(*Tip: Use CTRL+F to navigate to specific term of interest*)
+
 ------
 
-
 ## **Domain 1: Data Engineering**
-
-
-
