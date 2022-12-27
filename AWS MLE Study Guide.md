@@ -180,7 +180,7 @@ The main difference is that:
 
 - Kinesis Data Firehose
 
-- Managed Kafka Service
+- Managed Service Kafka (MSK)
 
 
 
