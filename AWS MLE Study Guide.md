@@ -621,7 +621,7 @@ We need to decide based on:
 
   - Nested (Double CV).
 
-### **Other Important Concepts**
+### **[Other Important Concepts](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/)**
 
 - Loss Functions (Display whether models show improvement).
 
@@ -633,7 +633,24 @@ We need to decide based on:
 
   - Stochastic (Shuffles and constantly aims for new minima) - good, but still slow.
 
-  - Mini-Batch (Less than total data sets) - here we take optimizers.
+  - Mini-Batch (Less than total data sets) - here optimizers come in.
+
+- Types of optimizers:
+
+  - Momentum &rarr; weight parameters updated through previous gradient based on momentum.
+
+  - AdaGrad &rarr; suited for sparse data / adjust properly weights manually.
+
+  - RMSProp &rarr; Better than AdaGrad since adjusts weights automatically faster.
+
+  - Adam &rarr; exploits momentum speed while exponentially decaying average of past grad
+
+### **CPU vs GPU**
+
+- CPU better choice for general, non-DL, small data cases.
+
+- GPU for data with huge volume
+
 
 
 
