@@ -266,3 +266,7 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 - Most use cases are context and case dependent on what the scope or objective is.
 
 ### **Formatting data**
+
+- Choosing the right data format (parquet is usually faster).
+
+- 
