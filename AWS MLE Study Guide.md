@@ -55,12 +55,14 @@ Definition: Centralized repository that allows you to store all your structured 
 
 In a data lake we can perform big data processing and real time analytics for machine learning use cases.
 
-In AWS we use the following services to create a data lake: 
+In AWS we use the following services to create a data lake:  
 
-- S3 (Storage) &rarr; (Standard, IT, IA, One-Zone IA, Glacier, Archive)
+- S3 (Storage) &rarr; (Standard, IT, IA, One-Zone IA, Glacier, Archive).
 
-- Athena (Analytics) &rarr; Use Python/SQL to query data
+- Athena (Analytics) &rarr; Use Python/SQL to query data.
 
-- EMR (Elastic MapReduce) &rarr; Big Data Pipelines for streaming and analytics
+- EMR (Elastic MapReduce) &rarr; Big Data Pipelines for streaming and analytics.
 
-- Lake Formation - CRUD lakes with SQL for security and governance
+- Lake Formation (Governance) &rarr; CRUD lakes with SQL for security and governance.
+
+- Glue (ETL) &rarr; Event driven data integration tool.
