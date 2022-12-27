@@ -563,7 +563,11 @@ We need to decide based on:
 
   - Homoscedasticity (constant variance of error term).
 
-  
+### **[Decision Trees](https://youtu.be/_L39rN6gz7Y)**
+
+- Simple algorithm based on decision for each leaf.
+
+- We can use
 
 
 
