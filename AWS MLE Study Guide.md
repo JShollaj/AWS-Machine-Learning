@@ -156,7 +156,18 @@ Block storage solution which:
 
 **Summary**: We have many options which overlap and are context dependent. For longest term storage follow this pattern:
 
-S3 &rarr; EBS &rarr; EFS (Different tiers based on given context)
+S3 &rarr; EBS &rarr; EFS (Different tiers based on given context).
+
+For higher performance on very small object size we use the listed DBs for each scenario. 
+
+The main focus should be on the use case, tier and pricing optimization.
+
+
+</br>
+
+
+
+
 
 
 
