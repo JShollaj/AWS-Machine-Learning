@@ -176,7 +176,7 @@ The main difference is that:
 
 - Kinesis Video Streams &rarr; Streaming media from connected devices to AWS for storage/ML/Analytics. Fully managed ingestion, storage and processing. Good integration with MXNet, TensorFlow, OpenCV. Best use cases: Smart Home/City & Industrial Automation.
 
-- Kinesis Data Streams &rarr; 
+- Kinesis Data Streams &rarr; Real time read & process data streams
 
 - Kinesis Data Firehose &rarr; 
 
