@@ -71,7 +71,7 @@ In AWS we use the following services to create a data lake:
 
 </br>
 
-**Simple Storage Solution - S3 (definition and main features)**:
+**Simple Storage Solution - S3 (definition and main features)**
 
 Storage solution used for:  
 
@@ -101,3 +101,9 @@ It has the following features:
 </br>
 
 **S3 Storage Classes**
+
+S3 is composed of different tiers, based on the required use case, as follows:
+
+
+
+
