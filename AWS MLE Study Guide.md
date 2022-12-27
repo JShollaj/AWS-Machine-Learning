@@ -567,7 +567,11 @@ We need to decide based on:
 
 - Simple algorithm based on decision for each leaf.
 
-- We can use
+- We can use them when we want easier interpretation (instead of Random Forests).
+
+- Can ne used both for regression & classification.
+
+
 
 
 
