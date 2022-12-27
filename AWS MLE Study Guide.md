@@ -66,3 +66,8 @@ In AWS we use the following services to create a data lake:
 - Lake Formation (Governance) &rarr; CRUD lakes with SQL for security and governance.
 
 - Glue (ETL) &rarr; Event driven data integration tool.
+
+</br>
+
+**Simple Storage Solution - S3 (definition and main features)**:
+
