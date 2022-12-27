@@ -309,5 +309,7 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 Chiefly for text & image based data.
 
 For text data:
+- Synonym replacement (ELmo, BERT).
+- Lexical based replacement (NLTK, Spacy)
 - 
 
