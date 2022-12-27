@@ -433,11 +433,17 @@ When running an ordinary least squared
 
 - Prob (Omnibus) &rarr; Probability of residuals being normally distributed.
 
-- Skew &rarr; Symmetry (0 = Perfect symmetry)
+- Skew &rarr; Symmetry (0 = Perfect symmetry).
 
-- Kurtosis &rarr; (High = Few Outliers)
+- Kurtosis &rarr; (High = Few Outliers).
+
+- Durbin Watson &rarr; [1-2] is the best range for homoscedasticity.
+
+- JB &rarr; Alternative method of measuring normalcy of distribution.
 
 - 
+
+
 
 
 
