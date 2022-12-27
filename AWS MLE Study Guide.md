@@ -7,6 +7,8 @@ Identify and compare storage mediums, classes and data sources. Know the differe
 
 ## Domain 2: Exploratory Data Analysis
 
-Learn how to deal with missing/corrupt data and various preprocessing techniques for NLP/CV. 
+Learn how to deal with missing/corrupt data and various preprocessing techniques for NLP/CV. Learn interpretive descriptive statistics and appropriate graphing
+
+## 
 
 
