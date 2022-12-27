@@ -597,6 +597,29 @@ We need to decide based on:
 
   - Best train/test/split usually around 75/10/15 (Adjusted on variance, data size etc.).
 
+- Cross Validation Steps:
+
+  - Shuffle dataset randomly.
+
+  - Split in k groups.
+
+  - Take holdout (test/training).
+
+  - Fit Model.
+
+  - Summarize skill of model.
+
+- Cross Validation types:
+
+  - Leave-p-out (Using p for validation).
+
+  - Leave-one-out (p=1).
+
+  - Stratified k-fold (good for imbalanced sets, but not time series).
+
+  - Time Series.
+
+  - Nested (Double CV).
 
 
 
