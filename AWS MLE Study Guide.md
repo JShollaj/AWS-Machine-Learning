@@ -9,6 +9,11 @@ Identify and compare storage mediums, classes and data sources. Know the differe
 
 Learn how to deal with missing/corrupt data and various preprocessing techniques for NLP/CV. Learn interpretive descriptive statistics and appropriate graphing
 
-## 
+## Domain 3: Modeling
+
+Learning when and how to use each algorithm for specific use cases. Main focus on main terms and important concepts such as optimizers, hyperparameter tuning and model evaluation.
+
+## Domain 4: Exploratory Data Analysis
+
 
 
