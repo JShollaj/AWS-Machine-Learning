@@ -303,7 +303,6 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Standardization - Individual row based transformation.
 
-
 ### **Data Augmentation Techniques**
 
 Chiefly for text & image based data. For numerical we can use synthetic simulated data.
@@ -327,3 +326,12 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 - Oversampling (GAN, Feature Space, Mixing Images).
 
 - Combination of both.
+
+### **Labeled data:**
+
+- Manual through domain knowledge (customizable against bias).
+
+- Mechanical turk (access to workforce in marketplace).
+
+- Sagemaker Groundtruth Plus (Share data and required labeling & and you get them labeled).
+
