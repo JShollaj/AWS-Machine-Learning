@@ -40,3 +40,11 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 - Neptune (Fraud/Graph) &rarr; Recommenders / Social Networks
 
 - LedgerDB (Ledger) &rarr; Banking / Supply Chain
+
+(Check the [table here]() for a more comprehensive overview)
+
+(Review [2022 ReInvent](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_22xqaqPb13gDRDOq2Sjg4) for appropriate use of storage solutions)
+
+</br>
+
+**Data Lakes (definition and services)**:
