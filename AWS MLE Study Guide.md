@@ -299,3 +299,7 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 ### **Normalization vs Standardization**
 
+- Normalization - End result on all dataset after performing standardization.
+
+- Standardization - Individual row based transformation.
+
