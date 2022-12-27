@@ -397,7 +397,12 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - Other terms to know (Standard Error, Chi Squared Tests).
 
+*To learn more about how to learn and apply basic stats required for the exam try [this repository book](https://github.com/AllenDowney/ThinkStats2)*.
 
-*To learn more about Apache Spark try [this repository book](https://github.com/AllenDowney/ThinkStats2)*
+</br>
+
+### **Interpreting OLS-Stats Summary:**
+
+
 
 
