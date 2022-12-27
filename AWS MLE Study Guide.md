@@ -59,4 +59,6 @@ In AWS we use the following services to create a data lake:
 
 - S3 (Storage) &rarr; (Standard, IT, IA, One-Zone IA, Glacier, Archive)
 
-- Athena (Analytics) &rarr; 
+- Athena (Analytics) &rarr; Use Python/SQL to query data
+
+- EMR (Elastic MapReduce) &rarr; Big Data Pipelines for streaming and analytics
