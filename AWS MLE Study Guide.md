@@ -341,3 +341,17 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 
 ### **Feature Engineering Concepts:**
 
+- Binning (Group breakdown).
+
+- Tokenization (Word / Character breakdown).
+
+- Adding synthetic features.
+
+- One hot Encoding (for categorical).
+
+- PCA
+
+</br>
+
+### **Graphing Data:**
+
