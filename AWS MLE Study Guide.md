@@ -211,5 +211,7 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 
 </br>
 
-## **Domain 2: Data Engineering**
+## **Domain 2: Exploratory Data Analysis**
+
+
 
