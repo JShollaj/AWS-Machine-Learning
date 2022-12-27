@@ -39,3 +39,4 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 - Neptune (Fraud/Graph) &rarr; Recommenders / Social Networks
 
+- LedgerDB (Ledger) &rarr; Banking / Supply Chain
