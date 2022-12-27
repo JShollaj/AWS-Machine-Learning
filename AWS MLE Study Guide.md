@@ -194,6 +194,10 @@ The main difference is that:
 
 Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR has the following features:
 
+- Half-cost (-50%) less cost than on premises solutions.
+
+- 1.7x times faster than Apache Spark.
+
 - 
 
 
