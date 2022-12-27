@@ -104,9 +104,15 @@ It has the following features:
 
 S3 is composed of different tiers, based on the required use case, as follows:
 
-- Standard &rarr; For big data analytics, game applications, dynamic sites etc.
+1. Standard &rarr; For big data analytics, game applications, dynamic sites etc.
 
-- 
+2. Intelligent-Tiering &rarr; Automatically moves to most effective tier.
+
+3. Infrequent-Access &rarr; Less frequent, but rapid access (think backups).
+
+4. Infrequent-Access One Zone &rarr; Single AZ, costs 30% less than IA (less accessed backups)
+
+5. 
 
 
 
