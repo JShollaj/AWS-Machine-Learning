@@ -398,5 +398,6 @@ For a quick refresher you can complete [the following course](https://www.khanac
 - Other terms to know (Standard Error, Chi Squared Tests).
 
 
+*To learn more about Apache Spark try [this repository book](https://github.com/AllenDowney/ThinkStats2)*
 
 
