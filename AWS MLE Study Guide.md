@@ -445,6 +445,10 @@ When running an ordinary least squared
 
 *To learn more about OLS and stats models library interpretation for the exam read [this article](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a)*.
 
+- P-value &rarr; determines how likely is it that data could have occured under null hypothesis by random chance (Lower than 0.05 we reject null and count it as significant).
+
+
+
 
 
 
