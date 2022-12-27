@@ -569,14 +569,28 @@ We need to decide based on:
 
 - We can use them when we want easier interpretation (instead of Random Forests).
 
-- Can ne used both for regression & classification.
-
+- Can be used both for regression & classification.
 
 ### **[Recurrent Neural Networks (RNNs)](https://youtu.be/AsNTP8Kwu80)**
 
 - Neural networks where output from previous step is fed to current input.
 
 - Mainly used for text, speech and generative AI.
+
+### **[Convolutional Neural Networks (CNNs)](https://youtu.be/HGwBXDKFk9I)**
+
+- Use convolution to extract features.
+
+- Has connected layers to make final prediciton.
+
+- Main use: facial recognition, self-driving cars etc.
+
+### **[Transfer Learning](https://youtu.be/yofjFQddwHE)**
+
+- Storing knowledge from previous task to a new taks (f.ex vehicle to bus recognition).
+
+### **Train/Test/Validation and Cross Validation**
+
 
 
 
