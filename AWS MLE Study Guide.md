@@ -447,8 +447,13 @@ When running an ordinary least squared
 
 - P-value &rarr; determines how likely is it that data could have occured under null hypothesis by random chance (Lower than 0.05 we reject null and count it as significant).
 
+</br>
 
+------
 
+</br>
+
+## **Domain 3: Modeling**
 
 
 
