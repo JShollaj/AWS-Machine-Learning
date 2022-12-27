@@ -629,6 +629,11 @@ We need to decide based on:
 
 - Gradient Descent (Optimization algorithm where multiple epochs adjust with changing weights to find local/global minima).
 
+  - Batch/Vanilla (Takes all available training data to find minima) - but its too slow.
+
+  - Stochastic (Shuffles and constantly aims for new minima) - good, but still slow.
+
+  - Mini-Batch (Less than total data sets) - here we take optimizers.
 
 
 
