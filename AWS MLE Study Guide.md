@@ -572,6 +572,12 @@ We need to decide based on:
 - Can ne used both for regression & classification.
 
 
+### **[Recurrent Neural Networks (RNNs)](https://youtu.be/AsNTP8Kwu80)**
+
+- Neural networks where output from previous step is fed to current input.
+
+- Mainly used for text, speech and generative AI.
+
 
 
 
