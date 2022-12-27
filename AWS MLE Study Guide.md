@@ -306,13 +306,24 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 ### **Data Augmentation Techniques**
 
-Chiefly for text & image based data.
+Chiefly for text & image based data. For numerical we can use synthetic simulated data.
 
-For text data:
+**For text data:**
 
 - Synonym replacement (ELmo, BERT).
 
 - Lexical based replacement (NLTK, Spacy).
 
-- Random Insertion.
+- Random Insertion/Deletion/Swapping.
 
+- Backtranslation (F.ex ENG->FR->ENG).
+
+- Generative Models (Text Attack, NLPAug, TextAugment).
+
+**For image data:**
+
+- Data warping (preserves label, geometric/color transformation).
+
+- Oversampling (GAN, Feature Space, Mixing Images).
+
+- Combination of both.
