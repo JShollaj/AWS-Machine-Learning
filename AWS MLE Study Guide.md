@@ -25,7 +25,7 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 ## **Domain 1: Data Engineering**
 
-**Main database storage mediums (and use case)**:
+### **Main database storage mediums (and use case)**
 
 - Aurora, RDS, Redshift (Relational) &rarr; For ERP/CRM
 
@@ -47,7 +47,7 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 </br>
 
-**Data Lakes (definition and services)**:
+### **Data Lakes (definition and services)**
 
 ![Data Lakes in AWS](https://d1.awsstatic.com/Data%20Lake/320x320-what-is-a-data-lake.b32634fa96e91bb5670b885be9428a2c0c40c76d.png) 
 
@@ -71,7 +71,7 @@ In AWS we use the following services to create a data lake:
 
 </br>
 
-**Simple Storage Solution - S3 (definition and main features)**
+### **Simple Storage Solution - S3 (definition and main features)**
 
 Storage solution used for:  
 
@@ -100,7 +100,7 @@ It has the following features:
 
 </br>
 
-**S3 Storage Classes**
+### **S3 Storage Classes**
 
 S3 is composed of different tiers, based on the required use case, as follows:
 
