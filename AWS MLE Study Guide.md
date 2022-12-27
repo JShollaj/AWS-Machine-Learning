@@ -174,13 +174,13 @@ The main difference is that:
 
 **For streaming we have the following services:**
 
-- Kinesis Video Streams
+- Kinesis Video Streams &rarr; Streaming media from connected devices to AWS for storage/ML/Analytics. Fully managed ingestion, storage and processing. Good integration with MXNet, TensorFlow, OpenCV. Best use cases: Smart Home/City & Industrial Automation.
 
-- Kinesis Data Streams
+- Kinesis Data Streams &rarr; 
 
-- Kinesis Data Firehose
+- Kinesis Data Firehose &rarr; 
 
-- Managed Service Kafka (MSK)
+- Managed Service Kafka (MSK) &rarr; 
 
 
 
