@@ -387,8 +387,16 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - Different Distributions (Gaussian, Log Normal, Pareto).
 
-- PDFs (Statistical expression that defines a probability distribution (the likelihood of an outcome) for a discrete random variable (e.g., a stock or ETF).
+- PDF (Statistical expression that defines a probability distribution (the likelihood of an outcome) for a discrete random variable (e.g., a stock or ETF).
 
-- 
+- KDE (Application of kernel smoothing for probability density estimation).
+
+- Raw Moment vs Standardized Moment (moment that is not normalized vs normalized).
+
+- Correlation Methods (Spearmans vs Pearsons).
+
+- Other terms to know (Standard Error, Chi Squared Tests).
+
+
 
 
