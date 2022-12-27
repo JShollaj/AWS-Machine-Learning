@@ -104,6 +104,9 @@ It has the following features:
 
 S3 is composed of different tiers, based on the required use case, as follows:
 
+- Standard &rarr; For big data analytics, game applications, dynamic sites etc.
+
+- 
 
 
 
