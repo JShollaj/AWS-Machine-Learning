@@ -126,9 +126,13 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 Storage solution which:
 
-- Enables sharing data without provisioning & can scale automatically. 
+- Enables sharing data without provisioning & can scale automatically.
 
-- 
+- Supports up thousands of EC2 instances connecting to a file system concurrently.
+
+- Can store petabytes (2^50 bytes).
+
+- Option for EFS Infrequent-Access One Zone &rarr; 
 
 
 
