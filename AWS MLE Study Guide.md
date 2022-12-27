@@ -94,5 +94,7 @@ It has the following features:
 
 - Object Lock &rarr; Prevent object from being overwritten, deleted (WORM - write once, read many)
 
-- Replication &rarr;
+- Replication &rarr; Of objects in buckets (fully managed and elastic)
+
+- 
 
