@@ -303,3 +303,11 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Standardization - Individual row based transformation.
 
+
+### **Data Augmentation Techniques**
+
+Chiefly for text & image based data.
+
+For text data:
+- 
+
