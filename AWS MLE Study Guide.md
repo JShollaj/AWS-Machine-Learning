@@ -505,6 +505,8 @@ When running an ordinary least squared
 
 ### **Selecting Appropriate Model**
 
+Note: Here we are only including some of the main ML/DL models. There are many more which we can find on sites such as hugging face, connected papers etc.
+
 We need to decide based on:
 
 - Regression vs Classification
@@ -512,6 +514,22 @@ We need to decide based on:
 - Type of data
 
 - Scope / Objective
+
+### **[XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E)**
+
+- Tree based model in adjusting weights of weak vs strong learners.
+
+- We use it when:
+
+  - We have large number of observations in training data.
+
+  - Nr. of observations > Nr. of features.
+
+  - Mixture of numeric & categorical (or just numeric).
+
+  - Used for supervised problems.
+
+### **[Logistic Regression](https://youtu.be/yIYKR4sgzI8)**
 
 
 
