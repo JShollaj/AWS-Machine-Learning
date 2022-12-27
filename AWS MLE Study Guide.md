@@ -429,7 +429,11 @@ When running an ordinary least squared
 
 - p|t| &rarr; Uses t-stat to produce p-value (showing statistical significance).
 
-- 
+- Omnibus &rarr; Normalcy of distribution using skwe and curtosis as measurements (0 = perfectly normal).
+
+- Prob (Omnibus) &rarr; Probability of residuals being normally distributed.
+
+
 
 
 
