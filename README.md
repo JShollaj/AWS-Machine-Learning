@@ -4,7 +4,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 ## **Main Resources Used**
 
-- ### [Official Exam Guide](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-certified-machine-learning-specialty-exam-guide )
+- ### [Official Exam Guide](https://github.com/Xns140/AWS-MLE-Docs/blob/master/AWS%20MLE%20Study%20Guide.md)
 
 - ### [AWS Ramp Up Guide](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-ramp-up-guide-machine-learning-2)
 
