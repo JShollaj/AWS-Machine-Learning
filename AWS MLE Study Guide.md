@@ -467,6 +467,14 @@ When running an ordinary least squared
 
 - Team support (Devs, Product, DevOps).
 
+### **Supervised vs Unsupervised Learning**
+
+- Supervised &rarr; has labeled inputs and outputs.
+
+  - Classification (Linear Classifiers, SVM, Decision Trees)
+
+  - 
+
 
 
 
