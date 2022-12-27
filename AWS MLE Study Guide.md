@@ -409,6 +409,12 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - Number of Observations.
 
-- DF Residuals (Degrees of Freedom -> nr of observations - predicted variable - 1)
+- DF Residuals (Degrees of Freedom -> nr of observations - predicted variable - 1).
+
+- DF Model (Predicted Variables).
+
+- Covariance (Type -> Positive / Negative)
+
+- R Squared
 
 
