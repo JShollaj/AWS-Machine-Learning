@@ -649,7 +649,20 @@ We need to decide based on:
 
 - CPU better choice for general, non-DL, small data cases.
 
-- GPU for data with huge volume
+- GPU for data with huge volume, Deep Learning.
+
+### **Distributed vs Non-Distributed ML**
+
+- We should not use SPARK or equivalent solution if:
+
+  - processing pandas time is reasonable.
+
+  - we dont need all data to be processed.
+
+  - we have equivalent solution in cloud (EMR).
+
+  - solution can be implemented with simple SQL.
+
 
 
 
