@@ -135,6 +135,10 @@ Storage solution which:
 - Option for EFS Infrequent-Access One Zone &rarr; Price performance optimized on accessed data (saves up to 92% of file storage).
 
 
+</br>
+
+### **EBS - Elastic Block Store**
+
 
 
 
