@@ -35,4 +35,7 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 - DocumentDB (Document) &rarr; Content Management / User Profiles
 
-- KeySpaces ()
+- KeySpaces (Wide Column) &rarr; Equipments / Fleet / Routes
+
+- Neptune (Fraud/Graph) &rarr; Recommenders / Social Networks
+
