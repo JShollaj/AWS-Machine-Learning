@@ -90,11 +90,11 @@ It has the following features:
 
 - Multi-Region Access points &rarr; route requests based on proximity.
 
-- Object Lambda &rarr; invoking lambda functions to transform objects
+- Object Lambda &rarr; invoking lambda functions to transform objects.
 
-- Object Lock &rarr; Prevent object from being overwritten, deleted (WORM - write once, read many)
+- Object Lock &rarr; Prevent object from being overwritten, deleted (WORM - write once, read many).
 
-- Replication &rarr; Of objects in buckets (fully managed and elastic)
+- Replication &rarr; Of objects in buckets (fully managed and elastic).
 
-- 
+- Analytics &rarr; Using Storage Lens for insights across S3 Objects.
 
