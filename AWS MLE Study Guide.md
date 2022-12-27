@@ -205,8 +205,11 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 
 *To learn more about Apache Spark try [this course](https://www.coursera.org/learn/scala-spark-big-data)*
 
+</br>
 
+------
 
+</br>
 
-
+## **Domain 2: Data Engineering**
 
