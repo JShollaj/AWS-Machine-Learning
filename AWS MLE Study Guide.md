@@ -349,7 +349,7 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 
 - One hot Encoding (for categorical).
 
-- PCA
+- PCA.
 
 </br>
 
@@ -357,4 +357,20 @@ Chiefly for text & image based data. For numerical we can use synthetic simulate
 
 Use the [following guide](https://www.sqlbi.com/ref/power-bi-visuals-reference/) for which chart to use for each scenario. A summarized version is as below:
 
-- 
+- Comparison (Clustered Bar Chart).
+
+- Change over time (Line Chart).
+
+- Ranking (Clustered Bar Chart).
+
+- Flow (Waterfall Chart).
+
+- Part-to-Whole (Clustered Bar Chart).
+
+- Distribution (Clustered Column).
+
+- Correlation (Scatterplot).
+
+
+
+
