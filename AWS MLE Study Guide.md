@@ -98,3 +98,6 @@ It has the following features:
 
 - Analytics &rarr; Using Storage Lens for insights across S3 Objects.
 
+</br>
+
+**S3 Storage Classes**
