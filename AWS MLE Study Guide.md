@@ -289,3 +289,7 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Linear normalization (Base on Max-Min). (X - min(x))/Max(X) - Min(X).
 
+- Clipping normalization (Re-assign Outliers)
+
+- Normalized Standard Deviation (SD/Mean)
+
