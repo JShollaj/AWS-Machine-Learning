@@ -371,6 +371,18 @@ Use the [following guide](https://www.sqlbi.com/ref/power-bi-visuals-reference/)
 
 - Correlation (Scatterplot).
 
+</br>
 
+### **Interpreting Descriptive Statistics:**
+
+For a quick refresher you can complete [the following course](https://www.khanacademy.org/math/statistics-probability).
+
+- Variance (Variability / Spread of distribution).
+
+- Effect Size (Difference between groups).
+
+- PMF (Used to calculate the mean and variance of the discrete distribution).
+
+- 
 
 
