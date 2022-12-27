@@ -110,9 +110,11 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 3. Infrequent-Access &rarr; Less frequent, but rapid access (think backups).
 
-4. Infrequent-Access One Zone &rarr; Single AZ, costs 30% less than IA (less accessed backups)
+4. Infrequent-Access One Zone &rarr; Single AZ, costs 30% less than IA (less accessed backups).
 
-5. 
+5. Glacier (Instant Retrieval) &rarr; For rare access, but retrieval in ms. (online file-sharing).
+
+6. 
 
 
 
