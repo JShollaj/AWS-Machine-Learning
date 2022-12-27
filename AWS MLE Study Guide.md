@@ -203,6 +203,10 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 - Used mainly for big data ML, Clickstream analysis, ETL, etc.
 
 
+*To learn more about Apache Spark try [this course](https://www.coursera.org/learn/scala-spark-big-data)*
+
+
+
 
 
 
