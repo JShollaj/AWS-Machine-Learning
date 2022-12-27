@@ -1,7 +1,7 @@
 
 # **[Official Exam Guide](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-certified-machine-learning-specialty-exam-guide )**
 
-This is a summarized version of the most important topics derived from the official exam guide. Here we follow step by step each key word from the document and bring a high level description and definition for each of them.
+This is a summarized version of the most important topics derived from the official exam guide. Here we follow step by step each key word from the document and bring a high level description and definition for each of them. We have the following main domains to study from:  
 
 ## Domain 1: Data Engineering
 
@@ -21,6 +21,8 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 ------
 
+
+## **Domain 1: Data Engineering**
 
 
 
