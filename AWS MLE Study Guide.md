@@ -162,11 +162,25 @@ For higher performance on very small object size we use the listed DBs for each 
 
 The main focus should be on the use case, tier and pricing optimization.
 
-
 </br>
 
+### **Batch Load vs Streaming**
 
+The main difference is that:
 
+- Batch load requires processing data over all (or most data) in a dataset with large batches of data. Latency is usually in minutes or hours. (Use BATCH or Glue)
+
+- Streaming processes in real time in micro-batches in seconds or milliseconds for simple functions (Kinesis or MSK).
+
+**For streaming we have the following services:**
+
+- Kinesis Video Streams
+
+- Kinesis Data Streams
+
+- Kinesis Data Firehose
+
+- Managed Kafka Service
 
 
 
