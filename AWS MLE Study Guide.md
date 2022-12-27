@@ -233,7 +233,7 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Most frequent value.
 
--Add 'Unknown' or NA.
+- Add 'Unknown' or NA.
 
 - Category specific imputation (f.ex animal for dogs & cats).
 
