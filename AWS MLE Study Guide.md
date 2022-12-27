@@ -283,4 +283,9 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Decimal place (f.ex in excel accounting nr.).
 
-- 
+- Data type normalization (f.ex in excel general to currency).
+
+- Z Score normalization (Normalize relative to Standard Deviation). (Value - Mean) / SD
+
+- Linear normalization (Base on Max-Min). (X - min(x))/Max(X) - Min(X).
+
