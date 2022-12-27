@@ -25,7 +25,7 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 ## **Domain 1: Data Engineering**
 
-**Main storage mediums (and use case)**:
+**Main database storage mediums (and use case)**:
 
 - Aurora, RDS, Redshift (Relational) &rarr; For ERP/CRM
 
@@ -41,10 +41,11 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 - LedgerDB (Ledger) &rarr; Banking / Supply Chain
 
-(Check the [table here]() for a more comprehensive overview)
+(Check the [table here](https://aws.amazon.com/products/databases/) for a more comprehensive overview)
 
 (Review [2022 ReInvent](https://www.youtube.com/playlist?list=PL2yQDdvlhXf_22xqaqPb13gDRDOq2Sjg4) for appropriate use of storage solutions)
 
 </br>
 
 **Data Lakes (definition and services)**:
+
