@@ -49,3 +49,4 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 **Data Lakes (definition and services)**:
 
+![Data Lakes in AWS](https://d1.awsstatic.com/AWS_Analytics_2021_LakeHouse.337c5d294eae24fe954c1d2e93fcda03233dfba4.png) 
