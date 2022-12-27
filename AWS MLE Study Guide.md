@@ -403,7 +403,7 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 ### **Interpreting OLS-Stats Summary:**
 
-When running a ordinary least squared 
+When running an ordinary least squared
 
 - Dep Variable (What we are trying to predict).
 
@@ -422,6 +422,7 @@ When running a ordinary least squared
 - Adjusted R Squared - Penalizes for non-contributing variables.
 
 - F-Stat - Finds out if variables are statistically significant.
+
 
 
 
