@@ -385,6 +385,10 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - CDF (Obtained by summing up the probability density function and getting the cumulative probability for a random variable).
 
+- Different Distributions (Gaussian, Log Normal, Pareto).
+
+- PDFs (Statistical expression that defines a probability distribution (the likelihood of an outcome) for a discrete random variable (e.g., a stock or ETF).
+
 - 
 
 
