@@ -198,7 +198,9 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 
 - 1.7x times faster than Apache Spark.
 
-- 
+- Instant scaling and fully managed resources.
+
+- Used mainly for big data ML, Clickstream analysis, ETL, etc.
 
 
 
