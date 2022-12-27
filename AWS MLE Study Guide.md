@@ -415,6 +415,6 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 - Covariance (Type -> Positive / Negative)
 
-- R Squared
+- R Squared - How 
 
 
