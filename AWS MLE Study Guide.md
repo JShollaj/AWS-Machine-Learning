@@ -246,3 +246,6 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 - Imputation (See Above).
 
 - Predictive model for missing values.
+
+### **How to deal with corrupt data**
+
