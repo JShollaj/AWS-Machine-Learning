@@ -433,7 +433,11 @@ When running an ordinary least squared
 
 - Prob (Omnibus) &rarr; Probability of residuals being normally distributed.
 
+- Skew &rarr; Symmetry (0 = Perfect symmetry)
 
+- Kurtosis &rarr; (High = Few Outliers)
+
+- 
 
 
 
