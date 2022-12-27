@@ -471,9 +471,39 @@ When running an ordinary least squared
 
 - Supervised &rarr; has labeled inputs and outputs.
 
-  - Classification (Linear Classifiers, SVM, Decision Trees)
+  - Classification (Linear Classifiers, SVM, Decision Trees, Random Forests).
 
-  - 
+  - Regression (Linear Regression, Logistic, Polynomial).
+
+- Unsupervised (Clustering Unlabeled Data).
+
+  - Clustering (K-Means &rarr; Grouping on Similarities).
+
+  - Association (F.ex Recommenders).
+
+  - Dimensionality Reduction (Autoencoders / PCA).
+
+- Other differences:
+
+  - Goals (Supervised &rarr; Prediction, Unsuppervised &rarr; Need to make sense).
+
+  - Application (Supervised &rarr; Sentiment/Forecasting, Unsupervised &rarr; Recommenders).
+
+  - Complexity (May vary).
+
+  - Drawbacks (Time, accuracy, domain expertise).
+
+- Semi-Supervised difference:
+
+  - A mix of both methods
+
+  - Uses labeled data for ground predictions & unlabeled data to learn shape of distribution.
+
+  - Self-training (Modifying supervised training to work in semi-supervised way).
+
+  - Use case: Ranking web pages (Google).
+
+
 
 
 
