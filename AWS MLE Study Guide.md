@@ -120,5 +120,18 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 8. Outposts &rarr; pool of AWS compute and storage capacity deployed at a customer site (online multiplayer gaming).
 
+</br>
+
+### **EFS - Elastic File System**
+
+Storage solution which:
+
+- Enables sharing data without provisioning & can scale automatically. 
+
+- 
+
+
+
+
 
 
