@@ -150,7 +150,9 @@ Block storage solution which:
 
 - Have snapshots of backups for compliance.
 
-- 
+- Has automated lifecycle manager based on given policies.
+
+
 
 
 
