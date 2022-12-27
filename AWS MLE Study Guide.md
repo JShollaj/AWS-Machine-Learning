@@ -114,7 +114,7 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 5. Glacier (Instant Retrieval) &rarr; For rare access, but retrieval in ms. (online file-sharing).
 
-6. 
+6. Glacier (Flexible Retrieval) &rarr;
 
 
 
