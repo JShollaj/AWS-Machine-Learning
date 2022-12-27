@@ -82,6 +82,13 @@ Storage solution used for:
 
 It has the following features:  
 
-- Unique Access Points for large, shared datasets (with different restriction policies)
+- Unique Access Points &rarr; for large, shared datasets (with different restriction policies).
 
-- Batch Operations ()
+- Batch Operations &rarr; for modifying object metadata, copy objects, IAM policy management and Lambda functions.
+
+- Block Public Access &rarr; based on bucket or account level.
+
+- Multi-Region Access points &rarr; route requests based on proximity.
+
+- 
+
