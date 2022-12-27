@@ -591,6 +591,13 @@ We need to decide based on:
 
 ### **Train/Test/Validation and Cross Validation**
 
+- Rule of thumb:
+
+  - Training data > 1000k
+
+  - Best train/test/split usually around 75/10/15 (Adjusted on variance, data size etc.).
+
+
 
 
 
