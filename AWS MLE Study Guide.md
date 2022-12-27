@@ -178,7 +178,7 @@ The main difference is that:
 
 - Kinesis Data Streams &rarr; Real time read & process data streams. Use cases: Log Intake, Real Time Metrics/Analytics, Power Events.
 
-- Kinesis Data Firehose &rarr; 
+- Kinesis Data Firehose &rarr; Real time analytics (BI & Dashboards). Can also batch, compress, encrypt & scale.
 
 - Managed Service Kafka (MSK) &rarr; 
 
