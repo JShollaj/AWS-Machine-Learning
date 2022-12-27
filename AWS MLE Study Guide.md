@@ -114,9 +114,9 @@ S3 is composed of different tiers, based on the required use case, as follows:
 
 5. Glacier (Instant Retrieval) &rarr; For rare access, but retrieval in ms. (online file-sharing, disaster recovery).
 
-6. Glacier (Flexible Retrieval) &rarr; For rare access, retrieval 1-5 min (digital media, legacy docs)
+6. Glacier (Flexible Retrieval) &rarr; For rare access, retrieval 1-5 min (digital media, legacy docs).
 
-7. Glacier (Deep Archive) &rarr; 
+7. Glacier (Deep Archive) &rarr; Rare Access, retrieval within 48 hours (legacy docs, low importance - think auditing).
 
 
 
