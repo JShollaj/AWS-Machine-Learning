@@ -403,6 +403,8 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 ### **Interpreting OLS-Stats Summary:**
 
+When running a ordinary least squared 
+
 - Dep Variable (What we are trying to predict).
 
 - Model (Usually OLS).
@@ -416,5 +418,11 @@ For a quick refresher you can complete [the following course](https://www.khanac
 - Covariance (Type -> Positive / Negative)
 
 - R Squared - How much the independent variable is explained by changes in dependent variables.
+
+- Adjusted R Squared - Penalizes for non-contributing variables.
+
+- F-Stat - Finds out if variables are statistically significant.
+
+
 
 
