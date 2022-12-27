@@ -279,6 +279,8 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 
 - Quality > Quantity of data.
 
+</br>
+
 ### **Normalizing data**
 
 - Decimal place (f.ex in excel accounting nr.).
@@ -292,4 +294,8 @@ To deal with missing data we can impute, delete rows/columns or not do anything.
 - Clipping normalization (Re-assign Outliers)
 
 - Normalized Standard Deviation (SD/Mean)
+
+</br>
+
+### **Normalization vs Standardization**
 
