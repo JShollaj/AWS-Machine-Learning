@@ -503,6 +503,16 @@ When running an ordinary least squared
 
   - Use case: Ranking web pages (Google).
 
+### **Selecting Appropriate Model**
+
+We need to decide based on:
+
+- Regression vs Classification
+
+- Type of data
+
+- Scope / Objective
+
 
 
 
