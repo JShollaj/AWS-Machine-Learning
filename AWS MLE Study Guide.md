@@ -192,6 +192,9 @@ The main difference is that:
 
 ### **EMR (Elastic MapReduce)**
 
+Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR has the following features:
+
+- 
 
 
 
