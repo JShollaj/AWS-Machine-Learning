@@ -403,6 +403,12 @@ For a quick refresher you can complete [the following course](https://www.khanac
 
 ### **Interpreting OLS-Stats Summary:**
 
+- Dep Variable (What we are trying to predict).
 
+- Model (Usually OLS).
+
+- Number of Observations.
+
+- DF Residuals (Degrees of Freedom -> nr of observations - predicted variable - 1)
 
 
