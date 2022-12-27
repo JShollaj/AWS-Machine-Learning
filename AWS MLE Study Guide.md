@@ -443,7 +443,7 @@ When running an ordinary least squared
 
 - Condition Number &rarr; Measures multicollinearity 
 
-*To learn more about how to learn and apply basic stats required for the exam try [this repository book](https://github.com/AllenDowney/ThinkStats2)*.
+*To learn more about OLS and stats models library interpretation for the exam read [this article](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a)*.
 
 
 
