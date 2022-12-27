@@ -67,6 +67,8 @@ In AWS we use the following services to create a data lake:
 
 - Glue (ETL) &rarr; Event driven data integration tool.
 
+(Review the [following chart here](https://aws.amazon.com/big-data/datalakes-and-analytics/) for more insights on analytics)
+
 </br>
 
 **Simple Storage Solution - S3 (definition and main features)**:
@@ -82,4 +84,4 @@ It has the following features:
 
 - Unique Access Points for large, shared datasets (with different restriction policies)
 
-- 
+- Batch Operations ()
