@@ -71,3 +71,11 @@ In AWS we use the following services to create a data lake:
 
 **Simple Storage Solution - S3 (definition and main features)**:
 
+Storage solution used for: 
+
+- Data Lakes
+- Back-Ups
+- Apps
+- Archive
+
+It has the following features:
