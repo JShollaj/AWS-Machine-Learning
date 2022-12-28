@@ -690,6 +690,11 @@ We need to decide based on:
     - ![Dropout](https://www.einfochips.com/blog/wp-content/uploads/2019/01/Dropout.png)
 
 
+### **[Hyperparameter Tuning](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide)**
+
+
+
+
 
 
 
