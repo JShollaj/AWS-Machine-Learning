@@ -692,6 +692,7 @@ We need to decide based on:
 
 ### **[Hyperparameter Tuning](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide)**
 
+- Hyperparameter tuning - determining the right combination of hyperparameters that maximizes the model performance.
 
 
 
