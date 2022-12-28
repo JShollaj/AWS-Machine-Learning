@@ -702,7 +702,10 @@ We need to decide based on:
 
   - BayesSearchCV (uses bayesian algorithm to find the minimal point in the minimum number of steps.). Faster than GridSearch & produces better results than RandomizedSearch.
 
-  
+
+### **[Neural Networks in High Level](https://youtu.be/aircAruvnKk)**
+
+
 
 
 
