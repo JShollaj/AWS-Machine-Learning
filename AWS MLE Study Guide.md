@@ -721,6 +721,8 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
   - Use Cross-Validation.
 
+  - ![CV](https://elitedatascience.com/wp-content/uploads/2017/06/Cross-Validation-Diagram-768x295.jpg)
+
   - 
 
 
