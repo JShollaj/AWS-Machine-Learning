@@ -700,7 +700,9 @@ We need to decide based on:
 
   - RandomizedSearchCV (grid of possible values for hyperparameters but each iteration tries a random combination of hyperparameters from this grid). Faster, but lower accuracy.
 
-  - 
+  - BayesSearchCV (uses bayesian algorithm to find the minimal point in the minimum number of steps.). Faster than GridSearch & produces better results than RandomizedSearch.
+
+  
 
 
 
