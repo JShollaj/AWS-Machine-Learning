@@ -745,7 +745,7 @@ Overfitting & Underfitting in a nutshell!
 
   - Increase the model complexity (Parameters f.ex)
 
-  - 
+  - Shuffling data after each epoch (Neural Nets).
 
 
 
