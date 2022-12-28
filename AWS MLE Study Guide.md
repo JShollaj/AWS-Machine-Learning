@@ -675,6 +675,19 @@ We need to decide based on:
 
     ![L2](https://www.einfochips.com/blog/wp-content/uploads/2019/01/L2-Regularization.png)
 
+  - Lasso Regression (L1 Regularization)
+
+    - Uses absolute weight values for normalization
+
+    - Eliminates less important features and sets respective weight values to zero  performing feature selection along with regularization.
+
+    - ![Lasso](https://www.einfochips.com/blog/wp-content/uploads/2019/01/L1-Regularization.png)
+
+  - Dropout (Mainly for Neural Nets)
+
+    - Drop connections with 1-p probability for each of the specified layers. Where p is called **keep probability parameter** and which needs to be tuned.
+
+    - ![Dropout](https://www.einfochips.com/blog/wp-content/uploads/2019/01/Dropout.png)
 
 
 
