@@ -717,6 +717,10 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
 ### **Evaluating Machine Learning Models**
 
+Overfitting & Underfitting in a nutshell!
+
+![Over&Under](https://miro.medium.com/max/720/1*lARssDbZVTvk4S-Dk1g-eA.webp)
+
 - [Avoiding overfitting](https://elitedatascience.com/overfitting-in-machine-learning):
 
   - Use Cross-Validation.
@@ -736,6 +740,8 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 - Avoid Underfitting (Adjust the abovementioned, but on the opposite end).
 
   - Decrease regularization
+
+  - Increase the duration of training
 
   - 
 
