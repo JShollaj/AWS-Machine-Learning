@@ -729,7 +729,13 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
   - ![Stop](https://elitedatascience.com/wp-content/uploads/2017/09/early-stopping-graphic.jpg)
 
-  
+  - Adjust Regularization.
+
+  - Ensemble models (F.ex Bagging & Boosting)
+
+- Avoid Underfitting
+
+  - 
 
 
 
