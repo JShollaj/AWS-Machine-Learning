@@ -692,7 +692,16 @@ We need to decide based on:
 
 ### **[Hyperparameter Tuning](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide)**
 
-- Hyperparameter tuning - determining the right combination of hyperparameters that maximizes the model performance.
+- Hyperparameter tuning determines the right combination of hyperparameters that maximizes the model performance.
+
+- Main Hyperparameter tuning methods:
+
+  - GridSearchCV (a grid of possible values tried in order). Very slow, but the best performing.
+
+  - RandomizedSearchCV (grid of possible values for hyperparameters but each iteration tries a random combination of hyperparameters from this grid). Faster, but lower accuracy.
+
+  - 
+
 
 
 
