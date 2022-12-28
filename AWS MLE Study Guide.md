@@ -705,6 +705,10 @@ We need to decide based on:
 
 ### **[Neural Networks in High Level](https://youtu.be/aircAruvnKk)**
 
+Basic idea is to think in term of brain synapses and how they transmit information.
+
+For neural nets we use various formulas to adjust the layers in which we transmit the information. 
+
 
 
 
