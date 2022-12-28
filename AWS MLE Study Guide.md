@@ -715,6 +715,7 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
 *Note: Watch and keep notes of the 3B1B Neural Network [playlist here](https://youtu.be/aircAruvnKk)*.
 
+### **Evaluating Machine Learning Models**
 
 
 
