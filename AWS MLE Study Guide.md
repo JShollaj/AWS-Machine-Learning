@@ -723,7 +723,13 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
   - ![CV](https://elitedatascience.com/wp-content/uploads/2017/06/Cross-Validation-Diagram-768x295.jpg)
 
-  - 
+  - Train more data.
+
+  - Early stopping algorithm.
+
+  - ![Stop](https://elitedatascience.com/wp-content/uploads/2017/09/early-stopping-graphic.jpg)
+
+  
 
 
 
