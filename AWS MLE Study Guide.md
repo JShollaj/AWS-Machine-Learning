@@ -722,4 +722,3 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
 
 
-
