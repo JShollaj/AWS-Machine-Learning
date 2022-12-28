@@ -743,6 +743,8 @@ Overfitting & Underfitting in a nutshell!
 
   - Increase the duration of training
 
+  - Increase the model complexity (Parameters f.ex)
+
   - 
 
 
