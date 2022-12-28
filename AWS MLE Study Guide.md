@@ -733,7 +733,9 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
   - Ensemble models (F.ex Bagging & Boosting)
 
-- Avoid Underfitting
+- Avoid Underfitting (Adjust the abovementioned, but on the opposite end).
+
+  - Decrease regularization
 
   - 
 
