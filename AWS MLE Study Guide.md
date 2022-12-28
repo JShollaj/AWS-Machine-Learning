@@ -665,7 +665,15 @@ We need to decide based on:
 
 ### **Hyper Parameter Optimization**
 
+- [Regularization](https://www.einfochips.com/blog/regularization-make-your-machine-learning-algorithms-learn-not-memorize/) (Prevents a model from overfitting through regularizing learning).
 
+- 3 main regularization methods:
+
+  - Ridge Regression (L2 Regularization)
+  
+    - Add the sum of weight’s square to a loss function and thus create a new loss function which is denoted thus
+
+    ![L2](https://www.einfochips.com/blog/wp-content/uploads/2019/01/L2-Regularization.png)
 
 
 
