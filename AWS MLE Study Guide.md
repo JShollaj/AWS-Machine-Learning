@@ -717,9 +717,11 @@ For neural nets we use various formulas to adjust the layers in which we transmi
 
 ### **Evaluating Machine Learning Models**
 
-- Avoiding overfitting:
+- [Avoiding overfitting](https://elitedatascience.com/overfitting-in-machine-learning):
 
-    - 
+  - Use Cross-Validation.
+
+  - 
 
 
 
