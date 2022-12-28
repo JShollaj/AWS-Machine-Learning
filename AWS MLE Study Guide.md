@@ -709,6 +709,12 @@ Basic idea is to think in term of brain synapses and how they transmit informati
 
 For neural nets we use various formulas to adjust the layers in which we transmit the information. 
 
+![Brain](https://miro.medium.com/max/640/1*Zx0FP-qA_mlAWqxiQh7ZRw.webp)
+
+![Neuron](https://miro.medium.com/max/640/1*39ZfHWfdv1UNhFFS9dcb1Q.webp)
+
+*Note: Watch and keep notes of the 3B1B Neural Network [playlist here](https://youtu.be/aircAruvnKk)*.
+
 
 
 
