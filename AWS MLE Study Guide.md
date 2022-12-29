@@ -894,6 +894,8 @@ Overfitting & Underfitting in a nutshell!
 
 ### [End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)
 
-- Different according to scale:
+- ![Architecture]()
+
+- Different according to scale(high level summary below):
 
   - 
