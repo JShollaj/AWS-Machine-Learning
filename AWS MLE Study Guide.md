@@ -798,11 +798,16 @@ Overfitting & Underfitting in a nutshell!
   - Number of correct predictions divided by the total number of predictions, multiplied by 100.
 
   - Simplest model (not many insights on distribution or breakdown).
+
+- **Confusion Matrix**
+
+  - Tabular representation of .
+
+  - Simplest model (not many insights on distribution or breakdown).
   
   - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
   
   - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
-
 
 
 
