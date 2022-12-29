@@ -821,6 +821,8 @@ Overfitting & Underfitting in a nutshell!
 
     - Precision &rarr; ratio of true positives to total positives predicted.
 
+    - The close to 1, the better (>0.5 as starting point).
+
     - ![Precision](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Performance-metrics-precision.png?ssl=1)
 
 
