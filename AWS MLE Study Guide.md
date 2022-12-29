@@ -749,6 +749,11 @@ Overfitting & Underfitting in a nutshell!
 
 ### **[Main Metrics](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)**
 
+- Mean Squared Error (MSE)
+
+  - 
+
+  - ![MSE](https://lh5.googleusercontent.com/UU0UymvLgNfq6va2--cOndvalbdcZQX20FuzalU2RR0qxwesRa2pjZesapeFvMnRu39KlVbGIhVk6W6w1C2o_WbwEOYoU9UZtnZCw2eS2hBQbR-4RSShqkMGGCfg9Lr3eVM_1e-8)
 
 
 
