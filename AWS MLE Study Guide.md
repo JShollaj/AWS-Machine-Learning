@@ -841,6 +841,13 @@ Overfitting & Underfitting in a nutshell!
 
   - ![F1](https://lh6.googleusercontent.com/GJd7fTEzlzcUW1z3q7KJrk5FIUwZYnSqIQ-iqejGCR2ANqdUDcvj0bhhvaSI4yfBE0bFDqdNimzRetBO5NL9fljZ0kO-BniYC5U3M_l3nJw2OORUzW6i8w6_iCjXDpyDHenIpi7Z)
 
+- **AUC-ROC (Area under Receiver operating characteristics curve)**
+
+  - Area under the curve between combination of Recall (TPR) & Fallout (FPR) - also knows as ROC.
+
+  - High score &rarr; shows good balance between precision and recall and gives good results on imbalanced classification problems.
+
+  - ![F1](https://lh6.googleusercontent.com/GJd7fTEzlzcUW1z3q7KJrk5FIUwZYnSqIQ-iqejGCR2ANqdUDcvj0bhhvaSI4yfBE0bFDqdNimzRetBO5NL9fljZ0kO-BniYC5U3M_l3nJw2OORUzW6i8w6_iCjXDpyDHenIpi7Z)
 
 
 
