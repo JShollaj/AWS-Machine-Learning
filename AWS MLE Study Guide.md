@@ -761,7 +761,9 @@ Overfitting & Underfitting in a nutshell!
 
   - Average of the difference between the ground truth and the predicted values.
 
-  - 
+  - MAE uses absolute value of the residual (doesnt overestimate errors. However, it doesn’t give us an idea of the direction of the error).
+  
+  - ![MAE](https://lh6.googleusercontent.com/gbSihak-qx9VaNa-ibUqxaIM6mD9nmfwI7wwxK_tRyOfUUGJ_XnH6jU_vcDqD9IgI1disL-cTIELJx5skJZ2uIX6oSC9rG2M8hKoabc4fIoBzJdNg3NkT91GBqH9yabg5sKSf4-J)
 
 
 
