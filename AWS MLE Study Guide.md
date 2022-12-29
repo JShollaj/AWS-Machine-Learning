@@ -859,7 +859,7 @@ Overfitting & Underfitting in a nutshell!
 
   - High computational cost with high number of clusters
 
-  - ![Dunn](https://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Clarge%20Dunn%5C%3A%20index%28U%29%3D%5Cmin_%7B1%5Cleq%20i%5Cleq%20c%7D%5Cleft%20%5C%7B%5Cmin_%7B1%5Cleq%20i%5Cleq%20c%2Cj%5Cneq%20i%7D%5Cleft%20%5C%7B%20%5Cfrac%7B%5Cdelta%20%28x_%7Bi%7D%2Cy_%7Bj%7D%29%7D%7B%5Cmax_%7B1%5Cleq%20k%5Cleq%20c%7D%20%5Cleft%20%5C%7B%20%5CDelta%20%28Xk%29%20%5Cright%20%5C%7D%7D%20%5Cright%20%5C%7D%20%5Cright%20%5C%7D)
+  - ![Dunn](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/Screenshot-from-2019-08-08-15-37-22.png)
 
 - 
 
