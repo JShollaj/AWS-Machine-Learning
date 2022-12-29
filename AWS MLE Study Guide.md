@@ -801,13 +801,15 @@ Overfitting & Underfitting in a nutshell!
 
 - **Confusion Matrix**
 
-  - Tabular representation of .
+  - Tabular representation of ground-truth labels versus model predictions.
 
-  - Simplest model (not many insights on distribution or breakdown).
+  - First we raise a hypothesis &rarr; then decide on True / False labels as below.
   
-  - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
-  
-  - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
+  - ![Confusion Matrix](https://lh5.googleusercontent.com/Zc7lXIYu0XBJG-P_VWLhiyAmWTvUL-CPLcRxiNnJy03JPoIPkJWmdGn4kxFdm6I0MBDBr7tlZW6Wlko5aO--eleGQQoy3yKQJcGSapDRqCf-W3xxiFjnGzNQXBzaHDK-y32lVUvr)
+
+  - The main formulas on a confusion matrix are the following:
+
+    - 
 
 
 
