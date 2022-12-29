@@ -809,7 +809,14 @@ Overfitting & Underfitting in a nutshell!
 
   - The main formulas on a confusion matrix are the following:
 
-    - 
+    - True Positive(TP) number of positive class samples model predicted correctly.
+
+    - True Negative(TN) number of negative class samples model predicted correctly.
+
+    - False Positive(FP) number of positive class samples your model predicted incorrectly (Type-I error).
+
+    - False Negative(FN) number of negative class samples your model predicted incorrectly (Type-II error).
+
 
 
 
