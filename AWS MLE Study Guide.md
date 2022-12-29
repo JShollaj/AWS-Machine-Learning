@@ -768,8 +768,13 @@ Overfitting & Underfitting in a nutshell!
   - ![MAE](https://lh6.googleusercontent.com/gbSihak-qx9VaNa-ibUqxaIM6mD9nmfwI7wwxK_tRyOfUUGJ_XnH6jU_vcDqD9IgI1disL-cTIELJx5skJZ2uIX6oSC9rG2M8hKoabc4fIoBzJdNg3NkT91GBqH9yabg5sKSf4-J)
 
 
-- 
+- **Root Mean Squared Error (RMSE)**
 
+  - square root of the average of the squared difference between the target value and the value predicted - SQRT(MSE)
+
+  - Best of both worlds since its differentiable (like MSE) and less prone to outliers (like MAE).
+  
+  - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
 
 
 
