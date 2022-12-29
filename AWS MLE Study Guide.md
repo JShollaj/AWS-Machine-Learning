@@ -749,6 +749,8 @@ Overfitting & Underfitting in a nutshell!
 
 ### **[Main Metrics](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)**
 
+### **Regression Metrics**
+
 - **Mean Squared Error (MSE)**
 
   - Average of the squared difference between the target value and the value predicted.
