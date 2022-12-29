@@ -863,7 +863,11 @@ Overfitting & Underfitting in a nutshell!
 
 - Silhouette Coefficient
 
-  - 
+  - Tracks how every point in one cluster is close to every point in the other clusters in the range of -1 to +1
+
+  - A score of 1 denotes the best (meaning that the data point i is very compact within the cluster to which it belongs and far away from the other clusters).
+
+  - ![Silhouette](https://editor.analyticsvidhya.com/uploads/59928Untitled.png)
 
 *For deeper understanding I highly recommend **[this book](https://www.amazon.sg/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=asc_df_1449361323/?tag=googleshoppin-22&linkCode=df0&hvadid=389114203157&hvpos=&hvnetw=g&hvrand=9338476164786084356&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062524&hvtargid=pla-448095044074&psc=1)** as a reading complementary resource. **Warning**: Dont use [this source](https://libgen.is/) for it ;)!
 
