@@ -795,9 +795,9 @@ Overfitting & Underfitting in a nutshell!
 
 - **Accuracy**
 
-  - R² can mislead (showing improvement when really we are overfitting).
+  - Number of correct predictions divided by the total number of predictions, multiplied by 100.
 
-  - Adj-R² is adjusted with the number of independent variables.
+  - Simplest model (not many insights on distribution or breakdown).
   
   - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
   
