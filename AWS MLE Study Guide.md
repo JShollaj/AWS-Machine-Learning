@@ -833,6 +833,9 @@ Overfitting & Underfitting in a nutshell!
 
     - ![Summary](https://www.researchgate.net/publication/336402347/figure/fig3/AS:812472659349505@1570719985505/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix.ppm)
 
+- **F1-score**
+
+  - 
 
 
 
