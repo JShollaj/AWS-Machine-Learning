@@ -793,7 +793,7 @@ Overfitting & Underfitting in a nutshell!
 
 ### **Classification Metrics**
 
-- **Adjusted R-Squared (Adj-R²)**
+- **Accuracy**
 
   - R² can mislead (showing improvement when really we are overfitting).
 
