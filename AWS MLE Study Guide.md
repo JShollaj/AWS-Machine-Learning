@@ -871,6 +871,8 @@ Overfitting & Underfitting in a nutshell!
 
 - Elbow Method
 
+  - Determine the number of clusters in a dataset by plotting the number of clusters on the x-axis against the percentage of variance explained on the y-axis.
+
   - 
 
 *For deeper understanding I highly recommend **[this book](https://www.amazon.sg/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=asc_df_1449361323/?tag=googleshoppin-22&linkCode=df0&hvadid=389114203157&hvpos=&hvnetw=g&hvrand=9338476164786084356&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062524&hvtargid=pla-448095044074&psc=1)** as a reading complementary resource. **Warning**: Dont use [this source](https://libgen.is/) for it ;)!
