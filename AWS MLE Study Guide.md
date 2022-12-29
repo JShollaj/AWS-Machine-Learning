@@ -775,17 +775,19 @@ Overfitting & Underfitting in a nutshell!
   
   - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
 
-- **R-Squared (R2)**
+- **R-Squared (R²)**
 
   - Post-metric: How much (what %) of the total variation in Y(target) is explained by the variation in X(regression line). 
 
   - If the sum of Squared Error of the regression line is small => R² will be close to 1 (Ideal), meaning the regression was able to capture 100% of the variance in the target variable.
   
-- **Adjusted R-Squared (Adj-R2)**
+- **Adjusted R-Squared (Adj-R²)**
 
-  - R2 can mislead (showing improvement when really we are overfitting). 
+  - R² can mislead (showing improvement when really we are overfitting).
 
-  - If the sum of Squared Error of the regression line is small => R² will be close to 1 (Ideal), meaning the regression was able to capture 100% of the variance in the target variable.
+  - Adj-R² is adjusted with the number of independent variables.
+  
+  - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
 
 
 
