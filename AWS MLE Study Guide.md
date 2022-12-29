@@ -819,7 +819,9 @@ Overfitting & Underfitting in a nutshell!
 
   - Core formulas we need to know are the following:
 
-    - Precision &rarr; 
+    - Precision &rarr; ratio of true positives to total positives predicted.
+
+    - ![Precision](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Performance-metrics-precision.png?ssl=1)
 
 
 
