@@ -853,7 +853,11 @@ Overfitting & Underfitting in a nutshell!
 
 ### **Clustering Evaluation**
 
-- Dunn Index (identifies clusters that have low variance and are compact. The mean values of the different clusters also need to be far apart).
+- **Dunn Index**
+
+  - Identifies clusters that have low variance and are compact. The mean values of the different clusters also need to be far apart.
+
+  - 
 
 - 
 
