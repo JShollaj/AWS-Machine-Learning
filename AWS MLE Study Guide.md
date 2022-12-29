@@ -891,3 +891,7 @@ Overfitting & Underfitting in a nutshell!
 </br>
 
 ## **Domain 4: Machine Learning Implementation and Operations**
+
+### [End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)
+
+- 
