@@ -759,6 +759,8 @@ Overfitting & Underfitting in a nutshell!
 
 - Mean Absolute Error (MAE)
 
+  - Average of the difference between the ground truth and the predicted values.
+
   - 
 
 
