@@ -807,7 +807,7 @@ Overfitting & Underfitting in a nutshell!
   
   - ![Confusion Matrix](https://lh5.googleusercontent.com/Zc7lXIYu0XBJG-P_VWLhiyAmWTvUL-CPLcRxiNnJy03JPoIPkJWmdGn4kxFdm6I0MBDBr7tlZW6Wlko5aO--eleGQQoy3yKQJcGSapDRqCf-W3xxiFjnGzNQXBzaHDK-y32lVUvr)
 
-  - The main formulas on a confusion matrix are the following:
+  - The components on a confusion matrix are the following:
 
     - True Positive(TP) number of positive class samples model predicted correctly.
 
@@ -816,6 +816,10 @@ Overfitting & Underfitting in a nutshell!
     - False Positive(FP) number of positive class samples your model predicted incorrectly (Type-I error).
 
     - False Negative(FN) number of negative class samples your model predicted incorrectly (Type-II error).
+
+  - Core formulas we need to know are the following:
+
+    - Precision &rarr; 
 
 
 
