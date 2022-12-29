@@ -789,7 +789,7 @@ Overfitting & Underfitting in a nutshell!
   
   - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
   
-  - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
+  - ![RMSE](https://lh3.googleusercontent.com/D3TyYb1YNZKngK6sE01edMDL0u0uyJDlaaiwXu0g9haVWxJ9hqC3T01RUGTqPqelUIgIfBKI_KBAd8NyRVORsRKXmikIOJjv-MMgeka8fRHYNBW5vrVU15wrMTVgsdUrScthMACf)
 
 ### **Classification Metrics**
 
