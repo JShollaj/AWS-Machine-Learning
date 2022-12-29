@@ -829,7 +829,11 @@ Overfitting & Underfitting in a nutshell!
 
     - The close to 1, the better (>0.5 as starting point).
 
-    - ![Recall](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Performance-metrics-recall.png?ssl=1)
+    - Summary of confusion matrix breakdown:
+
+    - ![Summary](https://www.researchgate.net/publication/336402347/figure/fig3/AS:812472659349505@1570719985505/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix.ppm)
+
+
 
 
 
