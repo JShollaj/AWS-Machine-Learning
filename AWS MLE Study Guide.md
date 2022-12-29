@@ -788,7 +788,20 @@ Overfitting & Underfitting in a nutshell!
   - Adj-R² is adjusted with the number of independent variables.
   
   - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
+  
+  - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
 
+### **Classification Metrics**
+
+- **Adjusted R-Squared (Adj-R²)**
+
+  - R² can mislead (showing improvement when really we are overfitting).
+
+  - Adj-R² is adjusted with the number of independent variables.
+  
+  - Adjusts for the increasing predictors and only shows improvement if there is a real improvement.
+  
+  - ![RMSE](https://lh5.googleusercontent.com/pxb5gFdX2WYgW5dAvofM3bGUpJumpr_ATYdTScT3oXB-fXr-wAZ4QTOEjNaWpDtVPyU_Iyv62uJ3HlzAcT6dVj9x5ZgZ246oCgD5zVVOW65EQ8XUnESmVVHRLt7sc5szK4pIXxC_)
 
 
 
