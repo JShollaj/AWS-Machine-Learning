@@ -845,11 +845,12 @@ Overfitting & Underfitting in a nutshell!
 
   - Area under the curve between combination of Recall (TPR) & Fallout (FPR) - also knows as ROC.
 
-  - High score &rarr; shows good balance between precision and recall and gives good results on imbalanced classification problems.
+  - The bigger the area (extending on upper-left corner) the better results.
 
   - ![ROC](https://developers.google.com/static/machine-learning/crash-course/images/ROCCurve.svg)
 
   - ![ROC](https://developers.google.com/static/machine-learning/crash-course/images/AUC.svg)
+
 
 
 
