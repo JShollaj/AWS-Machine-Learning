@@ -747,6 +747,9 @@ Overfitting & Underfitting in a nutshell!
 
   - Shuffling data after each epoch (Neural Nets).
 
+### **[Main Metrics](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)**
+
+
 
 
 
