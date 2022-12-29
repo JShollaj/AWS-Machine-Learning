@@ -749,7 +749,7 @@ Overfitting & Underfitting in a nutshell!
 
 ### **[Main Metrics](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)**
 
-- Mean Squared Error (MSE)
+- **Mean Squared Error (MSE)**
 
   - Average of the squared difference between the target value and the value predicted.
 
@@ -757,13 +757,18 @@ Overfitting & Underfitting in a nutshell!
 
   - ![MSE](https://lh5.googleusercontent.com/UU0UymvLgNfq6va2--cOndvalbdcZQX20FuzalU2RR0qxwesRa2pjZesapeFvMnRu39KlVbGIhVk6W6w1C2o_WbwEOYoU9UZtnZCw2eS2hBQbR-4RSShqkMGGCfg9Lr3eVM_1e-8)
 
-- Mean Absolute Error (MAE)
+- **Mean Absolute Error (MAE)**
 
   - Average of the difference between the ground truth and the predicted values.
 
   - MAE uses absolute value of the residual (doesnt overestimate errors. However, it doesn’t give us an idea of the direction of the error).
   
   - ![MAE](https://lh6.googleusercontent.com/gbSihak-qx9VaNa-ibUqxaIM6mD9nmfwI7wwxK_tRyOfUUGJ_XnH6jU_vcDqD9IgI1disL-cTIELJx5skJZ2uIX6oSC9rG2M8hKoabc4fIoBzJdNg3NkT91GBqH9yabg5sKSf4-J)
+
+
+- 
+
+
 
 
 
