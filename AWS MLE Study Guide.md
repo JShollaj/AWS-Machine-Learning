@@ -892,7 +892,11 @@ Overfitting & Underfitting in a nutshell!
 
 ## **Domain 4: Machine Learning Implementation and Operations**
 
+The following seminars offer an overview on the best patterns to follow for productionizing machine learning: 
+
 1. ### [End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)
 
-2. 
+2. ### [Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)
+
+3. ### [Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)
 
