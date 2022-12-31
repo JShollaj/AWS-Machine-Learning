@@ -908,7 +908,16 @@ Overfitting & Underfitting in a nutshell!
 
   - Sagemaker Endpoint (make real-time inferences via a REST API).
 
-  - 
+  - Create Lambda function to connect through API Gateway.
+
+  **This setup is bad since:**
+
+    a.  We have to manually re-run cells.
+
+    b.  Code is stuck in notebooks (difficult to version & automate).
+
+    c. No autoscaling or feedback.
+
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
