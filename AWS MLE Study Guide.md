@@ -940,11 +940,16 @@ Overfitting & Underfitting in a nutshell!
 
   (To improve automation, we: )
 
-  - Add **(Pipelines, Step-Functions, Airflow)**
+  - Add **(Pipelines, Step-Functions, Airflow)**.
 
-  - Incorporate a scheduled trigger through **EventBridge**
+  - Incorporate a scheduled trigger through **EventBridge**.
 
-  - Create a model registry through Sagemaker (which keeps track of )
+  - Create a model registry through Sagemaker (which keeps track of model metadata such as hyper-tuning parameters).
+
+(Finally, for deployment stage, we: )
+
+  - 
+
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
