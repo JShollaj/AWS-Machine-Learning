@@ -940,7 +940,11 @@ Overfitting & Underfitting in a nutshell!
 
   (To improve automation, we: )
 
-  - Add (Pipelines, Step-Functions, )
+  - Add **(Pipelines, Step-Functions, Airflow)**
+
+  - Incorporate a scheduled trigger through **EventBridge**
+
+  - 
 
 
 
