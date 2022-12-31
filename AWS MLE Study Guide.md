@@ -49,7 +49,7 @@ Focus on productionizing maintainable and secure ML models through AWS services.
 
 ### **Data Lakes (definition and services)**
 
-![Data Lakes in AWS](https://d1.awsstatic.com/Data%20Lake/320x320-what-is-a-data-lake.b32634fa96e91bb5670b885be9428a2c0c40c76d.png) 
+![Data Lakes in AWS](https://d1.awsstatic.com/Data%20Lake/320x320-what-is-a-data-lake.b32634fa96e91bb5670b885be9428a2c0c40c76d.png)
 
 Definition: Centralized repository that allows you to store all your structured and unstructured data at any scale.
 
@@ -158,7 +158,7 @@ Block storage solution which:
 
 S3 &rarr; EBS &rarr; EFS (Different tiers based on given context).
 
-For higher performance on very small object size we use the listed DBs for each scenario. 
+For higher performance on very small object size we use the listed DBs for each scenario.
 
 The main focus should be on the use case, tier and pricing optimization.
 
@@ -201,7 +201,6 @@ Big data analytics platform hosted in AWS used for petabyte scale analytics. EMR
 - Instant scaling and fully managed resources.
 
 - Used mainly for big data ML, Clickstream analysis, ETL, etc.
-
 
 *To learn more about Apache Spark try [this course](https://www.coursera.org/learn/scala-spark-big-data)*
 
@@ -441,7 +440,7 @@ When running an ordinary least squared
 
 - JB &rarr; Alternative method of measuring normalcy of distribution.
 
-- Condition Number &rarr; Measures multicollinearity 
+- Condition Number &rarr; Measures multicollinearity
 
 *To learn more about OLS and stats models library interpretation for the exam read [this article](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a)*.
 
@@ -689,7 +688,6 @@ We need to decide based on:
 
     - ![Dropout](https://www.einfochips.com/blog/wp-content/uploads/2019/01/Dropout.png)
 
-
 ### **[Hyperparameter Tuning](https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide)**
 
 - Hyperparameter tuning determines the right combination of hyperparameters that maximizes the model performance.
@@ -702,12 +700,11 @@ We need to decide based on:
 
   - BayesSearchCV (uses bayesian algorithm to find the minimal point in the minimum number of steps.). Faster than GridSearch & produces better results than RandomizedSearch.
 
-
 ### **[Neural Networks in High Level](https://youtu.be/aircAruvnKk)**
 
 Basic idea is to think in term of brain synapses and how they transmit information.
 
-For neural nets we use various formulas to adjust the layers in which we transmit the information. 
+For neural nets we use various formulas to adjust the layers in which we transmit the information.
 
 ![Brain](https://miro.medium.com/max/640/1*Zx0FP-qA_mlAWqxiQh7ZRw.webp)
 
@@ -777,7 +774,7 @@ Overfitting & Underfitting in a nutshell!
 
 - **R-Squared (R²)**
 
-  - Post-metric: How much (what %) of the total variation in Y(target) is explained by the variation in X(regression line). 
+  - Post-metric: How much (what %) of the total variation in Y(target) is explained by the variation in X(regression line).
 
   - If the sum of Squared Error of the regression line is small => R² will be close to 1 (Ideal), meaning the regression was able to capture 100% of the variance in the target variable.
   
@@ -896,7 +893,7 @@ Overfitting & Underfitting in a nutshell!
 
 </br>
 
-1. **[End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)**
+**[End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)**
 
 - The typical data scientist setup **(which is bad)** is the following:
 
@@ -953,10 +950,13 @@ Overfitting & Underfitting in a nutshell!
   - Add a **Lambda Function** to trigger approval of a model and fetch to endpoint.
 
   - Finally, we add a Cloud Watch to inform through an alarm (if we get error).
-  
-2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
-3. **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
+</br>
+  
+**[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
+
+
+
+**[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
 
 4. **[]
-
