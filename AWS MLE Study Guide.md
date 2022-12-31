@@ -922,7 +922,9 @@ Overfitting & Underfitting in a nutshell!
 
 - **INSTEAD WE CREATE THE FOLLOWING**:
 
-- **
+- **Small team architecture (3-5 data scientists)**
+
+  - 
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
