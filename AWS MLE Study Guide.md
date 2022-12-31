@@ -944,8 +944,7 @@ Overfitting & Underfitting in a nutshell!
 
   - Incorporate a scheduled trigger through **EventBridge**
 
-  - 
-
+  - Create a model registry through Sagemaker (which keeps track of )
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
