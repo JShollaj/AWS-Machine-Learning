@@ -946,11 +946,11 @@ Overfitting & Underfitting in a nutshell!
 
   - Create a model registry through Sagemaker (which keeps track of model metadata such as hyper-tuning parameters).
 
-(Finally, for deployment stage, we: )
+  (Finally, for deployment stage, we: )
+
+  - Add **autoscaling** for the Sagemaker endpoints.
 
   - 
-
-
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
