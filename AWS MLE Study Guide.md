@@ -932,6 +932,12 @@ Overfitting & Underfitting in a nutshell!
 
   - Storing in S3 model artifacts (output, files etc).
 
+  (In addition we:)
+
+  - We use **Code Commit** to store code.
+
+  - 
+
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
