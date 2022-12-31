@@ -924,7 +924,13 @@ Overfitting & Underfitting in a nutshell!
 
 - **Small team architecture (3-5 data scientists)**
 
-  - 
+  (Same initial 3 steps)
+
+  - Configure Data Sources (S3, EFS, RDS, DynamoDB, Redshift, EMR etc).
+
+  - Sagemaker notebooks (getting data from the sources).
+
+  - Storing in S3 model artifacts (output, files etc).
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
