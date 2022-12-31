@@ -904,6 +904,8 @@ Overfitting & Underfitting in a nutshell!
 
   - Sagemaker notebooks (getting data from the sources).
 
+  - Storing in S3 model artifacts (output, files etc).
+
   - 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
