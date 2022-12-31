@@ -922,6 +922,8 @@ Overfitting & Underfitting in a nutshell!
 
 - **INSTEAD WE CREATE THE FOLLOWING**:
 
+
+
   (Same initial 3 steps)
 
   - Configure Data Sources (S3, EFS, RDS, DynamoDB, Redshift, EMR etc).
@@ -952,6 +954,8 @@ Overfitting & Underfitting in a nutshell!
 
   - Finally, we add a Cloud Watch to inform through an alarm (if we get error).
   
+
+
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
 3. **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
