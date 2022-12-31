@@ -932,11 +932,13 @@ Overfitting & Underfitting in a nutshell!
 
   - Storing in S3 model artifacts (output, files etc).
 
-  (In addition we:)
+  (To improve versioning we:)
 
-  - We use **Code Commit** to store code.
+  - Use **Code Commit** to store code.
 
-  - 
+  - Add **ECR** (Elastic-Container-Registry) to store docker container and versioning environments.
+
+
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
