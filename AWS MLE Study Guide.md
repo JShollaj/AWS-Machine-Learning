@@ -906,6 +906,8 @@ Overfitting & Underfitting in a nutshell!
 
   - Storing in S3 model artifacts (output, files etc).
 
+  - Sagemaker Endpoint (make real-time inferences via a REST API).
+
   - 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
