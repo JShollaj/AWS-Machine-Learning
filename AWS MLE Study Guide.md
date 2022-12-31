@@ -918,9 +918,11 @@ Overfitting & Underfitting in a nutshell!
 
     c. No autoscaling or feedback.
 
-- **Instead create the following architectures**:
+</br>
 
-  - 
+- **INSTEAD WE CREATE THE FOLLOWING**:
+
+- **
 
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
