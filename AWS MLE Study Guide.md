@@ -898,6 +898,14 @@ Overfitting & Underfitting in a nutshell!
 
 1. **[End to End - MLOps Architecture Patterns](https://youtu.be/UnAN35gu3Rw)**
 
+- The typical data scientist setup **(which is bad)** is the following:
+
+  - Data Sources (S3, EFS, RDS, DynamoDB, Redshift, EMR etc).
+
+  - Sagemaker notebooks (getting data from the sources).
+
+  - 
+
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
 3. **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
