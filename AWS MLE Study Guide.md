@@ -922,8 +922,6 @@ Overfitting & Underfitting in a nutshell!
 
 - **INSTEAD WE CREATE THE FOLLOWING**:
 
-- **Small team architecture (3-5 data scientists)**
-
   (Same initial 3 steps)
 
   - Configure Data Sources (S3, EFS, RDS, DynamoDB, Redshift, EMR etc).
@@ -950,7 +948,9 @@ Overfitting & Underfitting in a nutshell!
 
   - Add **autoscaling** for the Sagemaker endpoints.
 
-  - 
+  - Add a **Lambda Function** to 
+
+  - Finally, we add a cloud
 
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
