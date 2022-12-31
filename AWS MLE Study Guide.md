@@ -948,10 +948,10 @@ Overfitting & Underfitting in a nutshell!
 
   - Add **autoscaling** for the Sagemaker endpoints.
 
-  - Add a **Lambda Function** to 
+  - Add a **Lambda Function** to trigger approval of a model and fetch to endpoint.
 
-  - Finally, we add a cloud
-
+  - Finally, we add a Cloud Watch to inform through an alarm (if we get error).
+  
 2. **[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
 
 3. **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
