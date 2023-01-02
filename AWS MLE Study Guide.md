@@ -939,9 +939,9 @@ Overfitting & Underfitting in a nutshell!
 
 - [AWS Deep Learning AMIs (DLAMI)](https://aws.amazon.com/machine-learning/amis/resources/)
 
-- AWS DeepLens
+- [AWS DeepLens](https://aws.amazon.com/deeplens/faqs/)
 
-- Amazon Forecast
+- [Amazon Forecast](https://aws.amazon.com/forecast/resources/#Documentation)
 
 - Amazon Fraud Detector
 
