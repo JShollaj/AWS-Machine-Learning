@@ -914,7 +914,27 @@ Compute
 
 - AWS Batch
 
-- Amazon EC2 Containers:Amazon Elastic Container Registry (Amazon ECR)Amazon Elastic Container Service (Amazon ECS)Amazon Elastic Kubernetes Service (Amazon EKS)Database:AWS GlueAmazon RedshiftInternet of Things (IoT):AWS IoT Greengrass
+- Amazon EC2
+
+**Containers:**
+
+- Amazon Elastic Container Registry (Amazon ECR)
+
+- Amazon Elastic Container Service (Amazon ECS)
+
+- Amazon Elastic Kubernetes Service (Amazon EKS)
+
+- Database:
+
+- AWS Glue
+
+- Amazon Redshift
+
+**Internet of Things (IoT):**
+
+- AWS IoT Greengrass
+
+- 
 
 
 ### The following seminars offer an overview on the best patterns to follow for productionizing machine learning
