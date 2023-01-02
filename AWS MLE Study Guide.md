@@ -953,10 +953,7 @@ Overfitting & Underfitting in a nutshell!
 
 </br>
   
-**[Automate MLOps with SageMaker Projects](https://youtu.be/3_cHnk9VSfQ)**
-
-
 
 **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
 
-4. **[]
+
