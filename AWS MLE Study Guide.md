@@ -963,11 +963,11 @@ Overfitting & Underfitting in a nutshell!
 
 - [AWS CloudTrail](https://aws.amazon.com/cloudtrail/faqs/)
 
-- Amazon CloudWatch
+- [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/faqs/)
 
 **Networking and Content Delivery:**
 
-- Amazon VPC
+- [Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 **Security, Identity, and Compliance:**
 
