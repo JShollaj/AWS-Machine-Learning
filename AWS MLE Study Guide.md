@@ -897,8 +897,6 @@ Overfitting & Underfitting in a nutshell!
 
 **Analytics:**
 
-- Sagemaker
-
 - Amazon Athena
 
 - Amazon EMR
