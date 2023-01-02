@@ -937,7 +937,7 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 
-- AWS Deep Learning AMIs (DLAMI)
+- [AWS Deep Learning AMIs (DLAMI)](https://aws.amazon.com/machine-learning/amis/resources/)
 
 - AWS DeepLens
 
