@@ -927,15 +927,15 @@ Overfitting & Underfitting in a nutshell!
 
 - [AWS Glue](https://aws.amazon.com/glue/faqs/)
 
-- [Amazon Redshift]()
+- [Amazon Redshift](https://aws.amazon.com/redshift/)
 
 **Internet of Things (IoT):**
 
-- AWS IoT Greengrass
+- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/faqs/)
 
 **Machine Learning:**
 
-- Amazon Comprehend
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 
 - AWS Deep Learning AMIs (DLAMI)
 
