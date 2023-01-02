@@ -934,8 +934,59 @@ Compute
 
 - AWS IoT Greengrass
 
-- 
+**Machine Learning:**
 
+- Amazon Comprehend
+
+- AWS Deep Learning AMIs (DLAMI)
+
+- AWS DeepLens
+
+- Amazon Forecast
+
+- Amazon Fraud Detector
+
+- Amazon Lex
+
+- Amazon Polly
+
+- Amazon Rekognition
+
+- Amazon SageMaker
+
+- Amazon Textract
+
+- AmazonTranscribe
+
+- Amazon Translate
+
+**Management and Governance:** 
+
+- AWS CloudTrail
+
+- Amazon CloudWatch
+
+**Networking and Content Delivery:**
+
+- Amazon VPC
+
+**Security, Identity, and Compliance:**
+
+- AWS Identity and Access Management (IAM)
+
+**Serverless:**
+
+- AWS Fargate
+
+- AWS Lambda
+
+**Storage:**
+
+- Amazon Elastic File System (Amazon EFS)
+
+- Amazon FSx1
+
+- Amazon S3
 
 ### The following seminars offer an overview on the best patterns to follow for productionizing machine learning
 
