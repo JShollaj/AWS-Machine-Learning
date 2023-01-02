@@ -897,9 +897,9 @@ Overfitting & Underfitting in a nutshell!
 
 **Analytics:**
 
-- Amazon Athena
+- [Amazon Athena](https://aws.amazon.com/athena/faqs/?nc=sn&loc=6)
 
-- Amazon EMR
+- [Amazon EMR](https://aws.amazon.com/emr/faqs/?nc=sn&loc=5)
 
 - Amazon Kinesis Data Analytics
 
