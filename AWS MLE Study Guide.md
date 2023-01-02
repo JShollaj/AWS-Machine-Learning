@@ -917,7 +917,7 @@ Overfitting & Underfitting in a nutshell!
 
 **Containers:**
 
-- Amazon Elastic Container Registry (Amazon ECR)
+- [Amazon Elastic Container Registry (Amazon ECR)](https://aws.amazon.com/ecr/faqs/)
 
 - Amazon Elastic Container Service (Amazon ECS)
 
