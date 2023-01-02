@@ -971,13 +971,13 @@ Overfitting & Underfitting in a nutshell!
 
 **Security, Identity, and Compliance:**
 
-- AWS Identity and Access Management (IAM)
+- [AWS Identity and Access Management (IAM)](https://aws.amazon.com/iam/faqs/?nc=sn&loc=5)
 
 **Serverless:**
 
-- AWS Fargate
+- [AWS Fargate](https://aws.amazon.com/fargate/faqs/?nc=sn&loc=4)
 
-- AWS Lambda
+- [AWS Lambda](https://aws.amazon.com/lambda/faqs/)
 
 **Storage:**
 
