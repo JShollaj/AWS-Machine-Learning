@@ -949,19 +949,19 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon Polly](https://aws.amazon.com/polly/faqs/?nc=sn&loc=8)
 
-- Amazon Rekognition
+- [Amazon Rekognition](https://aws.amazon.com/rekognition/faqs/?nc=sn&loc=7)
 
-- Amazon SageMaker
+- [Amazon SageMaker](https://aws.amazon.com/sagemaker/faqs/?nc=sn&loc=4)
 
-- Amazon Textract
+- [Amazon Textract](https://aws.amazon.com/textract/faqs/)
 
-- AmazonTranscribe
+- [AmazonTranscribe](https://aws.amazon.com/transcribe/faqs/?nc=sn&loc=5)
 
-- Amazon Translate
+- [Amazon Translate](https://aws.amazon.com/translate/faqs/)
 
 **Management and Governance:** 
 
-- AWS CloudTrail
+- [AWS CloudTrail](https://aws.amazon.com/cloudtrail/faqs/)
 
 - Amazon CloudWatch
 
