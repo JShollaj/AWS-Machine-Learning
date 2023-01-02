@@ -943,11 +943,11 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon Forecast](https://aws.amazon.com/forecast/resources/#Documentation)
 
-- Amazon Fraud Detector
+- [Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/faqs/)
 
-- Amazon Lex
+- [Amazon Lex](https://aws.amazon.com/lex/faqs/?nc=sn&loc=6)
 
-- Amazon Polly
+- [Amazon Polly](https://aws.amazon.com/polly/faqs/?nc=sn&loc=8)
 
 - Amazon Rekognition
 
