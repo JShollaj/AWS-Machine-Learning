@@ -919,15 +919,15 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon Elastic Container Registry (Amazon ECR)](https://aws.amazon.com/ecr/faqs/)
 
-- Amazon Elastic Container Service (Amazon ECS)
+- [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/faqs/)
 
-- Amazon Elastic Kubernetes Service (Amazon EKS)
+- [Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/eks/)
 
 - Database:
 
-- AWS Glue
+- [AWS Glue](https://aws.amazon.com/glue/faqs/)
 
-- Amazon Redshift
+- [Amazon Redshift]()
 
 **Internet of Things (IoT):**
 
