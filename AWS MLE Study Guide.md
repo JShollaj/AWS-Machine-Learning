@@ -981,11 +981,11 @@ Overfitting & Underfitting in a nutshell!
 
 **Storage:**
 
-- Amazon Elastic File System (Amazon EFS)
+- [Amazon Elastic File System (Amazon EFS)](https://aws.amazon.com/efs/faq/)
 
-- Amazon FSx1
+- [Amazon FSx1](https://aws.amazon.com/fsx/)
 
-- Amazon S3
+- [Amazon S3](https://aws.amazon.com/s3/faqs/?nc=sn&loc=7)
 
 ### The following seminars offer an overview on the best patterns to follow for productionizing machine learning
 
