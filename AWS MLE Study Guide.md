@@ -903,16 +903,17 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/faqs/?nc=sn&loc=6)
 
-- Amazon Kinesis Data Firehose
+- [Amazon Kinesis Data Firehose](https://aws.amazon.com/kinesis/data-firehose/faqs/?nc=sn&loc=5)
 
-- Amazon Kinesis Data Streams
+- [Amazon Kinesis Data Streams](https://aws.amazon.com/kinesis/data-streams/faqs/?nc=sn&loc=6)
 
-- Amazon QuickSight
-Compute
+- [Amazon QuickSight](https://aws.amazon.com/quicksight/resources/faqs/)
 
-- AWS Batch
+**Compute:**
 
-- Amazon EC2
+- [AWS Batch](https://aws.amazon.com/batch/faqs/?nc=sn&loc=5)
+
+- [Amazon EC2](https://aws.amazon.com/ec2/faqs/)
 
 **Containers:**
 
