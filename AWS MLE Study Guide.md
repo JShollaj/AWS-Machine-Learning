@@ -901,7 +901,7 @@ Overfitting & Underfitting in a nutshell!
 
 - [Amazon EMR](https://aws.amazon.com/emr/faqs/?nc=sn&loc=5)
 
-- Amazon Kinesis Data Analytics
+- [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/faqs/?nc=sn&loc=6)
 
 - Amazon Kinesis Data Firehose
 
