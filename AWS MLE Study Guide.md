@@ -1051,6 +1051,10 @@ Overfitting & Underfitting in a nutshell!
 
 </br>
 
-
-
 **[How to productionize ML workloads at scale](https://youtu.be/fJer8dO3iFU)**
+
+**[AWS re:Invent 2021 - Implementing MLOps practices with Amazon SageMaker, featuring Vanguard](https://youtu.be/fuXUi_hoK78)**
+
+**[Automate MLOps with SageMaker Projects | Amazon Web Services](https://youtu.be/3_cHnk9VSfQ)**
+
+Add more videos here.
