@@ -280,7 +280,9 @@
 
 ### **Machine Learning Terminology and Process**
 
+- **Step 1: Business Problem**
 
+  - 
 
 
 
