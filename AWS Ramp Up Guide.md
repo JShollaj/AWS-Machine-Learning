@@ -468,4 +468,15 @@
 
   - Do we need data or feature **augmentation** ?
 
-    - 
+  - Evaluate how model is performing related to business goals:
+
+    - Accuracy of the model.
+
+    - Interpretability.
+
+    - Model generalization on unseen/unknown data.
+
+    - Business success criteria (KPIs).
+
+
+
