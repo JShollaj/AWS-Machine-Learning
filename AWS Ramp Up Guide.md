@@ -388,6 +388,8 @@
 
     - Quadratic features (combining them together).
 
+    - Non/Linear Feature Transformations
+
 
  
 
