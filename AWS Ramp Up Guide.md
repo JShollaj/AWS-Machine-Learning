@@ -328,7 +328,15 @@
 
     - You can refer here for a comprehensive review of the [**best imputation methods**](https://www.kaggle.com/discussions/general/375794).
 
-  - 
+    </br>
+
+  - Data Shuffling:
+
+    - We dont want to make predictions just based on order (could lead to bias) - so we shuffle.
+
+  - Test/Val/Train Split:
+
+    - 
 
  
 
