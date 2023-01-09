@@ -84,3 +84,11 @@
 
   - **Unsupervised learning** &rarr; training model learns from data without any guidance. The objective is pattern and structure recognition. Could be *clustering* (customer segmentation) or *association* (finding regularities among products).
 
+  ![Unsupervised](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/5qKovKTmhBGq_35e_sJVSOFncmvuWWFhH.png)
+
+  - **Reinforcement learning** &rarr; training model learns from its environment by being rewarded for correct moves and punished for incorrect moves. F.ex *autonomous driving*.
+
+  ![Reinforcement](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/vrGPGbsOPnvY-7Sk_yermJAn8zmHHz8Z6.png)
+
+
+
