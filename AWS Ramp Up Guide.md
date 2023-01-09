@@ -142,23 +142,25 @@
 
 - Checklist requirement for using data:
 
-  - **Availability** (not requiring significant preprocessing).
+  - **Availability** (not requiring significant preprocessing). &check;
 
-  - **Accessibility** (on demand with CRUD capabilities).
+  - **Accessibility** (on demand with CRUD capabilities). &check;
 
-  - **Respect Privacy** (f.ex ethnicity, salary)
+  - **Respect Privacy** (f.ex ethnicity, salary). &check;
 
-  - **Security** (f.ex respect regulations.)
+  - **Security** (f.ex respect regulations). &check;
 
-  - **Relevant** to the scope an project.
+  - **Relevant** to the scope an project. &check;
 
-  - **Fresh** and recent data.
+  - **Fresh** and recent data. &check;
 
-  - **Representative** and encompassing features.
+  - **Representative** and encompassing features. &check;
 
-  - **Unbiased** without agenda.
+  - **Unbiased** without agenda. &check;
 
   
+
+
 
 
 
