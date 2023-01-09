@@ -360,9 +360,17 @@
 
   - **Label** = NOT in training; what we are trying to predict.
 
-  - Types of Visualization:
+  - Types of Visualization for EDA:
 
-    - 
+    - Statistics
+
+    - Scatterplots
+
+    - Histograms
+
+  - Features and target summary:
+
+  
 
 
 
