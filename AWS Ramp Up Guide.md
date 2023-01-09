@@ -436,13 +436,15 @@
 
   - **Evaluation Metrics:**
 
-    - For **regression**: 
+    - For **regression**:
 
-      - Root Mean Square Error (RMSE)
+      - Root Mean Square Error **(RMSE)** - lower is better (use only in test)
 
-      - Mean Absolute Percetage Error (MAPE)
+      - Mean Absolute Percetage Error **(MAPE)** - lower is better (use only in test)
 
-      - R Squared $(R^2)$ - How much better the is the model compared to picking best constant? 
+      - R Squared $(R^2)$ - How much better the is the model compared to picking best constant? **(1 - Model MSE / Variance)**
+
+    - For **classification**:
 
       - 
 
