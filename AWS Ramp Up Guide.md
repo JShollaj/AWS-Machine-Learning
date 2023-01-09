@@ -4,7 +4,7 @@
 
 ### a) Machine Learning Essentials for Business and Technical Decision Makers
 
-- Introduction to Machine Learning: Art of the Possible
+- ### **Introduction to Machine Learning: Art of the Possible**
 
   - ML &rarr; using math to find patterns in data & update model and training data to improve accuracy.
 
@@ -34,7 +34,7 @@
 
 ![ML Flywheel](AWS%20ML%20Flywheel.png)
 
-Amazon uses ML in the following ways:
+**Amazon uses ML in the following ways:**
 
 - Product recommendations and promotions.
 
@@ -42,5 +42,10 @@ Amazon uses ML in the following ways:
 
 - Ship 1.6M packages per day.
 
+**Amazon AI/ML Services:**
 
+- Amazon Forecast: Time series forecasting (just upload data within requirements).
 
+- Amazon Fraud Detector: Fully managed service that spots online payment fraud and creation of fake accounts.
+
+- 
