@@ -290,9 +290,17 @@
 
   - What model could solve most of our issues.
 
+  - Key Elements:
+
+    - Observations (Attributes from dataset)
+
+    - Future Outputs (Labels)
+
+    - 
+
   - Framing ML problem:
 
-    - Binary vs Multiclass
+    - Classification (Binary vs Multiclass)
 
     - 
 
