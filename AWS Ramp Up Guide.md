@@ -194,7 +194,11 @@
 
   - Culture of learning and collaboration.
 
-  - 
+  - Find the right problem.
+
+  - Fail forward (deliberate failure - keep experimenting).
+
+
 
 
 
