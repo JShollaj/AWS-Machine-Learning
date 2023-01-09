@@ -100,7 +100,9 @@
 
   - Unexplainability (Too complex). Or too simplistic (low accuracy).
 
-  - 
+  - Take uncertainty (black swan events into account).
+
+
 
 
 
