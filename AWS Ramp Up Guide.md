@@ -202,7 +202,21 @@
 
   </br>
 
+### **Machine Learning for Business Challenges**
 
+- Key Takeaways:
+
+  - Defining scope of ML problem:
+
+    - Specific business problem we are trying to solve.
+
+    - Current state.
+
+    - What are / what is causing pain points.
+
+    - Impact of the problem.
+
+    - 
 
 
 
