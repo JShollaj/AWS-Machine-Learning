@@ -426,8 +426,13 @@
 
   ![OvervsUnder](https://docs.aws.amazon.com/images/machine-learning/latest/dg/images/mlconcepts_image5.png)
 
+  - Bias vs Variance:
 
-  - 
+    - **Bias**: Difference between average model prediction to target values.
+
+    - **Variance**: Variation in prediction of different models.
+
+    
 
 
 
