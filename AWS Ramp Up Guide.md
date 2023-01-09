@@ -116,7 +116,13 @@
 
     - **Requires personalization** (tailored specific to user).
 
+    - **Requires responsiveness** (response in milliseconds to personalization).
+
+  - We dont need to use ML if:
+
     - 
+
+
 
 
 
