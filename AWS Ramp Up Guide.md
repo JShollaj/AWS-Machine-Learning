@@ -416,6 +416,9 @@
 
     - Decaying too slowly (algorithm bounces around / never converging to an optimum).
 
+</br>
+
+- **Step 8: Model Evaluation**
 
 
 
