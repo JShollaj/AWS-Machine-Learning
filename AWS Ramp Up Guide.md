@@ -396,6 +396,8 @@
 
 - **Step 7: Model Training**
 
+  - Parameters &rarr; tune model to improve performance.
+
   - 
 
 
