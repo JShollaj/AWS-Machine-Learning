@@ -388,7 +388,9 @@
 
     - Quadratic features (combining them together).
 
-    - Non/Linear Feature Transformations
+    - Non/Linear Feature Transformations (log, product/ratio, tree-path).
+
+  
 
 
  
