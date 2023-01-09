@@ -174,8 +174,11 @@
 
 ### **What early questions should I ask in deployment?**
 
+- What is the likely computational cost of generating predictions with your model?
 
+- How quickly does your data change?
 
+- 
 
 
 
