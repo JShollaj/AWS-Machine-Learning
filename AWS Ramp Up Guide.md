@@ -336,7 +336,13 @@
 
   - Test/Val/Train Split:
 
-    - 
+    - Predict new examples (by holding from our dataset).
+
+    - Train ~ 70% of data.
+
+    - Test ~ 20% of data.
+
+    - Validation ~ 10% of data.
 
  
 
