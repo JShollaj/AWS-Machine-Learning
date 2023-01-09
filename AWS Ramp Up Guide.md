@@ -480,5 +480,6 @@
 
     - Business success criteria (KPIs).
 
+</br>
 
-
+![Summary](Summary.png)
