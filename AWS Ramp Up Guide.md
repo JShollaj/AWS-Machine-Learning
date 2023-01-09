@@ -262,7 +262,13 @@
 
 - **Reinforcement** Problem: Training a Robot
 
-  - 
+  - Reward / Punish agent based on choice and reiterate.
+
+  - No presentation of input or output pairs.
+
+  - Agent needs to gather useful experiences.
+
+  - Evaluation is often concurrent with learning.
 
 
 
