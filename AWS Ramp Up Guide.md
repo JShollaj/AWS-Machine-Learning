@@ -248,13 +248,15 @@
 
   - Feature engineering: deciding set of measurements for each instance.
 
-  - Choose model:
+  - Choose classifier model:
 
     - **SVM** (creates a line which separates the data into classes).
 
     - **Naive Bayes** (uses Bayes rule together with a strong assumption that the attributes are conditionally independent).
 
-    - 
+    - **Logistic Regression** (predicts the probability of a binary (yes/no) event).
+
+    - **Deep Neural Networks**
 
 
 
