@@ -4,7 +4,9 @@
 
 ### a) Machine Learning Essentials for Business and Technical Decision Makers
 
-- ### **Introduction to Machine Learning: Art of the Possible**
+### **Introduction to Machine Learning: Art of the Possible**
+
+</br>
 
   - ML &rarr; using math to find patterns in data & update model and training data to improve accuracy.
 
@@ -60,4 +62,6 @@
 
 ### **How does machine learning work?**
 
+- AI: Automate and accelerate tasks performable by humans through natural intelligence. Two types:
 
+  - 
