@@ -202,7 +202,9 @@
 
   </br>
 
-### **Building a Machine Learning Ready Organization**
+### **How do I evaluate my data strategy?**
+
+
 
 
 
