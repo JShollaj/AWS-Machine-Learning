@@ -484,3 +484,10 @@
 
 ![Summary](Summary.png)
 
+---
+
+</br>
+
+### **The Elements of Data Science**
+
+
