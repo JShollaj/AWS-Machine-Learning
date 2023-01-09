@@ -380,6 +380,14 @@
 
 - **Step 6: Feature Engineering**
 
+  - Converts raw data into a higher representation of the data.
+
+  - F.ex moving from non-linearity to linear models.
+
+    - Numeric value binning in to groups (age, salaries etc.)
+
+    - Quadratic features (combining them together).
+
 
  
 
