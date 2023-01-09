@@ -318,7 +318,17 @@
 
   - Data Cleaning:
 
-    - 
+    - Could introduce new variable
+
+    - Remove
+
+    - Or Imputation (best guess)
+
+  - Imputation:
+
+    - You can refer here for a comprehensive review of the [**best imputation methods**](https://www.kaggle.com/discussions/general/375794).
+
+  - 
 
  
 
