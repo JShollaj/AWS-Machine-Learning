@@ -292,11 +292,11 @@
 
   - Key Elements:
 
-    - Observations (Attributes from dataset)
+    - Attributes from dataset &rarr; **Observations**
 
-    - Future Outputs (Labels)
+    - Future Outputs &rarr; **Labels**
 
-    - 
+    - Used attributes to predict labels &rarr; **features**
 
   - Framing ML problem:
 
