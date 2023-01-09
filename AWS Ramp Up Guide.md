@@ -466,4 +466,6 @@
 
 - **Step 9: Business Goal Evaluation**
 
-  - 
+  - Do we need data or feature **augmentation** ?
+
+    - 
