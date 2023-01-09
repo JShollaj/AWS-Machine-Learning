@@ -276,6 +276,15 @@
 
   - Speech to task and automation.
 
+  </br>
+
+### **Machine Learning Terminology and Process**
+
+
+
+
+
+
 
 
 
