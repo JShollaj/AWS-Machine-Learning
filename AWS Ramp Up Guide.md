@@ -68,4 +68,7 @@
 
   - **General** &rarr; AI learns and behaves with intelligence across multiple contexts.
 
-- **ML vs AI: Difference**: Machine learning is a subset of AI
+- **ML vs AI: Difference**: AI ingests data and imitates human knowledge vs ML improves model on training data (subset)
+
+![Difference](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/Omo6IawSrRpBSmQh_EMmcqjVa-JuFe0QF.png)
+
