@@ -150,7 +150,13 @@
 
   - **Security** (f.ex respect regulations.)
 
-  
+  - **Relevant** to the scope an project.
+
+  - **Fresh** and recent data.
+
+  - **Representative** and encompassing features.
+
+  - 
 
 
 
