@@ -462,3 +462,8 @@
 
       - F.ex - In search engine - (Recall is completeness of results, and what fraction of relevancy was found).
 
+      </br>
+
+- **Step 9: Business Goal Evaluation**
+
+  - 
