@@ -410,7 +410,9 @@
 
     - Prevents overfitting by contraining weights to be too small.
 
-  -
+  - **Learning Parameters/Decay Rate** (controls how fast our model learns):
+
+    - 
 
 
 
