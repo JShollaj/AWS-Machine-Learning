@@ -228,7 +228,11 @@
 
     - What are the main features?
 
-    - 
+    - Where is data located?
+
+    - Data quality check?
+
+  - 
 
 
 
