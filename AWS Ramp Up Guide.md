@@ -22,6 +22,8 @@
 
     </br>
 
-  - 
+  - History of Amazon and ML:
+
+![History](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/zcmzaPPidRjKWA2E_UKq5ypWPEFm4XE0D.png)
 
 
