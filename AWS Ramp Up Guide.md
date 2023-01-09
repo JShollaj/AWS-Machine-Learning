@@ -390,7 +390,7 @@
 
     - Non/Linear Feature Transformations (log, product/ratio, tree-path).
 
-  
+    - Domain specific transformation (text/image/web based).
 
 
  
