@@ -94,7 +94,13 @@
 
 ### **What are some potential problems with machine learning?**
 
+- Basically a combination of:
 
+  - Poor Data / Lack of data.
+
+  - Unexplainability (Too complex). Or too simplistic (low accuracy).
+
+  - 
 
 
 
