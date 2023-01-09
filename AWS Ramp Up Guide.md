@@ -32,4 +32,15 @@
 
 **AWS ML Flywheel** - Uses data collected from parts of a business operation, a model to predict future outcomes, and provides ways to continuously improve efficiency.
 
+![ML Flywheel](AWS%20ML%20Flywheel.png)
+
+Amazon uses ML in the following ways:
+
+- Product recommendations and promotions.
+
+- Alexa and voice interactions through NLP.
+
+- Ship 1.6M packages per day.
+
+
 
