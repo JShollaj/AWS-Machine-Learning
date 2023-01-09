@@ -190,6 +190,8 @@
 
   - Have a robust ML strategy.
 
+  - Data strategy.
+
   - 
 
 
