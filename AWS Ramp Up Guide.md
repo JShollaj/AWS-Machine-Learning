@@ -442,7 +442,7 @@
 
       - Mean Absolute Percetage Error (MAPE)
 
-      - R Squared $(R^2)$
+      - R Squared $(R^2)$ - How much better the is the model compared to picking best constant? 
 
       - 
 
