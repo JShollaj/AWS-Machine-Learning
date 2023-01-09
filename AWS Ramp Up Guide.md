@@ -186,7 +186,11 @@
 
 ### **Building a Machine Learning Ready Organization**
 
+- How can I prepare my organization for using ML?
 
+  - Have a robust ML strategy.
+
+  - 
 
 
 
