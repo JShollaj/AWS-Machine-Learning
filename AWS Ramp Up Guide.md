@@ -142,6 +142,10 @@
 
 - Checklist requirement for using data:
 
+  - **Availability** (not requiring significant preprocessing).
+
+  - **Accessibility** (on demand with CRUD capabilities).
+
   - 
 
 
