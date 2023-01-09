@@ -454,18 +454,11 @@
 
     - ROC Curve - For binary classification prediction.
 
+    - **Precision** (How correct under the positive predictions).
 
+      - F.ex - In search engine - (Precision is quality of viewed / relevance)
 
+    - **Recall** (Fraction of the negatives that were wrongly predicted)
 
-
-
-
-
-
-
-
-
-
-
-
+      - F.ex - In search engine - (Recall is completeness of results, and what fraction of relevancy was found).
 
