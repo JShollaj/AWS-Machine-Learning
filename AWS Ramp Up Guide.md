@@ -350,7 +350,15 @@
 
     - Leave-One-Out (Only use one data point as our test sample, run training with other examples) - Expensive
 
-    - K-Fold (For each fold we train the model and keep track of error). 
+    - K-Fold (For each fold we train the model and keep track of error).
+
+    </br>
+
+- **Step 5: Data Visualization and Analysis**
+
+  - 
+
+
 
  
 
