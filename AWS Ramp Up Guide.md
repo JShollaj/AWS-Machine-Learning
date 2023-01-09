@@ -398,9 +398,16 @@
 
   - Parameters &rarr; tune model to improve performance.
 
-  - Loss Function:
+  - **Loss Function** (Calculates how far predictions are from ground truth):
 
-    - 
+    - **Square** (regression, classification).
+
+    - **Hinge** (classification, best for outliers).
+
+    - **Logistic** (classification, best for skewed data).
+
+
+  - 
 
 
 
