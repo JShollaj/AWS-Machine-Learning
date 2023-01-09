@@ -120,7 +120,29 @@
 
   - We dont need to use ML if:
 
-    - 
+    - Can be solved with traditional algorithms.
+
+    - Does not require adapting to new data.
+
+    - Requires 100% accuracy.
+
+    - Requires full interpretability.
+
+- Is my data ready for machine learning?
+
+  - Types of data:
+
+    - Document
+
+    - Audio
+
+    - Images
+
+    - Video
+
+
+
+
 
 
 
