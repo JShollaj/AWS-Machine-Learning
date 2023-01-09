@@ -344,6 +344,12 @@
 
     - Validation ~ 10% of data.
 
+    </br>
+
+  - Cross Validation Techniques:
+
+    - 
+
  
 
 
