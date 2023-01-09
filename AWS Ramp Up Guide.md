@@ -192,6 +192,8 @@
 
   - Data strategy.
 
+  - Culture of learning and collaboration.
+
   - 
 
 
