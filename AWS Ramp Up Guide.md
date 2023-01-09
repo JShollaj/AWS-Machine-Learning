@@ -246,6 +246,8 @@
 
   - We need training data, and groundtruth label.
 
+  - Feature engineering: deciding set of measurements for each instance.
+
   - 
 
 
