@@ -370,6 +370,10 @@
 
   - Features and Target Summary:
 
+    - Numerical & Categorical.
+
+    - Usually check distributions / detect outliers through histograms.
+
     - 
 
 
