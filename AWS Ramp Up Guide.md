@@ -420,7 +420,11 @@
 
 - **Step 8: Model Evaluation**
 
+  - Dont fit training data to obtain maximum accuracy.
 
+    - Overfitting vs Underfitting.
+
+  - 
 
 
 
