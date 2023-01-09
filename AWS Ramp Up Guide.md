@@ -168,7 +168,13 @@
 
 - A typical timeline for ML projects (rough benchmark).
 
-https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673244000/BDtSbQM-16gMctMnquPoiQ/tincan/bfb191eed840c42f824d44e8698b1bac29383d8b/assets/5ASJnvv4cGifR5ml_PZifQ5iNwSxaakX8.png
+![timeline](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673244000/BDtSbQM-16gMctMnquPoiQ/tincan/bfb191eed840c42f824d44e8698b1bac29383d8b/assets/5ASJnvv4cGifR5ml_PZifQ5iNwSxaakX8.png)
+
+</br>
+
+### **What early questions should I ask in deployment?**
+
+
 
 
 
