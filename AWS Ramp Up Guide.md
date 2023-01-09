@@ -412,7 +412,9 @@
 
   - **Learning Parameters/Decay Rate** (controls how fast our model learns):
 
-    - 
+    - Decaying too aggressively (algorithm never reaches the optimum).
+
+    - Decaying too slowly (algorithm bounces around / never converging to an optimum).
 
 
 
