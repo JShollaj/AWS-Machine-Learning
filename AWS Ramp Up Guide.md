@@ -424,8 +424,10 @@
 
     - Overfitting vs Underfitting.
 
-  - 
+  ![OvervsUnder](https://docs.aws.amazon.com/images/machine-learning/latest/dg/images/mlconcepts_image5.png)
 
+
+  - 
 
 
 
