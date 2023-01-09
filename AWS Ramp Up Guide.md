@@ -182,6 +182,14 @@
 
 - Does the model’s performance meet the business need?
 
+</br>
+
+### **Building a Machine Learning Ready Organization**
+
+
+
+
+
 
 
 
