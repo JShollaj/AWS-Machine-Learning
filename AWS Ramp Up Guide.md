@@ -146,7 +146,11 @@
 
   - **Accessibility** (on demand with CRUD capabilities).
 
-  - 
+  - **Respect Privacy** (f.ex ethnicity, salary)
+
+  - **Security** (f.ex respect regulations.)
+
+  
 
 
 
