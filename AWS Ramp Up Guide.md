@@ -236,7 +236,13 @@
 
     - What business metrics define success?
 
-    - 
+    - Trade-offs?
+
+    - Existing baselines (if not, simplest solution)?
+
+    - How important is runtime and performance?
+
+    
 
 
 
