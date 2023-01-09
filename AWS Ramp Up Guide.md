@@ -1,4 +1,4 @@
-# **[Machine Learning Ramp Up Guide](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-ramp-up-guide-machine-learning-2)**
+# **[Machine Learning Ramp Up Guide: Summary](https://training.resources.awscloud.com/get-certified-machine-learning-specialty/aws-ramp-up-guide-machine-learning-2)**
 
 ## **Step 1: Learn AWS Machine Learning (ML) fundamentals**
 
@@ -462,7 +462,9 @@
 
       - F.ex - In search engine - (Recall is completeness of results, and what fraction of relevancy was found).
 
-      </br>
+![PrecisionvsRecall](precisionvsrecall.png)
+
+  </br>
 
 - **Step 9: Business Goal Evaluation**
 
