@@ -348,7 +348,9 @@
 
   - Cross Validation Techniques:
 
-    - 
+    - Leave-One-Out (Only use one data point as our test sample, run training with other examples) - Expensive
+
+    - K-Fold (For each fold we train the model and keep track of error). 
 
  
 
