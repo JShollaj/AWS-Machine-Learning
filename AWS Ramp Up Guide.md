@@ -406,8 +406,11 @@
 
     - **Logistic** (classification, best for skewed data).
 
+  - **Regularization** (Can increase generalization of the model to better fit the data):
 
-  - 
+    - Prevents overfitting by contraining weights to be too small.
+
+  -
 
 
 
