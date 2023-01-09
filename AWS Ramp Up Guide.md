@@ -62,6 +62,10 @@
 
 ### **How does machine learning work?**
 
-- AI: Automate and accelerate tasks performable by humans through natural intelligence. Two types:
+- **AI**: Automate and accelerate tasks performable by humans through natural intelligence. Two types:
 
-  - 
+  - **Narrow** &rarr; AI imitates human intelligence in a single context.
+
+  - **General** &rarr; AI learns and behaves with intelligence across multiple contexts.
+
+  
