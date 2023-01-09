@@ -178,7 +178,9 @@
 
 - How quickly does your data change?
 
-- 
+- How significant are the changes needed to deploy?
+
+- Does the model’s performance meet the business need?
 
 
 
