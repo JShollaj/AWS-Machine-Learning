@@ -158,7 +158,11 @@
 
   - **Unbiased** without agenda. &check;
 
-  
+</br>
+
+### **How will machine learning impact a project timeline?**
+
+- 
 
 
 
