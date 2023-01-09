@@ -376,6 +376,9 @@
 
     - Check correlation through scatterplots.
 
+   </br>
+
+- **Step 6: Feature Engineering**
 
 
  
