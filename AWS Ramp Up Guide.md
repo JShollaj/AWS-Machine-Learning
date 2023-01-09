@@ -248,7 +248,7 @@
 
   - Feature engineering: deciding set of measurements for each instance.
 
-  - Choose classifier model:
+  - Choose classifier model (select the one with higher accuracy on ***validation*** set):
 
     - **SVM** (creates a line which separates the data into classes).
 
@@ -256,7 +256,8 @@
 
     - **Logistic Regression** (predicts the probability of a binary (yes/no) event).
 
-    - **Deep Neural Networks**
+    - **Deep Neural Networks** 
+
 
 
 
