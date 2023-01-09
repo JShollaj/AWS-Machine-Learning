@@ -490,6 +490,24 @@
 
 ## **Step 2.1: Learn Data Platform Engineering on AWS**
 
+### **Machine Learning Security**
+
+---
+
+### **Developing Machine Learning Applications**
+
+---
+
+### **Math for Machine Learning**
+
+---
+
+### **Amazon SageMaker: Build an Object Detection Model Using Images Labeled with Ground Truth**
+
+---
+
+
+
 
 
 
