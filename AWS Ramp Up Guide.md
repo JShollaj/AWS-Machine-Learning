@@ -156,7 +156,9 @@
 
   - **Representative** and encompassing features.
 
-  - 
+  - **Unbiased** without agenda.
+
+  
 
 
 
