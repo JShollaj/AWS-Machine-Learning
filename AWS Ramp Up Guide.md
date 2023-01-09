@@ -68,4 +68,4 @@
 
   - **General** &rarr; AI learns and behaves with intelligence across multiple contexts.
 
-  
+- **ML vs AI: Difference**: Machine learning is a subset of AI
