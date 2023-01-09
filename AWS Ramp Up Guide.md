@@ -26,4 +26,10 @@
 
 ![History](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/zcmzaPPidRjKWA2E_UKq5ypWPEFm4XE0D.png)
 
+**Amazon Flywheel** - How investing in specific key business operations can reinforce other processes and create a positive feedback loop.
+
+![Amazon Flywheel](Amazon%20Flywheel.png)
+
+**AWS ML Flywheel** - Uses data collected from parts of a business operation, a model to predict future outcomes, and provides ways to continuously improve efficiency.
+
 
