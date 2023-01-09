@@ -436,7 +436,15 @@
 
   - **Evaluation Metrics:**
 
-    - 
+    - For **regression**: 
+
+      - Root Mean Square Error (RMSE)
+
+      - Mean Absolute Percetage Error (MAPE)
+
+      - R Squared $(R^2)$
+
+      - 
 
 
 
