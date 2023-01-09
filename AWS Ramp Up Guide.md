@@ -282,8 +282,23 @@
 
 - **Step 1: Business Problem**
 
-  - 
+  - What are we trying to solve (see scope,input and output above).
 
+  </br>
+
+- **Step 2: Machine Learning Problem**
+
+  - What model could solve most of our issues.
+
+  - Framing ML problem:
+
+    - Binary vs Multiclass
+
+    - 
+
+  - ![sklearnguide](https://scikit-learn.org/stable/_static/ml_map.png)
+
+ 
 
 
 
