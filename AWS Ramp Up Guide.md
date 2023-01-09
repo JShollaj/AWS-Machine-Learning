@@ -48,4 +48,12 @@
 
 - Amazon Fraud Detector: Fully managed service that spots online payment fraud and creation of fake accounts.
 
+- Amazon Personalize: Recommender where you select a training algorithm to use on the data, solution model training, and solution deployment.
+
+- Amazon Polly: Text to speech.
+
+- Amazon Transcribe: Speech to text (Polly's opposite).
+
 - 
+
+
