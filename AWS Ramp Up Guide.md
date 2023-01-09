@@ -270,6 +270,12 @@
 
   - Evaluation is often concurrent with learning.
 
+  </br>
+
+- **Automating Speech Tasks** Problem: Pollexy
+
+  - Speech to task and automation.
+
 
 
 
