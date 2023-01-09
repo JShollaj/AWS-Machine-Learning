@@ -356,7 +356,13 @@
 
 - **Step 5: Data Visualization and Analysis**
 
-  - 
+  - **Feature** = Attribute in training dataset.
+
+  - **Label** = NOT in training; what we are trying to predict.
+
+  - Types of Visualization:
+
+    - 
 
 
 
