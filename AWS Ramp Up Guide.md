@@ -162,9 +162,15 @@
 
 ### **How will machine learning impact a project timeline?**
 
-- Machine learning project expectations (weeks up to months).
+- Machine learning project expectations (weeks up to months). Keep track of model drift (changes in data distribution)!
 
 ![Lifecycle](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673244000/BDtSbQM-16gMctMnquPoiQ/tincan/bfb191eed840c42f824d44e8698b1bac29383d8b/assets/ToDGeO4MF-OKVaEm_LWVgwfitLKRtwY05.png)
+
+- A typical timeline for ML projects (rough benchmark).
+
+https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673244000/BDtSbQM-16gMctMnquPoiQ/tincan/bfb191eed840c42f824d44e8698b1bac29383d8b/assets/5ASJnvv4cGifR5ml_PZifQ5iNwSxaakX8.png
+
+
 
 
 
