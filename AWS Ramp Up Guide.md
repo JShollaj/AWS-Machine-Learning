@@ -374,7 +374,7 @@
 
     - Usually check distributions / detect outliers through histograms.
 
-    - 
+    - Check correlation through scatterplots.
 
 
 
