@@ -446,9 +446,9 @@
 
     - For **classification**:
 
-      - Confusion Matrix:
+- Confusion Matrix:
 
-  ![CF](https://www.researchgate.net/profile/Sebastian-Bittrich/publication/330174519/figure/fig1/AS:711883078258689@1546737560677/Confusion-matrix-Exemplified-CM-with-the-formulas-of-precision-PR-recall-RE.png)
+  - ![CF](https://www.researchgate.net/profile/Sebastian-Bittrich/publication/330174519/figure/fig1/AS:711883078258689@1546737560677/Confusion-matrix-Exemplified-CM-with-the-formulas-of-precision-PR-recall-RE.png)
 
   - How many data points were classified correctly and incorrectly.
 
