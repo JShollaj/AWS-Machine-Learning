@@ -206,7 +206,7 @@
 
 - Key Takeaways:
 
-  - Defining scope of ML problem:
+  - Defining **scope** of ML problem:
 
     - Specific business problem we are trying to solve.
 
@@ -215,6 +215,18 @@
     - What are / what is causing pain points.
 
     - Impact of the problem.
+
+    - How do we define success.
+
+  - **Input gathering**
+
+    - Do we have sufficient data?
+
+    - Is there labeled data?
+
+    - How difficult to obtain labeled data?
+
+    - What are the main features?
 
     - 
 
