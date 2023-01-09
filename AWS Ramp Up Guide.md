@@ -242,7 +242,11 @@
 
     - How important is runtime and performance?
 
-    
+- Image **Classification** Problem:
+
+  - We need training data, and groundtruth label.
+
+  - 
 
 
 
