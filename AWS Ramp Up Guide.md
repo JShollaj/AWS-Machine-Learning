@@ -106,6 +106,17 @@
 
 ### **Planning a Machine Learning Project**
 
+- Is a machine learning solution appropriate for my problem?
+
+  - Requires 4 main components:
+
+    - **Complex logic** (f.ex recommender).
+
+    - **Requires scalability** (f.ex personalized recommendations to million users).
+
+    - **Requires personalization** (tailored specific to user).
+
+    - 
 
 
 
