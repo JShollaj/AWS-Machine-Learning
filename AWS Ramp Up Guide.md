@@ -300,11 +300,23 @@
 
   - Framing ML problem:
 
-    - Classification (Binary vs Multiclass)
-
-    - 
-
   - ![sklearnguide](https://scikit-learn.org/stable/_static/ml_map.png)
+
+- **Step 3: Develop Datasets**
+
+  - Data collection and integration
+
+  - 3 different types:
+
+    - **Structured** (Organized in tabular/databases)
+
+    - **Semi-Structured** (semi - csv, json)
+
+    - **Unstructured** (video, image etc.)
+
+- **Step 4: Data Preparation**
+
+  - 
 
  
 
