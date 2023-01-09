@@ -434,8 +434,9 @@
 
   ![BiasvsVariance](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/images/bias_variance/bullseye.png)
 
+  - **Evaluation Metrics:**
 
-
+    - 
 
 
 
