@@ -54,6 +54,7 @@
 
 - Amazon Transcribe: Speech to text (Polly's opposite).
 
-- 
+- Amazon SageMaker: Think of Jupyter lab on steroids.
+
 
 
