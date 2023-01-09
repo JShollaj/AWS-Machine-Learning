@@ -484,10 +484,12 @@
 
 ![Summary](Summary.png)
 
----
-
 </br>
 
-### **The Elements of Data Science**
+---
+
+## **Step 2.1: Learn Data Platform Engineering on AWS**
+
+
 
 
