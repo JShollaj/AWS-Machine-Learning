@@ -194,9 +194,15 @@
 
   - Culture of learning and collaboration.
 
-  - Find the right problem.
+  - Find the right problem (data, complexity, ).
 
   - Fail forward (deliberate failure - keep experimenting).
+
+  - Scale beyond proofs of concept (POC).
+
+  </br>
+
+### **Building a Machine Learning Ready Organization**
 
 
 
