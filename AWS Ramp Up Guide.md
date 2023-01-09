@@ -392,9 +392,11 @@
 
     - Domain specific transformation (text/image/web based).
 
+   </br>
 
- 
+- **Step 7: Model Training**
 
+  - 
 
 
 
