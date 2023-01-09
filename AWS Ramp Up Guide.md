@@ -218,7 +218,7 @@
 
     - How do we define success.
 
-  - **Input gathering**
+  - **Input** gathering:
 
     - Do we have sufficient data?
 
@@ -232,7 +232,11 @@
 
     - Data quality check?
 
-  - 
+  - **Output** definitions:
+
+    - What business metrics define success?
+
+    - 
 
 
 
