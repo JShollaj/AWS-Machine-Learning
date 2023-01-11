@@ -634,7 +634,7 @@
 
   - **AWS Security Hub** &rarr; aggregates, organizes, and prioritizes security alerts from multiple services.
 
-  
+  - **AWS Config** &rarr; detects non-compliance configurations (current or historical).
 
 ---
 
