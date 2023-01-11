@@ -542,7 +542,11 @@
 
   - Data center security layers:
 
+    - Perimeter Layer (Buildings, Surveilance)
+    
     - 
+
+
 
 ---
 
