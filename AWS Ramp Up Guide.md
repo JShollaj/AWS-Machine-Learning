@@ -498,13 +498,15 @@
 
   - **Implement a strong identity** foundation (Least privilege / enforce separation of duties).
 
-  - **Enable traceability** (Monitor alerts / audit actions / integrate oges)
+  - **Enable traceability** (Monitor alerts / audit actions / integrate logs).
 
-  - **Apply security at all layers** (defense-in-depth approach)
+  - **Apply security at all layers** (defense-in-depth approach).
 
-  - **Automate security best practices** (code version-controlled templates)
+  - **Automate security best practices** (code version-controlled templates).
 
-  - 
+  - **Protect data at rest and in transit** (use encryption / access control).
+
+  - **Enforce the principle of least privilege** ()
 
 ---
 
