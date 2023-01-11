@@ -632,7 +632,9 @@
 
   - **AWS Trusted Advisor** &rarr; gives feedback on optimizing resources and services.
 
-  - 
+  - **AWS Security Hub** &rarr; aggregates, organizes, and prioritizes security alerts from multiple services.
+
+  
 
 ---
 
