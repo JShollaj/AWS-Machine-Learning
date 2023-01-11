@@ -508,7 +508,7 @@
 
   - **Enforce the principle of least privilege** (Deny everything, and give access only to needed).
 
-  - **Prepare for security events** (Incident management)
+  - **Prepare for security events** (Incident management / Simulations)
 
 ---
 
