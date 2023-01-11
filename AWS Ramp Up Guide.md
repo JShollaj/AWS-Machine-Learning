@@ -658,7 +658,9 @@
 
   - **Amazon Macie** &rarr; uses machine learning to automatically discover, classify, and protect sensitive data in AWS. (Provides dashboards & alerts).
 
-  - **AWS KMS** &rarr; 
+  - **AWS KMS** &rarr; create and control the keys used in data encryption (avoid infinite loop of creating encrypted keys).
+
+  - 
 
 ---
 
