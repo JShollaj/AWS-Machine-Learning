@@ -558,6 +558,8 @@
 
 - Entry Points on AWS (Concepts):
 
+  - Endpoint &rarr; URL of the entry point for an AWS web service.
+
   - 
 
 
