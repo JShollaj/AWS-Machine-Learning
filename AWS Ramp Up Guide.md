@@ -638,7 +638,7 @@
 
 - Services for Infrastructure Protection
 
-  - 
+  - **AWS Systems Manager** &rarr; secure end-to-end management solutions (applications, operations, change, Node).
 
 ---
 
