@@ -506,7 +506,9 @@
 
   - **Protect data at rest and in transit** (use encryption / access control).
 
-  - **Enforce the principle of least privilege** ()
+  - **Enforce the principle of least privilege** (Deny everything, and give access only to needed).
+
+  - **Prepare for security events** (Incident management)
 
 ---
 
