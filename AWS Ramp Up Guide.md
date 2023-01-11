@@ -650,7 +650,9 @@
 
 - AWS Services for Data Protection
 
- - 
+  - **AWS CloudHSM** &rarr; generate, store, import, export, and manage cryptographic keys.
+
+  - 
 
 ---
 
