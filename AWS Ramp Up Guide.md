@@ -624,7 +624,9 @@
 
     - Events tracks activity level of Cloudwatch rule collections.
 
-  - **VPC Flow Logs** 
+  - **VPC Flow Logs** &rarr; ensures network access rules are configured properly.
+
+  - 
 
 ---
 
