@@ -498,7 +498,9 @@
 
   - **Implement a strong identity** foundation (Least privilege / enforce separation of duties).
 
-  - **Enable traceabilit**y (Monitor alerts / audit actions / integrate oges)
+  - **Enable traceability** (Monitor alerts / audit actions / integrate oges)
+
+  - **Apply security at all layers** (defense-in-depth approach)
 
   - 
 
