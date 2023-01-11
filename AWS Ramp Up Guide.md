@@ -524,7 +524,9 @@
 
     - [**Shared Responsibility Model**](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
+- AWS Global Infrastructure
 
+  -  
 
 ---
 
