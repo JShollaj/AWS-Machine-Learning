@@ -624,7 +624,7 @@
 
     - Events tracks activity level of Cloudwatch rule collections.
 
-    - VPC Flow Logs 
+  - **VPC Flow Logs** 
 
 ---
 
