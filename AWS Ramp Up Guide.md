@@ -574,6 +574,10 @@
 
     - password policy (rules f.ex special char)
 
+    - Multi-factor authentication (MFA)
+
+    - Access Keys (access key ID and a secret key)
+
     - 
 
 
