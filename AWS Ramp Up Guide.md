@@ -492,7 +492,9 @@
 
 ### **Machine Learning Security**
 
+### a) AWS Security Fundamentals
 
+- 
 
 ---
 
