@@ -494,7 +494,9 @@
 
 ### a) AWS Security Fundamentals
 
-- 
+- Cloud security principles:
+
+  - 
 
 ---
 
