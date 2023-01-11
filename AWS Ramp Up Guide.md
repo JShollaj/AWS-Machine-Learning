@@ -646,6 +646,8 @@
 
   - **AWS CloudFormation** &rarr; automates and simplifies the task of repeatedly creating and deploying AWS resources.
 
+  - **Amazon Inspector** &rarr; assesses applications for vulnerabilities or deviations from best practices (gives list based on severity).
+
 ---
 
 ### **Developing Machine Learning Applications**
