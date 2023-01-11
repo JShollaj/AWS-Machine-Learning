@@ -578,7 +578,13 @@
 
     - Access Keys (access key ID and a secret key)
 
-    - 
+    - EC2 Key Pair
+
+- Services you need to know related to IAM:
+
+  - AWS Secrets Manager &rarr; manages credentials, passwords, third-party API keys, and even arbitrary text
+
+  - 
 
 
 
