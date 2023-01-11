@@ -628,7 +628,7 @@
 
   - **Cloudtrail** &rarr; keeps track of API calls.
 
-  - **Amazon GuardDuty** &rarr; 
+  - **Amazon GuardDuty** &rarr; uses ML to report unusual API calls or unauthorized deployments. 
 
 ---
 
