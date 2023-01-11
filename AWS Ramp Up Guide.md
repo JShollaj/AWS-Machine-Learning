@@ -622,7 +622,9 @@
 
     - Logs monitors operating systems and applications (as well as phrases, patterns, values).
 
-    - 
+    - Events tracks activity level of Cloudwatch rule collections.
+
+    - VPC Flow Logs 
 
 ---
 
