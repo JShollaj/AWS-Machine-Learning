@@ -526,7 +526,7 @@
 
 - AWS Global Infrastructure
 
-  -  
+  - $Data Center \subset Availability Zone \subset Regions$ 
 
 ---
 
