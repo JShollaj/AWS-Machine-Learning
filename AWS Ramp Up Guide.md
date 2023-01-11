@@ -616,7 +616,9 @@
 
   - **S3** &rarr; through access logs
   
-  - **Elastic Load Balancer** &rarr; 
+  - **Elastic Load Balancer** &rarr; log captures IP addresses, latency & server responses.
+
+  - 
 
 ---
 
