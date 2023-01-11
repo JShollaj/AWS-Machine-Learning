@@ -606,6 +606,10 @@
 
       - TIP - Track changes to AWS resources, including creation, modification, and deletion of AWS resources. (Make sure no one can cover tracks).
 
+  - Use **CloudWatch**  to monitor resources and logs, send notifications, and initiate automated actions.
+
+  
+
 ---
 
 ### **Developing Machine Learning Applications**
