@@ -552,7 +552,9 @@
 
 - Compliance and Governance
 
-  - 
+  - [**AWS Artifact**](https://aws.amazon.com/artifact/) -  no-cost, self-service portal for access to the AWS security and compliance reports and select online agreements (**SOC/PCI**)
+
+  
 
 ---
 
