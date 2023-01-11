@@ -642,7 +642,9 @@
 
   - **AWS Firewall Manager** &rarr; configure and manage AWS WAF rules.
 
-  - 
+  - **AWS Direct Connect** &rarr; securely connect AWS with on premises.
+
+  - **AWS CloudFormation** &rarr; automates and simplifies the task of repeatedly creating and deploying AWS resources.
 
 ---
 
