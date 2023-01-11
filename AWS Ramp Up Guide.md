@@ -618,7 +618,11 @@
   
   - **Elastic Load Balancer** &rarr; log captures IP addresses, latency & server responses.
 
-  - 
+  - **Cloudwatch Logs & Events**
+
+    - Logs monitors operating systems and applications (as well as phrases, patterns, values).
+
+    - 
 
 ---
 
