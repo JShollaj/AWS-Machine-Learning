@@ -590,7 +590,9 @@
 
   - **Temporary, limited-privilege credentials for IAM users** &rarr; domain resource management built on actual Microsoft Active Directory.
 
-  - ****
+  - **AWS Organizations** &rarr; manage and enforce policies for multiple AWS accounts
+
+  - **Amazon Cognito** &rarr; 
 
 
 
