@@ -656,7 +656,7 @@
 
   - **AWS Certificate Manager** &rarr; creates *SSL/TLS* certificates for your AWS based websites and applications.
 
-  - ****
+  - **Amazon Macie**  &rarr; uses machine learning to automatically discover, classify, and protect sensitive data in AWS. (Provides dashboards & alerts).
 
 ---
 
