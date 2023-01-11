@@ -546,12 +546,9 @@
 
     - Environmental Layer (Safe from flooding, natural disasters etc.)
 
-    - Infrastructure Layer (HVAC system, and fire suppression equipment)
+    - Infrastructure Layer (HVAC system, and fire suppression equipment).
 
-    - 
-
-
-
+    - Data Layer (Shared responsibility / NIST800-88 techniques / Auditing).
 
 
 ---
