@@ -666,7 +666,9 @@
 
   - **Amazon CloudFront** &rarr; content delivery network (CDN) service that can deliver data, including entire website, to end users.
 
-  - **AWS Shield** &rarr; 
+  - **AWS Shield** &rarr; DDoS protection service that safeguards web applications that run on AWS.
+
+  - **AWS Web Application Firewall (WAF)** &rarr; helps protect web applications  control over which traffic to allow or block by defining customizable web security rules.
 
 ---
 
