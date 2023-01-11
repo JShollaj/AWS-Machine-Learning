@@ -608,6 +608,10 @@
 
   - Use **CloudWatch**  to monitor resources and logs, send notifications, and initiate automated actions.
 
+  Example of CloudWatch remediation:
+
+  ![Cloudwatch](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673445600/-e58pODQVrD0EPW11nw7PA/tincan/842b44ce18500c7e75f3c09fb3a74da4d121de2f/assets/w3YSCbvi0z905BU__Roqy_g34KZ-lDIXq.png)
+
   
 
 ---
