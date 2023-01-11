@@ -626,7 +626,9 @@
 
   - **VPC Flow Logs** &rarr; ensures network access rules are configured properly.
 
-  - 
+  - **Cloudtrail** &rarr; keeps track of API calls.
+
+  - **Amazon GuardDuty** &rarr; 
 
 ---
 
