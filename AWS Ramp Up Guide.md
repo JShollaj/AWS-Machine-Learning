@@ -604,6 +604,8 @@
   
     - Check IAM user / When / Where / What happened (response element).
 
+      - TIP - Track changes to AWS resources, including creation, modification, and deletion of AWS resources. (Make sure no one can cover tracks).
+
 ---
 
 ### **Developing Machine Learning Applications**
