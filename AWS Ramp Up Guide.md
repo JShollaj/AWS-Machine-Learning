@@ -600,7 +600,9 @@
 
   - Part of governance frameworks and can be used to identify a potential security threat or incident.
 
-  - 
+  - **Cloudtrail**: Use log files to track changes to AWS resources, including creation, modification, and deletion of AWS resources.
+  
+    - Check IAM user / 
 
 ---
 
