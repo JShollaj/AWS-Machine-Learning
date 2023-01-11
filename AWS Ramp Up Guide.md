@@ -526,7 +526,11 @@
 
 - AWS Global Infrastructure
 
-  - $Data Center \subset Availability Zone \subset Regions$ 
+  - $Data Center \subset Availability Zone \subset Regions$
+
+  - Different costs for regions (due to regulations, legislation etc.)
+
+  - 
 
 ---
 
