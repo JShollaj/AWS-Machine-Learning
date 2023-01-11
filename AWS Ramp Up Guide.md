@@ -588,7 +588,7 @@
 
   - **AWS Security Token Service (STS)** &rarr; temporary, limited-privilege credentials for special IAM users.
 
-  - 
+  - **Temporary, limited-privilege credentials for IAM users**
 
 
 
