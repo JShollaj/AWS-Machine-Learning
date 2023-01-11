@@ -602,7 +602,7 @@
 
   - **Cloudtrail**: Use log files to track changes to AWS resources, including creation, modification, and deletion of AWS resources.
   
-    - Check IAM user / 
+    - Check IAM user / When / Where / What happened (response element).
 
 ---
 
