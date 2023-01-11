@@ -502,6 +502,8 @@
 
   - **Apply security at all layers** (defense-in-depth approach)
 
+  - **Automate security best practices** (code version-controlled templates)
+
   - 
 
 ---
