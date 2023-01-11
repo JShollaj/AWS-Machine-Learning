@@ -662,7 +662,11 @@
 
 - Services for protection *against DDoS*:
 
-  - 
+  - **Amazon Route 53** &rarr; scalable traffic flow, latency-based routing, weighted round-robin, Geo DNS, health checks, and monitoring.
+
+  - **Amazon CloudFront** &rarr; content delivery network (CDN) service that can deliver data, including entire website, to end users.
+
+  - **AWS Shield** &rarr; 
 
 ---
 
