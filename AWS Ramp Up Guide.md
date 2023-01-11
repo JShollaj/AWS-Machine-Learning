@@ -586,6 +586,8 @@
 
   - **AWS Single Sign-On** &rarr; manages SSO access to multiple AWS accounts.
 
+  - **AWS Security Token Service (STS)** &rarr; temporary, limited-privilege credentials for special IAM users.
+
   - 
 
 
