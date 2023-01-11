@@ -516,9 +516,13 @@
 
   - The *customer* is responsible for security **IN** the cloud.
 
-![Shared Responsibility](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673427600/uHxSu_RsNM8QdLbhxHxLkA/tincan/842b44ce18500c7e75f3c09fb3a74da4d121de2f/assets/e4_6y4d7cz51Bo0Y_M4k8jdbphutKhqfN.png)
+  -![Shared Responsibility](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673427600/uHxSu_RsNM8QdLbhxHxLkA/tincan/842b44ce18500c7e75f3c09fb3a74da4d121de2f/assets/e4_6y4d7cz51Bo0Y_M4k8jdbphutKhqfN.png)
 
+  - Skim through:
 
+    - [**AWS Cloud Adoption Framework**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
+
+    - 
 ---
 
 ### **Developing Machine Learning Applications**
