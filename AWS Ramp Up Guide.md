@@ -582,7 +582,9 @@
 
 - Services you need to know related to IAM:
 
-  - AWS Secrets Manager &rarr; manages credentials, passwords, third-party API keys, and even arbitrary text
+  - **AWS Secrets Manager** &rarr; manages credentials, passwords, third-party API keys, and even arbitrary text.
+
+  - **AWS Single Sign-On** &rarr; manages SSO access to multiple AWS accounts.
 
   - 
 
