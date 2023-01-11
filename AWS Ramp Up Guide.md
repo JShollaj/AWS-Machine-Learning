@@ -652,7 +652,9 @@
 
   - **AWS CloudHSM** &rarr; generate, store, import, export, and manage cryptographic keys.
 
-  - 
+  - **Amazon S3 Glacier** &rarr; enforce compliance controls for individual Amazon S3 Glacier vaults with a *vault lock policy*.
+
+  - **AWS Certificate Manager** &rarr; 
 
 ---
 
