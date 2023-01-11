@@ -530,7 +530,17 @@
 
   - Different costs for regions (due to regulations, legislation etc.)
 
-  - 
+  - Usually choose region closest to your area (for less latency)
+
+  - Currently we have the following statistics:
+
+    - **30** Launched Regions
+
+    - **96** Availability Zones
+
+    - **410+** Points of Presence
+
+
 
 ---
 
