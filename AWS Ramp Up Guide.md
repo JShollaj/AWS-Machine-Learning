@@ -543,8 +543,14 @@
   - Data center security layers:
 
     - Perimeter Layer (Buildings, Surveilance)
-    
+
+    - Environmental Layer (Safe from flooding, natural disasters etc.)
+
+    - Infrastructure Layer (HVAC system, and fire suppression equipment)
+
     - 
+
+
 
 
 
