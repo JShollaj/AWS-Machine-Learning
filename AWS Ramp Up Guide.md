@@ -588,7 +588,9 @@
 
   - **AWS Security Token Service (STS)** &rarr; temporary, limited-privilege credentials for special IAM users.
 
-  - **Temporary, limited-privilege credentials for IAM users**
+  - **Temporary, limited-privilege credentials for IAM users** &rarr; domain resource management built on actual Microsoft Active Directory.
+
+  - ****
 
 
 
