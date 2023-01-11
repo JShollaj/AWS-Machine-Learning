@@ -648,6 +648,10 @@
 
   - **Amazon Inspector** &rarr; assesses applications for vulnerabilities or deviations from best practices (gives list based on severity).
 
+- AWS Services for Data Protection
+
+ - 
+
 ---
 
 ### **Developing Machine Learning Applications**
