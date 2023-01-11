@@ -496,6 +496,8 @@
 
 - Cloud security principles:
 
+  - Implement a strong identity foundation (least privilege / enforce separation of duties).
+
   - 
 
 ---
