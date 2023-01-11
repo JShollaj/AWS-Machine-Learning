@@ -640,6 +640,10 @@
 
   - **AWS Systems Manager** &rarr; secure end-to-end management solutions (applications, operations, change, Node).
 
+  - **AWS Firewall Manager** &rarr; configure and manage AWS WAF rules.
+
+  - 
+
 ---
 
 ### **Developing Machine Learning Applications**
