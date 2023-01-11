@@ -510,6 +510,15 @@
 
   - **Prepare for security events** (Incident management / Simulations)
 
+- Shared Responsibility model
+
+  - **AWS** is responsible for security **OUT** of the cloud.
+
+  - The *customer* is responsible for security **IN** the cloud.
+
+![Shared Responsibility](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673427600/uHxSu_RsNM8QdLbhxHxLkA/tincan/842b44ce18500c7e75f3c09fb3a74da4d121de2f/assets/e4_6y4d7cz51Bo0Y_M4k8jdbphutKhqfN.png)
+
+
 ---
 
 ### **Developing Machine Learning Applications**
