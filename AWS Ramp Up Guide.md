@@ -598,6 +598,8 @@
 
 - Detective Controls
 
+  - Part of governance frameworks and can be used to identify a potential security threat or incident.
+
   - 
 
 ---
