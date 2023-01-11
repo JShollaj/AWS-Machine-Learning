@@ -560,9 +560,16 @@
 
   - Endpoint &rarr; URL of the entry point for an AWS web service.
 
-    - Regional Endpoint (f.ex https://dynamodb.us-west-2.amazonaws.com)
+    - Regional Endpoint (f.ex https://dynamodb.us-west-2.amazonaws.com).
 
-    - 
+    - General endpoints (f.ex ec2.amazonaws.com).
+
+    - Global services (Do not support regions)
+
+- IAM (Identity Access Management):
+
+  - 
+
 
 
 ---
