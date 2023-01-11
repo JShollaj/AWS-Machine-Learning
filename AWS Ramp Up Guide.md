@@ -568,7 +568,13 @@
 
 - IAM (Identity Access Management):
 
-  - 
+  - Centralized mechanism for creating and managing permissions.
+
+  - Types of IAM:
+
+    - password policy (rules f.ex special char)
+
+    - 
 
 
 
