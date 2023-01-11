@@ -522,7 +522,10 @@
 
     - [**AWS Cloud Adoption Framework**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
 
-    - 
+    - [**Shared Responsibility Model**](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
+
+
 ---
 
 ### **Developing Machine Learning Applications**
