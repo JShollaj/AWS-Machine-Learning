@@ -674,6 +674,12 @@
 
 ### **Developing Machine Learning Applications**
 
+- **Sagemaker**
+
+  - Hosted Jupyter Notebook that doesnt requires setup. (Key preloaded libraries)
+
+  - 
+
 ---
 
 ### **Math for Machine Learning**
