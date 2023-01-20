@@ -776,6 +776,8 @@
 
       - **Learning Rate** (how much to change the model in response to the estimated error for each update).
 
+    - For **Trees**:
+
       - 
 
 ---
