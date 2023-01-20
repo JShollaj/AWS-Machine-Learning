@@ -778,6 +778,8 @@
 
       - **Layers** (structure as a neuron which takes and gives information).
 
+      - **Regularization** (prevents overfitting)
+
     - For **Trees**:
 
       - 
