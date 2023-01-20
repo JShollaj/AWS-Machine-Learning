@@ -760,6 +760,8 @@
 
     - Many types, for different cases:
 
+      - Convolutional neural network (CNN) - Mainly for images &rarr; allows convolution or merging of two sets of information to recognize and improve patterns.
+
       - 
 
 ---
