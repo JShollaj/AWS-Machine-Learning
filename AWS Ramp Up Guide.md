@@ -746,7 +746,9 @@
 
     - **Anomaly detection** - Labeling normal and outliers.
 
-    - **New - Random Cut Forests** - 
+    - **[New - Random Cut Forests](https://docs.aws.amazon.com/sagemaker/latest/dg/randomcutforest.html)** - Constructs a model of randomly cut trees for detecting anomalous data points.
+
+    - 
 
   - **Recommender** - We have penalties or rewards for each step.
 
