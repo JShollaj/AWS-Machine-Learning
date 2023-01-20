@@ -798,7 +798,10 @@
 
       - **Pre-Processing Steps**
 
-      
+  - Then basically we go through using sagemaker hands on!
+
+  - Hyperparameter tuning can be very costly if not operating efficiently. Use Sagemaker Model Tuning to save time and effort.
+
 ---
 
 ### **Math for Machine Learning**
