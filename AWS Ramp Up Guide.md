@@ -74,13 +74,13 @@
 
 - **ML vs Traditional Programming**: ML is teaching a computer to recognize patterns by example, rather than programming it with specific rules.
 
-![MLvsProgramming](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/hxfNyqDM1_O1MweC_eyA4WWgM4-rp-qF4.jpg)
+![MLvsProgramming](https://miro.medium.com/max/799/1*t6Myx_4eEwaWP9Vms_kYfg.png)
 
 - **3 Main ML Categories:**
 
   - **Supervised learning** &rarr; model learns from a data set containing input values and paired output values that you would like to predict. Could be *classification* (spam detection) or *regression* (forecasting demand).
 
-  ![Supervised](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/lQNL_83C-ppyf0qE_rlLY75xnMf-J8a1x.png)
+  ![Supervised](https://lh4.googleusercontent.com/K17BRCQTR5hHU-qOthrs9KIQa4DLAWJh5jeXkyn6NZRQfimHnCAadWbw3EaZPZl1bit2IBQPeBv1CZURiyFYkIDPH1Z3Pb0O_qkeS9av7vrEtQLpMLWdtDJ7YNlRki8CoAsY8bmn)
 
   - **Unsupervised learning** &rarr; training model learns from data without any guidance. The objective is pattern and structure recognition. Could be *clustering* (customer segmentation) or *association* (finding regularities among products).
 
