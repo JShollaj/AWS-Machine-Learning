@@ -734,7 +734,13 @@
 
   - **Supervised** - We have labels, we train the labeled data (think of a teacher &rarr; supervisor). F.ex Customer churn prediction, failure of a system prediction. Types:
 
-    - 
+    - **Linear Supervised Algorithms** - f.ex SVM, Logistic, Perceptrons.
+
+      - [**AWS Linear Learner Service**](https://docs.aws.amazon.com/sagemaker/latest/dg/linear-learner.html)
+
+    - **Non-Linear Supervised Algorithms** - 
+
+
 
   - **UnSupervised** - No labels, or *teacher* &rarr; we just have unlabeled data trying to make sense of it.
 
