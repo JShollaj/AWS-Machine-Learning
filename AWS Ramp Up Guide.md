@@ -684,7 +684,13 @@
 
     - Instance type (smallest vs largest)
 
-    - Granting permissions (IAM roles - created automatically if you dot have one)
+    - Granting permissions (**IAM roles** - created automatically if you dot have one)
+
+    - **VPC** connected for providing access to additional resources.
+
+    - Secure data through **KMS**
+
+- 
 
 ---
 
