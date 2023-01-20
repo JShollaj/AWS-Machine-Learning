@@ -710,11 +710,14 @@
 
     - Many to many problem: Numerous frameworks only running separately on numerous platforms.
 
-  - Solution: **Amazon Sagemaker Neo**
+  - Solution: **[Amazon Sagemaker Neo](https://aws.amazon.com/sagemaker/neo/)**
 
     - Freezes the model from the framework, and optimized for running on the hardware.
 
-    - 
+    - Process:
+
+      - 
+
 ---
 
 ### **Math for Machine Learning**
