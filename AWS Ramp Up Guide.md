@@ -816,6 +816,8 @@
 
 ![Anomaly Detection AWS](Anomaly%20Detection%20in%20AWS.png)
 
+- Building a Recommender model with MXNet and GluOn. (Summary slides)
+
 
 
 ---
