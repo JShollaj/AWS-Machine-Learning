@@ -694,7 +694,11 @@
 
     - You can attach IAM roles through notebook
 
-    - 
+    - Standard Preprocessing, EDA, TrainTestVal Split, Training and tuning models.
+
+    - Storing model artifacts in the back-end
+
+    - Deploy in production by setting up the inference image and specifying model artifact location. 
 
 ---
 
