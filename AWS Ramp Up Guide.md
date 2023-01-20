@@ -728,7 +728,7 @@
 
       - Better and faster, optimized development for IoT (Image Classification, Anomaly Detection etc.).
 
-      - 
+      - Integration of ML with databases (f.ex Neo API)
 
 ---
 
