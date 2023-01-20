@@ -732,9 +732,9 @@
 
 - **Machine Learning Algorithms**
 
-  - **Supervised** - We have labels, we train the labeled data (think of a teacher &rarr; supervisor).
+  - **Supervised** - We have labels, we train the labeled data (think of a teacher &rarr; supervisor). F.ex Customer churn prediction, failure of a system prediction. Types:
 
-    - F.ex Customer churn prediction, failure of a system prediciton.
+    - 
 
   - **UnSupervised** - No labels, or *teacher* &rarr; we just have unlabeled data trying to make sense of it.
 
