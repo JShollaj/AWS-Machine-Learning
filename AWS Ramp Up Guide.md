@@ -784,11 +784,19 @@
 
     - For **Trees**:
 
-      - Numbers (Numbers of starting nodes)
+      - **Numbers** (Numbers of starting nodes)
 
-      - Depth (How many leafs each tree segments into)
+      - **Depth** (How many leafs each tree segments into)
 
-      - Boosting Step (Converting weak learners to strong learners by preventing overfitting)
+      - **Boosting Step**(Converting weak learners to strong learners by preventing overfitting)
+
+    - For **Clustering**:
+
+      - **Initialization** (initial centroids to start with).
+
+      - **Number** (number of clusters set).
+
+      - 
       
 
 ---
