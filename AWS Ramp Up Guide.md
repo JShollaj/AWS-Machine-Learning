@@ -722,6 +722,12 @@
 
       - Optimization for various operating systems and processors it will be deployed on.
 
+    - Use cases:
+
+      - Accelerates in the cloud and on the edge.
+
+      - Better and faster, optimized development for IoT (Image Classification, Anomaly Detection etc.).
+
       - 
 
 ---
