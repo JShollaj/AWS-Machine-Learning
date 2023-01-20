@@ -768,7 +768,13 @@
 
 </br>
 
-- **Automated Sagemaker Model Tuning** - 
+- **Automated Sagemaker Model Tuning**
+
+  - Types of hyperparameter tunings:
+
+    - For **Neural Networks**:
+
+      - 
 
 ---
 
