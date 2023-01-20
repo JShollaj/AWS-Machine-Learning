@@ -702,6 +702,16 @@
 
     - Set up endpoint (how many models we are putting, and compute resources for each model).
 
+- **Amazon Sagemaker Neo**
+
+  - Many challenges for Machine Learning in Organizations:
+
+    - Choosing the right framework, models, integrating and deploying.
+
+    - Many to many problem
+
+  - 
+
 ---
 
 ### **Math for Machine Learning**
