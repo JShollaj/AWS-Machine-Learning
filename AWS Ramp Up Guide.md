@@ -780,7 +780,7 @@
 
       - **Regularization** (prevents overfitting by penalizing techniques)
 
-      - **D**
+      - **Drop-Out** ()
 
     - For **Trees**:
 
