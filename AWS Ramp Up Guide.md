@@ -738,6 +738,10 @@
 
   - **Recommender** - We have penalties or rewards for each step.
 
+  - For **numeric** - we have **regression** models for solutions.
+
+  - 
+
 ---
 
 ### **Math for Machine Learning**
