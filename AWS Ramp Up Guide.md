@@ -784,11 +784,12 @@
 
     - For **Trees**:
 
-      - Numbers ()
+      - Numbers (Numbers of starting nodes)
 
-      - Depth ()
+      - Depth (How many leafs each tree segments into)
 
-      - Boosting Step ()
+      - Boosting Step (Converting weak learners to strong learners by preventing overfitting)
+      
 
 ---
 
