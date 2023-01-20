@@ -10,7 +10,7 @@
 
 - ML &rarr; using math to find patterns in data & update model and training data to improve accuracy.
 
-   ![Process](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673240400/F9f6-J_gx5vlxiB2SDDP4w/tincan/b96a0de6b327457590ce8bf1be4022c35b8f5a55/assets/UNFm4yYCD78mPMrq_L7sIBPrfXqGsHIYe.png)
+   ![Process](https://dapperdatadig.files.wordpress.com/2020/05/ml-steps.png?w=1024)
 
   - Key Terms (M.T.T.D):
   
