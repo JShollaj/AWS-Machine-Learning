@@ -690,7 +690,11 @@
 
     - Secure data through **KMS**
 
-- Demo summary 
+  - **Demo summary**
+
+    - You can attach IAM roles through notebook
+
+    - 
 
 ---
 
