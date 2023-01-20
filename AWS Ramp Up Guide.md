@@ -738,11 +738,15 @@
 
       - [**AWS Linear Learner Service**](https://docs.aws.amazon.com/sagemaker/latest/dg/linear-learner.html)
 
-    - **Non-Linear Supervised Algorithms** - 
-
-
+    - **Non-Linear Supervised Algorithms** - f.ex Treebased models (XGB, DT, RF).
 
   - **UnSupervised** - No labels, or *teacher* &rarr; we just have unlabeled data trying to make sense of it.
+
+    - **Clustering** - Grouping data based on similarity.
+
+    - **Anomaly detection** - Labeling normal and outliers.
+
+    - **New - Random Cut Forests** - 
 
   - **Recommender** - We have penalties or rewards for each step.
 
