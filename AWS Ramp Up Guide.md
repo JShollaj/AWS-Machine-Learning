@@ -802,6 +802,13 @@
 
   - Hyperparameter tuning can be very costly if not operating efficiently. Use **Sagemaker Model Tuning** to save time, effort and resources.
 
+</br>
+
+-**Advanced Analytics with Amazon SageMaker**
+
+  - 
+
+
 ---
 
 ### **Math for Machine Learning**
