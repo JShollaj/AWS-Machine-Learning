@@ -730,6 +730,10 @@
 
       - Integration of ML with databases (f.ex Neo API)
 
+- **Machine Learning Algorithms**
+
+  - 
+
 ---
 
 ### **Math for Machine Learning**
