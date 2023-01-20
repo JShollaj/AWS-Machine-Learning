@@ -712,8 +712,9 @@
 
   - Solution: **Amazon Sagemaker Neo**
 
-    - Freezes the model from the framework, and makes the best decision to choose
+    - Freezes the model from the framework, and optimized for running on the hardware.
 
+    - 
 ---
 
 ### **Math for Machine Learning**
