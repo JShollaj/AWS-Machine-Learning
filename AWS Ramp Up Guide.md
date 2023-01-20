@@ -172,7 +172,7 @@
 
 - A typical timeline for ML projects (rough benchmark).
 
-![timeline](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1673244000/BDtSbQM-16gMctMnquPoiQ/tincan/bfb191eed840c42f824d44e8698b1bac29383d8b/assets/5ASJnvv4cGifR5ml_PZifQ5iNwSxaakX8.png)
+![timeline](https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5efeef85594ffa20604a9b76_image2_s.jpg)
 
 </br>
 
