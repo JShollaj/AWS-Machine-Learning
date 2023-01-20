@@ -778,13 +778,17 @@
 
       - **Layers** (structure as a neuron which takes and gives information).
 
-      - **Regularization** (prevents overfitting by penalizing techniques)
+      - **Regularization** (prevents overfitting by penalizing techniques).
 
-      - **Drop-Out** (Randomly deactivating layers - )
+      - **Drop-Out** (Randomly deactivating layers - prevents overfitting).
 
     - For **Trees**:
 
-      - 
+      - Numbers ()
+
+      - Depth ()
+
+      - Boosting Step ()
 
 ---
 
