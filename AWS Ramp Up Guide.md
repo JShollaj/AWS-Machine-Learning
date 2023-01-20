@@ -811,6 +811,13 @@
 - Spark hybrid connection with Sagemaker:
 
 ![Spark](Spark%20and%20Sagemaker.png)
+
+- Connecting services for anomaly detection on AWS:
+
+![Anomaly Detection AWS](Anomaly%20Detection%20in%20AWS.png)
+
+
+
 ---
 
 ### **Math for Machine Learning**
