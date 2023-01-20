@@ -752,7 +752,11 @@
 
   - **Recommender** - We have penalties or rewards for each step.
 
-  - **Deep Learning** - Composed of numerous *neurons*, for which we apply a weighted sum (activation functions) to connect to output. 
+  - **Deep Learning** - Composed of numerous *neurons*, for which we apply a weighted sum (activation functions) to connect to output.
+
+    - Use backpropagation for improving accuracy.
+
+    - 
 
 ---
 
