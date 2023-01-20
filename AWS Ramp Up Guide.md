@@ -698,7 +698,9 @@
 
     - Storing model artifacts in the back-end
 
-    - Deploy in production by setting up the inference image and specifying model artifact location. 
+    - Deploy in production by setting up the inference image and specifying model artifact location.
+
+    - Set up endpoint (how many models we are putting, and compute resources for each model).
 
 ---
 
