@@ -708,7 +708,9 @@
 
     - Choosing the right framework, models, integrating and deploying.
 
-    - Many to many problem
+    - Many to many problem: Numerous frameworks only running separately on numerous platforms.
+
+    - 
 
   - 
 
