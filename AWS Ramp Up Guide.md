@@ -760,9 +760,9 @@
 
     - Many types, for different cases:
 
-      - **Convolutional neural network (CNN**) - Mainly for images &rarr; allows convolution (merging of two sets of information) to recognize and improve patterns.
+      - **Convolutional neural network (CNN)** - Mainly for images &rarr; allows convolution (merging of two sets of information) to recognize and improve patterns.
 
-      - 
+      - **Recurrent Neural Networks (RNN)** - Feeding output again to input (hence recurrent). F.ex LSTM. Good for speech recognition and translation.
 
 ---
 
