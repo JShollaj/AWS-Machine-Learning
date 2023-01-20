@@ -806,7 +806,11 @@
 
 -**Advanced Analytics with Amazon SageMaker**
 
-- Using Spark together with Sagemaker.
+- Using Spark together with Sagemaker (through SDK).
+
+  - Spark Architecture for MPP:
+
+ ![Spark](../SPARK.png)
 
   - 
 
