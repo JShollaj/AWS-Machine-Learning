@@ -780,7 +780,7 @@
 
       - **Regularization** (prevents overfitting by penalizing techniques)
 
-      - **Drop-Out** ()
+      - **Drop-Out** (Randomly deactivating layers - )
 
     - For **Trees**:
 
