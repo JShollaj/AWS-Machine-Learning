@@ -756,7 +756,7 @@
 
     - Use backpropagation for improving accuracy.
 
-    - 
+    - Usually, thousands of layers and billions of parameters.
 
 ---
 
