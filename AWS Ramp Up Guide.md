@@ -758,6 +758,10 @@
 
     - Usually, thousands of layers and billions of parameters.
 
+    - Many types, for different cases:
+
+      - 
+
 ---
 
 ### **Math for Machine Learning**
