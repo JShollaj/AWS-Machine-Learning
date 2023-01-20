@@ -822,18 +822,3 @@
 
 ![Metrics](Metrics%20to%20use%20for%20Recommender.png)
 ---
-
-### **Math for Machine Learning**
-
----
-
-
-### **Amazon SageMaker: Build an Object Detection Model Using Images Labeled with Ground Truth**
-
----
-
-
-
-
-
-
