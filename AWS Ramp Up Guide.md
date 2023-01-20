@@ -678,13 +678,20 @@
 
   - Hosted Jupyter Notebook that doesnt requires setup. (Key preloaded libraries)
 
-  - 
+  - Details about creating instance:
+
+    - Instance name (unique)
+
+    - Instance type (smallest vs largest)
+
+    - Granting permissions (IAM roles - created automatically if you dot have one)
 
 ---
 
 ### **Math for Machine Learning**
 
 ---
+
 
 ### **Amazon SageMaker: Build an Object Detection Model Using Images Labeled with Ground Truth**
 
