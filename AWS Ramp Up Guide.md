@@ -742,19 +742,17 @@
 
   - **UnSupervised** - No labels, or *teacher* &rarr; we just have unlabeled data trying to make sense of it.
 
-    - **Clustering** - Grouping data based on similarity.
+    - **Clustering** - Grouping data based on similarity. K-Means, PCA (reducing dimensionality).
 
     - **Anomaly detection** - Labeling normal and outliers.
 
     - **[New - Random Cut Forests](https://docs.aws.amazon.com/sagemaker/latest/dg/randomcutforest.html)** - Constructs a model of randomly cut trees for detecting anomalous data points.
 
-    - 
+    - **Topic Modeling for NLP** (LDA)
 
   - **Recommender** - We have penalties or rewards for each step.
 
-  - For **numeric** - we have **regression** models for solutions.
-
-  - 
+  - **Deep Learning** - Composed of numerous *neurons*, for which we apply a weighted sum (activation functions) to connect to output. 
 
 ---
 
