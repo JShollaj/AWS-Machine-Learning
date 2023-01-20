@@ -808,8 +808,9 @@
 
   - Using Spark together with Sagemaker (through SDK). [**Check hands on here**](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker_processing/spark_distributed_data_processing/sagemaker-spark-processing.ipynb)
 
-- 
+- Spark hybrid connection with Sagemaker:
 
+![Spark](Spark%20and%20Sagemaker.png)
 ---
 
 ### **Math for Machine Learning**
