@@ -806,7 +806,7 @@
 
 - **Advanced Analytics with Amazon SageMaker**
 
-  - Using Spark together with Sagemaker (through SDK).
+  - Using Spark together with Sagemaker (through SDK). [**Check hands on here**](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker_processing/spark_distributed_data_processing/sagemaker-spark-processing.ipynb)
 
 - 
 
