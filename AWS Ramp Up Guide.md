@@ -796,9 +796,9 @@
 
       - **Number** (number of clusters set).
 
-      - 
-      
+      - **Pre-Processing Steps**
 
+      
 ---
 
 ### **Math for Machine Learning**
