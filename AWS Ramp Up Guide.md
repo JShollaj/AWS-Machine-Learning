@@ -766,7 +766,7 @@
 
         - **[AWS Sockeye](https://aws.amazon.com/blogs/machine-learning/train-neural-machine-translation-models-with-sockeye/)**  - Very useful for building, training, and running state-of-the-art sequence-to-sequence models.
 
-    - 
+- **Automated Sagemaker Model Tuning** - 
 
 ---
 
