@@ -720,6 +720,10 @@
 
       - Turns them to a generalized, framework agnostic represantations.
 
+      - Optimization for various operating systems and processors it will be deployed on.
+
+      - 
+
 ---
 
 ### **Math for Machine Learning**
