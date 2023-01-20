@@ -710,9 +710,9 @@
 
     - Many to many problem: Numerous frameworks only running separately on numerous platforms.
 
-    - 
+  - Solution: **Amazon Sagemaker Neo**
 
-  - 
+    - Freezes the model from the framework, and makes the best decision to choose
 
 ---
 
