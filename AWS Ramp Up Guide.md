@@ -718,7 +718,7 @@
 
       - Compiler reads models in various formats.
 
-      - 
+      - Turns them to a generalized, framework agnostic represantations.
 
 ---
 
