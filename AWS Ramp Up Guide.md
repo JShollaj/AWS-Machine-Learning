@@ -768,7 +768,7 @@
 
 </br>
 
-- **Automated Sagemaker Model Tuning**
+- **[Automated Sagemaker Model Tuning](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning.html)**
 
   - Types of hyperparameter tunings:
 
@@ -800,7 +800,7 @@
 
   - Then basically we go through using sagemaker hands on!
 
-  - Hyperparameter tuning can be very costly if not operating efficiently. Use Sagemaker Model Tuning to save time and effort.
+  - Hyperparameter tuning can be very costly if not operating efficiently. Use **Sagemaker Model Tuning** to save time, effort and resources.
 
 ---
 
