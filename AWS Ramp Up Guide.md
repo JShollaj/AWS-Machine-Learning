@@ -764,6 +764,10 @@
 
       - **Recurrent Neural Networks (RNN)** - Feeding output again to input (hence recurrent). F.ex LSTM. Good for speech recognition and translation.
 
+        - **[AWS Sockeye](https://aws.amazon.com/blogs/machine-learning/train-neural-machine-translation-models-with-sockeye/)**  - Very useful for building, training, and running state-of-the-art sequence-to-sequence models.
+
+    - 
+
 ---
 
 ### **Math for Machine Learning**
