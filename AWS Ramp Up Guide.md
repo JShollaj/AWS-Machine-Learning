@@ -818,8 +818,9 @@
 
 - Building a Recommender model with MXNet and GluOn. (Summary slides)
 
+![Choosing Model](Choosing%20Recommender%20Models.png)
 
-
+![Metrics](Metrics%20to%20use%20for%20Recommender.png)
 ---
 
 ### **Math for Machine Learning**
