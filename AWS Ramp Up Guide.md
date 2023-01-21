@@ -866,9 +866,10 @@
 
       - $L_0$ Norm
 
+- **Matrices**
 
+- **Probability**
 
+- **Univariate Derivates**
 
-
-
-
+- **Multivariate Derivates**
