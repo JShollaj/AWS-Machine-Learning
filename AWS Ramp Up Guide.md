@@ -84,8 +84,6 @@
 
   ![Supervised](https://lh4.googleusercontent.com/K17BRCQTR5hHU-qOthrs9KIQa4DLAWJh5jeXkyn6NZRQfimHnCAadWbw3EaZPZl1bit2IBQPeBv1CZURiyFYkIDPH1Z3Pb0O_qkeS9av7vrEtQLpMLWdtDJ7YNlRki8CoAsY8bmn)
 
-
-
   - **Unsupervised learning** &rarr; training model learns from data without any guidance. The objective is pattern and structure recognition. Could be *clustering* (customer segmentation) or *association* (finding regularities among products).
 
   ![Unsupervised](https://miro.medium.com/max/1400/1*4yFCbNwp0gGdGR5KbquFHA.png)
@@ -438,17 +436,17 @@
 
 ![BiasvsVariance](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/images/bias_variance/bullseye.png)
 
-  - **Evaluation Metrics:**
+- **Evaluation Metrics:**
 
-    - For **regression**:
+  - For **regression**:
 
-      - Root Mean Square Error **(RMSE)** - lower is better (use only in test)
+    - Root Mean Square Error **(RMSE)** - lower is better (use only in test)
 
-      - Mean Absolute Percetage Error **(MAPE)** - lower is better (use only in test)
+    - Mean Absolute Percetage Error **(MAPE)** - lower is better (use only in test)
 
-      - R Squared $(R^2)$ - How much better the is the model compared to picking best constant? **(1 - Model MSE / Variance)**
+    - R Squared $(R^2)$ - How much better the is the model compared to picking best constant? **(1 - Model MSE / Variance)**
 
-    - For **classification**:
+  - For **classification**:
 
 - Confusion Matrix:
 
@@ -524,7 +522,7 @@
 
   - Skim through:
 
-    - [**AWS Cloud Adoption Framework**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)
+    - [**AWS Cloud Adoption Framework**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/<https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf)>
 
     - [**Shared Responsibility Model**](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
@@ -564,7 +562,7 @@
 
   - Endpoint &rarr; URL of the entry point for an AWS web service.
 
-    - Regional Endpoint (f.ex https://dynamodb.us-west-2.amazonaws.com).
+    - Regional Endpoint (f.ex <https://dynamodb.us-west-2.amazonaws.com>).
 
     - General endpoints (f.ex ec2.amazonaws.com).
 
@@ -825,4 +823,11 @@
 ![Choosing Model](Choosing%20Recommender%20Models.png)
 
 ![Metrics](Metrics%20to%20use%20for%20Recommender.png)
----
+
+--- 
+
+### **Math Required for MLE**
+
+
+
+
