@@ -834,6 +834,12 @@
 
   - Matrices
 
-  - 
+  - Operations
+
+    - Addition
+
+    - Zero Vector
+
+    - Scalar Multiplication
 
 
