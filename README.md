@@ -14,6 +14,12 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Machine Learning: Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
 
+- ### [Machine Learning University (MLU) Accelerated Tabular Data](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+
+- ### [Machine Learning University (MLU) Accelerated Natural Language Processing](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+
+- ### [Machine Learning University (MLU) Accelerated Computer Vision](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+
 - ### [Exam Readiness Course](https://training.resources.awscloud.com/get-certified-machine-learning-specialty)
 
 - ### [Official Practice Test](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12469/aws-certified-machine-learning-specialty-practice-question-set-mls-c01-english?ml=sec&sec=prep)
