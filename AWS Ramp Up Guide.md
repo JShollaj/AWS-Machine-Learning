@@ -854,7 +854,11 @@
 
     - Subtraction as Mapping
 
-    - 
+  - **Measures of Magnitude**
+
+    - Norm Properties
+
+
 
 
 
