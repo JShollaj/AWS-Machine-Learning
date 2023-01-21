@@ -824,10 +824,12 @@
 
 ![Metrics](Metrics%20to%20use%20for%20Recommender.png)
 
---- 
+---
 
 ### **Math Required for MLE**
 
+- **Vectors**
 
+  - 
 
 
