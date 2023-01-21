@@ -862,7 +862,10 @@
 
       - $L_p$ Norm
 
-      - 
+      - $L_\infty$ Norm
+
+      - $L_0$ Norm
+
 
 
 
