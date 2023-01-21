@@ -858,6 +858,12 @@
 
     - Norm Properties
 
+      - Euclidean
+
+      - $L_p$ Norm
+
+      - 
+
 
 
 
