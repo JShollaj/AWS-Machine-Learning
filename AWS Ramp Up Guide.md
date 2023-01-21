@@ -830,11 +830,15 @@
 
 - **Vectors**
 
+  - Row vs Column vectors difference
+
   - Dimensions
 
   - Matrices
 
   - Operations
+
+    - Scalar Multiplications
 
     - Addition
 
