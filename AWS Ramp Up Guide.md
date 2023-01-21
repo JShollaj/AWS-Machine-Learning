@@ -846,4 +846,10 @@
 
     - Scalar Multiplication
 
+  - **Geometry of Column Vectors**
+
+    - 
+
+
+
 
