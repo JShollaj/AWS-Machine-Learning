@@ -830,6 +830,10 @@
 
 - **Vectors**
 
+  - Dimensions
+
+  - Matrices
+
   - 
 
 
