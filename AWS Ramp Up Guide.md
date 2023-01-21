@@ -826,7 +826,7 @@
 
 ---
 
-### **Math Required for MLE**
+### **Math Required for MLE (Topics to Study)**
 
 - **Vectors**
 
@@ -847,6 +847,12 @@
     - Scalar Multiplication
 
   - **Geometry of Column Vectors**
+
+    - Addition as Displacement
+
+    - Scalar Multiplication
+
+    - Subtraction as Mapping
 
     - 
 
