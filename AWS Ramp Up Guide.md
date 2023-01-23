@@ -898,13 +898,17 @@
 
   - Determinant computation
 
+    - The Two-by-Two
+
   - Matrix invertibility
 
   - Linear dependency
 
-
+</br>
 
 - **Probability**
+
+
 
 - **Univariate Derivates**
 
