@@ -54,4 +54,6 @@
 
   - **Producer** is an application that puts user data records into a Kinesis data stream (also called data ingestion).
 
-  - 
+    - Performance Benefits.
+
+    - 
