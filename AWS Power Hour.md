@@ -165,3 +165,5 @@
   - rules (debugger rules)
 
   - image_url (Uniform Resource Identifier)
+
+  - Can download report (training time, breakdown etc).
