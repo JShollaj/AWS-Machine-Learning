@@ -94,4 +94,8 @@
 
   - Random Undersampling
 
-  - 
+  - SMOTE (Synthetic Minority Oversampling TEchnique)
+
+- Encoding (Mainly for Categorical):
+
+  - Ordinal vs 
