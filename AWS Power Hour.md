@@ -134,3 +134,7 @@
 
   - Spark connector enabling to ingest data in bulk.
 
+---
+
+## **AWS Power Hour: Modeling on AWS**
+
