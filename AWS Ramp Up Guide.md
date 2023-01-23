@@ -872,7 +872,9 @@
 
     - Orthogonality
 
-    - 
+    - Hyperplane
+
+    - Decision Plane
 
   - Matrix multiplication and examples
 
