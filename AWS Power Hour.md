@@ -14,4 +14,6 @@
 
     - Less frequently accessed data. (less than once/month)
 
-    - 
+  - S3 One Zone IA
+
+    - Data which we dont need equally available at all times.
