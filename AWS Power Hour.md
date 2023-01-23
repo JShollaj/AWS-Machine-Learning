@@ -12,6 +12,6 @@
 
   - S3 IA Standard
 
-    - Less frequently accessed data.
+    - Less frequently accessed data. (less than once/month)
 
     - 
