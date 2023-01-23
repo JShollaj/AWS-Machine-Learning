@@ -62,3 +62,6 @@
 
     - Producer Monitoring.
 
+- Connecting to Zeppeling Notebook
+
+  - Setting up a schema, and execute queries.
