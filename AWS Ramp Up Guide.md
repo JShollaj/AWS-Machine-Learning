@@ -882,6 +882,8 @@
 
   - Matrix product properties
 
+    - 
+
   - Geometry of matrix operations
 
   - Determinant computation
