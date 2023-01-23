@@ -886,6 +886,8 @@
 
     - Associativity
 
+    - The Identity Matrix
+
     - Not commutativity
 
   - Geometry of matrix operations
