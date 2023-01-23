@@ -10,4 +10,8 @@
 
     - Avalaibility 99.(4x9)% - chance that data will be available.
 
+  - S3 IA Standard
+
+    - Less frequently accessed data.
+
     - 
