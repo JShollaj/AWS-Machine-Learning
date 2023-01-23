@@ -136,9 +136,13 @@
 
   - **Amazon SageMaker Clarify**
 
-    - Detect bias in ML data, models and explain model predictions
+    - Detect bias in ML data, models and explain model predictions.
 
-    - 
+    - Identifies imbalance.
+
+- Two Important AWS Papers for ML:
+
+  - 
 
 ---
 
