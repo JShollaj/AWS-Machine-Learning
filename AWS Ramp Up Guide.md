@@ -892,6 +892,10 @@
 
   - Geometry of matrix operations
 
+    - Determinant
+
+    - Intuition from 2-Dimension
+
   - Determinant computation
 
   - Matrix invertibility
