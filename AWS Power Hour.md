@@ -98,4 +98,14 @@
 
 - Encoding (Mainly for Categorical):
 
-  - Ordinal vs 
+  - One-hot/dummy encoding
+
+  - Label / Ordinal encoding
+
+  - Target encoding
+
+  - Frequency / count encoding
+
+  - Binary encoding
+  
+  - Feature Hashing
