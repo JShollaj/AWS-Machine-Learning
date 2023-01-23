@@ -142,6 +142,8 @@
 
 - Two Important AWS Papers for ML:
 
+  - [**Augmented AI: The Power of Human and Machine**](https://aws.amazon.com/certification/certified-machine-learning-specialty/#:~:text=Augmented%20AI%3A%20The%20Power%20of%20Human%20and%20Machine)
+
   - 
 
 ---
