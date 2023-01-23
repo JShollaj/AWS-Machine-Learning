@@ -82,4 +82,10 @@
 
 - Sagemaker Data Wrangler:
 
+  - Tool from within studio.
+
+  - Map various data stores (f.ex redshift, lake formation). Can also write queries before pulling in data).
+
+  - Generate insights to better understand data that we have. (Data quality checks).
+
   - 
