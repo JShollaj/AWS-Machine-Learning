@@ -908,7 +908,27 @@
 
 - **Probability**
 
+  - Axioms of probability
 
+  - Probability represented with Venn diagrams
+
+  - Conditional probability
+
+  - Bayes’ rule
+
+  - Independent events and notation
+
+  - Random variables
+
+  - Chebyshev’s inequality
+
+  - Entropy
+
+  - Continuous random variables and probability density function
+
+  - The Gaussian curve
+
+  - 
 
 - **Univariate Derivates**
 
