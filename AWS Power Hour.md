@@ -65,3 +65,7 @@
 - Connecting to Zeppeling Notebook
 
   - Setting up a schema, and execute queries.
+
+- Delivering streams (Firehose):
+
+  - Transforming source records with 
