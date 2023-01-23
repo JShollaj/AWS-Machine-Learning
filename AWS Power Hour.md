@@ -56,4 +56,9 @@
 
     - Performance Benefits.
 
-    - 
+    - Consumer-Side Ease of Use.
+
+    - Asynchronous Architecture.
+
+    - Producer Monitoring.
+
