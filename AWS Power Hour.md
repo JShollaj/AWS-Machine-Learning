@@ -118,10 +118,10 @@
 
 - Process Numeric:
 
-  - Standard Scaler
+  - Standard Scaler (subtracting mean from each value and scaling to unit variance).
 
-  - Robust Scaler
+  - Robust Scaler (scaling in a way robust to outliers).
 
-  - MinMax Scaler
+  - MinMax Scaler (scaling each feature to a given range).
 
   - Max Absolute Scaler
