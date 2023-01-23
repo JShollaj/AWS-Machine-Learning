@@ -128,4 +128,10 @@
 
 - Data Flow &rarr; similar to Alteryx or Knime
 
-- 
+- Sagemaker Autopilot helps automating end to end projects.
+
+  - Feature Store: Can be stored and shared interoperatibly.
+
+  - Spark connector enabling to ingest data in bulk.
+
+  - 
