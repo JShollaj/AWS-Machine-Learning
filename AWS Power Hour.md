@@ -74,4 +74,6 @@
 
   - ETL Tool.
 
-  - Spark Analytics Kernel Image Integration with ETL Glue. (Can use PySpark)
+  - Spark Analytics Kernel Image Integration with ETL Glue. (Can use PySpark) (Configure Spark Session).
+
+  
