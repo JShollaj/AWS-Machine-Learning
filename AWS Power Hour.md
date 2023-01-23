@@ -107,5 +107,9 @@
   - Frequency / count encoding
 
   - Binary encoding
-  
+    
   - Feature Hashing
+ 
+Nominal variables &rarr; NO order
+
+Ordinal variables &rarr; HAVE order
