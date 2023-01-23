@@ -167,3 +167,8 @@
   - image_url (Uniform Resource Identifier)
 
   - Can download report (training time, breakdown etc).
+
+---
+
+## **AWS Power Hour: Security, Operations and the Exam**
+
