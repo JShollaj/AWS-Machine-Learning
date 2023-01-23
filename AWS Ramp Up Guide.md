@@ -928,7 +928,7 @@
 
   - The Gaussian curve
 
-  - 
+  - Building machine learning models
 
 - **Univariate Derivates**
 
