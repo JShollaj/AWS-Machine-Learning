@@ -24,4 +24,4 @@
 
   S3 Glacier - Instant Retreival
 
-    - 
+    - Archival type of data. F.ex variety of logs, 
