@@ -144,7 +144,7 @@
 
   - [**Augmented AI: The Power of Human and Machine**](https://aws.amazon.com/certification/certified-machine-learning-specialty/#:~:text=Augmented%20AI%3A%20The%20Power%20of%20Human%20and%20Machine)
 
-  - 
+  - [**Machine Learning Lens - AWS Well-Architected Framework**](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
 
 ---
 
