@@ -134,6 +134,12 @@
 
   - Spark connector enabling to ingest data in bulk.
 
+  - **Amazon SageMaker Clarify**
+
+    - Detect bias in ML data, models and explain model predictions
+
+    - 
+
 ---
 
 ## **AWS Power Hour: Modeling on AWS**
