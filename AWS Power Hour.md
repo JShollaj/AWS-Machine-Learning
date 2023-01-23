@@ -22,6 +22,6 @@
 
     - For example, previous versions of data lake instead
 
-  S3 Glacier - Instant Retreival
+  - S3 Glacier - Instant Retreival
 
     - Archival type of data. F.ex variety of logs, 
