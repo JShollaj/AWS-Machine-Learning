@@ -24,4 +24,10 @@
 
   - S3 Glacier - Instant Retreival
 
-    - Archival type of data. F.ex variety of logs, 
+    - Archival type of data. F.ex variety of logs, ETL jobs.
+
+  - S3 Intelligent Tiering
+
+    - ML Based storage. Shifts datasets across different storage types depending on access patterns it observes.
+
+    - 
