@@ -88,6 +88,8 @@
 
   - Generate insights to better understand data that we have. (Data quality checks).
 
+- Can do the following:
+
 - Balancing Data:
 
   - Random Oversampling
@@ -110,7 +112,16 @@
 
   - Feature Hashing
 
-Nominal variables &rarr; NO order
+  - Nominal variables &rarr; NO order
 
-Ordinal variables &rarr; HAVE order
+  - Ordinal variables &rarr; HAVE order
 
+- Process Numeric:
+
+  - Standard Scaler
+
+  - Robust Scaler
+
+  - MinMax Scaler
+
+  - Max Absolute Scaler
