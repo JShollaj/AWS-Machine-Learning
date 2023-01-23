@@ -68,4 +68,10 @@
 
 - Delivering streams (Firehose):
 
-  - Transforming source records with 
+  - Transforming source records with Lambda
+
+- AWS Glue
+
+  - ETL Tool.
+
+  - 
