@@ -76,4 +76,7 @@
 
   - Spark Analytics Kernel Image Integration with ETL Glue. (Can use PySpark) (Configure Spark Session).
 
-  
+---
+
+## **AWS Power Hour: EDA on AWS**
+
