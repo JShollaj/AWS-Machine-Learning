@@ -2,7 +2,7 @@
 
 Here is a summary of the main resources used on each separate file for accomplishing the AWS MLE Specialty Exam preparation. Follow separately each of them to better prepare for the official exam. On each folder you can find my summarized version for each topic. Feel free to contribute and add other resources which you are using or have used to pass the exam.
 
-## **Main Resources Used**
+## **Start the Studying by Clicking the Items Below**
 
 - ### [Official Exam Guide](https://github.com/Xns140/AWS-MLE-Docs/blob/master/AWS%20MLE%20Study%20Guide.md)
 
