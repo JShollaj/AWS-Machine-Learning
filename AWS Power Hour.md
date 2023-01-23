@@ -154,3 +154,6 @@
 
 - Mapping use cases against each [**built in algorithm**](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 
+  - Remember and visualize each of the use cases mentioned against the models.
+
+- 
