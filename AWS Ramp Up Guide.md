@@ -882,7 +882,11 @@
 
   - Matrix product properties
 
-    - 
+    - Distributability
+
+    - Associativity
+
+    - Not commutativity
 
   - Geometry of matrix operations
 
