@@ -160,4 +160,8 @@
 
 - To enable profiling, we need to pass:
 
+  - profiler_config (profiling configuration)
+
+  - rules (debugger rules)
+
   - 
