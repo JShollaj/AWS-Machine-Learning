@@ -882,7 +882,9 @@
 
   - Matrix invertibility
 
-  - 
+  - Linear dependency
+
+
 
 - **Probability**
 
