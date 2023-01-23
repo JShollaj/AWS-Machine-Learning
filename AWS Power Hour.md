@@ -88,4 +88,10 @@
 
   - Generate insights to better understand data that we have. (Data quality checks).
 
+- Balancing Data:
+
+  - Random Oversampling
+
+  - Random Undersampling
+
   - 
