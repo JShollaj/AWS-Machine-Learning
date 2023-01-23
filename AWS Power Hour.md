@@ -156,4 +156,5 @@
 
   - Remember and visualize each of the use cases mentioned against the models.
 
-- 
+- [Sagemaker debugger](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html) (part of studio). Helps visualize and understand better the errors.
+
