@@ -34,3 +34,10 @@
 
 - **Moving Data: Kinesis Services**
 
+  - Kinesis Video Streams:
+
+    - Secure stream video from connected services
+
+  - Kinesis Data Streams:
+
+    - 
