@@ -164,4 +164,4 @@
 
   - rules (debugger rules)
 
-  - 
+  - image_url (Uniform Resource Identifier)
