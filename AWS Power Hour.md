@@ -158,3 +158,6 @@
 
 - [Sagemaker debugger](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html) (part of studio). Helps visualize and understand better the errors.
 
+- To enable profiling, we need to pass:
+
+  - 
