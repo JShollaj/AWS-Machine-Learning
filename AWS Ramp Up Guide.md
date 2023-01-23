@@ -870,6 +870,10 @@
 
   - Dot Products and how to extract angles
 
+    - Orthogonality
+
+    - 
+
   - Matrix multiplication and examples
 
   - Hadamard product
