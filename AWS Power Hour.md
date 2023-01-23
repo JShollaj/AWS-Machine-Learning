@@ -130,7 +130,7 @@
 
 - Sagemaker Autopilot helps automating end to end projects.
 
-  - Feature Store: Can be stored and shared interoperatibly.
+  - Feature Store: Can be stored and shared interoperatibly. Linear tracking for each feature.
 
   - Spark connector enabling to ingest data in bulk.
 
