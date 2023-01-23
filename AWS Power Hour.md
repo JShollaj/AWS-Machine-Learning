@@ -48,4 +48,5 @@
 
   - Kinesis Data Analytics:
 
-    - 
+    - Doing real time analytics.
+
