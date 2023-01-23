@@ -80,3 +80,6 @@
 
 ## **AWS Power Hour: EDA on AWS**
 
+- Sagemaker Data Wrangler:
+
+  - 
