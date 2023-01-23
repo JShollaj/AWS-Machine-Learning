@@ -152,3 +152,5 @@
 
 - Starting with Built-in Algorithms (we have docker images in AWS).
 
+- Mapping use cases against each [**built in algorithm**](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+
