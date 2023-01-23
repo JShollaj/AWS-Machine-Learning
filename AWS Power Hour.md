@@ -50,3 +50,6 @@
 
     - Doing real time analytics.
 
+- Amazon Kinesis Data Streams producer.
+
+  - 
