@@ -44,4 +44,8 @@
 
   - Kinesis Firehose:
 
+    - Can be configured, to automatically stream data into the data lake.
+
+  - Kinesis Data Analytics:
+
     - 
