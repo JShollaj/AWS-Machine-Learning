@@ -150,3 +150,5 @@
 
 ## **AWS Power Hour: Modeling on AWS**
 
+- Starting with Built-in Algorithms (we have docker images in AWS).
+
