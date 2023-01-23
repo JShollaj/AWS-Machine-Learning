@@ -124,4 +124,8 @@
 
   - MinMax Scaler (scaling each feature to a given range).
 
-  - Max Absolute Scaler
+  - Max Absolute Scaler (maximal absolute value of each feature in the training set will be 1.0)
+
+- Data Flow &rarr; similar to Alteryx or Knime
+
+- 
