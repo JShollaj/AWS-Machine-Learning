@@ -36,8 +36,12 @@
 
   - Kinesis Video Streams:
 
-    - Secure stream video from connected services
+    - Secure stream video from connected services.
 
   - Kinesis Data Streams:
+
+    - High throughput data streams integration.
+
+  - Kinesis Firehose:
 
     - 
