@@ -97,3 +97,9 @@
   - Sagemaker Data Wrangler &rarr; UI Based flow; launch bias detection.
 
   - Sagemaker Clarify &rarr; API based approach, ability to scale (processing jobs distributed).
+
+- Feature Importance:
+
+  - SHAP &rarr; game theory approach; multiplayer game where outcome of the play is ML prediction. (Local & Global).
+
+  - 
