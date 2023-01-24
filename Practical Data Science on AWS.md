@@ -80,3 +80,10 @@
 
     - Concept Drift &rarr; relationship between both changes (f.ex age, geography location).
 
+- Class Imbalance
+
+  - Disproportionate reviews?
+
+  - DPL - Difference in Proportions of Labels (imbalance between positive outcomes). F.ex way higher ratings?
+
+  - 
