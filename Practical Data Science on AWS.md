@@ -1,6 +1,14 @@
 # Analyze Datasets and Train ML Models using AutoML
 
-- **Practical Data Science**: Focus on massive data which cannot be run locally. (Elastic pay-as-you go infrastructure).
+- ## Introduction to **Practical Data Science**
 
-- 
+</br>
+
+- Focus on massive data which cannot be run locally. (Elastic pay-as-you go infrastructure).
+
+- Ingest and analyze data:
+
+  - Data Exploration & Bias Detection:
+
+   - 
 
