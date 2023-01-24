@@ -114,6 +114,8 @@
 
   - Save scarce resources for more vital use cases.
   
-  - Fully transparent. Walks you through data processing, modelling etc.
+  - Fully transparent. Walks you through data processing, modeling etc.
 
-![Alt text](images/AutoML%20Workflow.png)
+  ![Alt text](images/AutoML%20Workflow.png)
+
+  - Can be fully managed, or until
