@@ -71,3 +71,7 @@
     - Social Bias (f.ex preconceived notions about background).
 
     - Selection Bias (f.ex streaming movie recommendation wolves vs favorite actors).
+
+  - Data Drifts (data distribution significantly varies from):
+
+    - 
