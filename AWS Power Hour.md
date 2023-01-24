@@ -158,6 +158,10 @@
 
 - [Sagemaker debugger](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html) (part of studio). Helps visualize and understand better the errors.
 
+- Sagemaker HyperParameter Tuning:
+
+  - 
+
 - To enable profiling, we need to pass:
 
   - profiler_config (profiling configuration)
