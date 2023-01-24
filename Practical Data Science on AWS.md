@@ -74,4 +74,6 @@
 
   - Data Drifts types (data distribution significantly varies from ):
 
-    - 
+    - Covariant Drift &rarr; distribution of features changes.
+
+    - Prior probability drift &rarr; 
