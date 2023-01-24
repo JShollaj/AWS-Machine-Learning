@@ -118,4 +118,8 @@
 
   ![Alt text](images/AutoML%20Workflow.png)
 
-  - Can be fully managed, or until
+  - Can be fully managed, or until feature engineering.
+
+  - Visibility in optimized in hyper-parameter tuning:
+
+  ![Autopilot](images/Sagemaker%20Autopilot.png)
