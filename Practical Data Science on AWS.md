@@ -113,3 +113,5 @@
   - Lower ML barrier to entry for non Data Scientists.
 
   - Save scarce resources for more vital use cases.
+  
+![Alt text](images/AutoML%20Workflow.png)
