@@ -60,4 +60,4 @@
 
 - Statistical bias and feature importance:
 
-  - 
+  - Statistical Bias: Tendency to overestimate/underestimate a parameter.
