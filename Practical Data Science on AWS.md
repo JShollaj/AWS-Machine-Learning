@@ -12,7 +12,7 @@
 
     - Amazon S3 & Amazon Athena.
 
-      - Athena &rarr; serverless running SQL queries.
+      - Athena &rarr; serverless running SQL queries (petabytes). No data movement required.
 
     - Amazon Glue.
 
