@@ -144,4 +144,8 @@
 
     - When we need highly optimized and scalable solutions.
 
-    - 
+    - Generalized solutions without much customization.
+
+    - Built-in vs Bring Code vs Bring Containers.
+
+    
