@@ -8,7 +8,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [AWS Ramp Up Guide](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Ramp%20Up%20Guide.md)
 
-- ### [AWS Power Hour: 4 Episodes](https://training.resources.awscloud.com/get-certified-machine-learning-specialty)
+- ### [AWS Power Hour: 4 Episodes](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Power%20Hour.md)
 
 - ### [Related Whitepapers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23ai-ml&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 
