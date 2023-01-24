@@ -176,5 +176,17 @@
 
 ## **AWS Power Hour: Security, Operations and the Exam**
 
+- Typical ML Vulnerabilities:
 
+  - Data Poisonining &rarr; ML models are trained on tampered data, leading to inaccurate model predictions.
+
+  - Membership inference &rarr; ability to tell whether a data record was included in the dataset used to train the ML model. This could lead to additional privacy concerns for personnel data.
+
+  - Model inversion &rarr; reverse-engineering of model features and parameters.
+
+- Protecting against them:
+
+  - Launch ML instances in a VPC
+
+    - 
 
