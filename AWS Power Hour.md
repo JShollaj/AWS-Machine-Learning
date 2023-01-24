@@ -216,4 +216,6 @@
 
 - Use Sagemaker provided templates for:
 
-  - 
+  - Processing data, extracting features, train and test models, registering the models in the SageMaker model registry, and deploying the models for inference.
+
+  - We can modify the templates through config_files.
