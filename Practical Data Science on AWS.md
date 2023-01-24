@@ -140,4 +140,6 @@
 
 - **Built-in algorithms**
 
-  - 
+  - Choose built-in algorithms when:
+
+    - 
