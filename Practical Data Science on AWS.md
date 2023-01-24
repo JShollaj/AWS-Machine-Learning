@@ -10,5 +10,14 @@
 
   - Data Exploration & Bias Detection:
 
-   - 
+    - Amazon S3 & Amazon Athena.
 
+    - Amazon Glue.
+
+    - Sagemaker (Data Wrangler, Clarify).
+
+- Prepare & transform:
+
+  - Feature Engineering and Feature Store:
+
+    - 
