@@ -226,3 +226,10 @@
 
 - Service Catalog helps with automating the setup and implementation of MLOps (for Sagemaker Projects).
 
+- Data Quality and Monitoring:
+
+  - 
+
+  - Check schema, quality, baseline statistics, recommended constraints.
+
+  - Uses SNS when boundaries are breached.
