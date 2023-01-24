@@ -202,7 +202,10 @@
 
     - Use AWS Secrets Manager to store your credentials, and then grant permissions to your SageMaker IAM role to access Secrets Manager from your notebook.
 
-  - Monitor model input and output
+  - Monitor model input and output.
+
+    - Use Amazon SageMaker Model Monitor to detect and alert you to drifts in your data and model performance.
+
+  - Enable logging for model access.
 
     - 
-
