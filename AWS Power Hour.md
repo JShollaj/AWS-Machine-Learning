@@ -194,5 +194,11 @@
 
     - Apply IAM through Identity, Resource or Service based policies.
 
-  - 
+  - Use Data Encryption.
+
+    - Choose among three types of custom master keys (CMK) provided by AWS Key Management Service (KMS)
+  
+  - Use Secrets Manager to protect credentials.
+
+    - 
 
