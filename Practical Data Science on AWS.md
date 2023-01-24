@@ -124,7 +124,6 @@
 
   ![Autopilot](images/Sagemaker%20Autopilot.png)
 
-
 - Model Hosting:
   
   - Batch & Real-Time Deployment:
@@ -138,3 +137,7 @@
       - Inverse Label Transformer Container.
 
   - Inference Pipeline.
+
+- **Built-in algorithms**
+
+  - 
