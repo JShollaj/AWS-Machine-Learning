@@ -84,7 +84,7 @@
 
   - DPL - Difference in Proportions of Labels (imbalance between positive outcomes). F.ex way higher ratings?
 
-- Main service to use: **Sagemaker Clarify** (import as library).
+- Main service to use: **Sagemaker Clarify** (import as library). bias config &rarr; run_pre_training_bias
 
   - Bias Detection
 
