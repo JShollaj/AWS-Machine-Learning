@@ -92,3 +92,8 @@
 
   - Report generation
 
+- Detecting statistical biases:
+
+  - Sagemaker Data Wrangler &rarr; UI Based flow; launch bias detection.
+
+  - Sagemaker Clarify &rarr; API based approach, ability to scale (processing jobs distributed).
