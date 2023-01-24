@@ -12,9 +12,13 @@
 
     - Amazon S3 & Amazon Athena.
 
+      - Athena &rarr; serverless running SQL queries.
+
     - Amazon Glue.
 
       - Glue Catalog &rarr; creates reference s3 to data mapping. (Metadata about schema etc.)
+
+      - Glue Crawler &rarr; automatically infers data schema and updates data catalog.
 
     - Sagemaker (Data Wrangler, Clarify).
 
