@@ -114,4 +114,6 @@
 
   - Save scarce resources for more vital use cases.
   
+  - Fully transparent. Walks you through data processing, modelling etc.
+
 ![Alt text](images/AutoML%20Workflow.png)
