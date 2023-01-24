@@ -84,3 +84,11 @@
 
   - DPL - Difference in Proportions of Labels (imbalance between positive outcomes). F.ex way higher ratings?
 
+- Main service to use: **Sagemaker Clarify** (import as library).
+
+  - Bias Detection
+
+  - ML explainability
+
+  - Report generation
+
