@@ -3,4 +3,4 @@
 
 ---
 
-## [**Machine Learning Architecture**](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
+## [**Machine Learning Lens - AWS Well-Architected Framework**](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
