@@ -20,4 +20,10 @@
 
   - Feature Engineering and Feature Store:
 
-    - 
+    - Sagemaker Data Wrangler
+
+    - Sagemaker Feature Store
+
+    - Sagemaker Processing Jobs
+
+- 
