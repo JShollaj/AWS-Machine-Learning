@@ -142,4 +142,6 @@
 
   - Choose built-in algorithms when:
 
+    - When we need highly optimized and scalable solutions.
+
     - 
