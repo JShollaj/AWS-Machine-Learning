@@ -53,3 +53,7 @@
     - Sagemaker Batch Transform
 
     - Sagemaker Pipelines
+
+- Statistical bias and feature importance
+
+  - 
