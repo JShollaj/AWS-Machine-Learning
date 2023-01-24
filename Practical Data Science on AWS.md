@@ -14,7 +14,7 @@
 
     - Amazon Glue.
 
-      - Glue Catalog &rarr; 
+      - Glue Catalog &rarr; creates reference s3 to data mapping. (Metadata about schema etc.)
 
     - Sagemaker (Data Wrangler, Clarify).
 
