@@ -14,6 +14,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Related Whitepapers](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Related%20Whitepapers.md)
 
+- ### [Amazon Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
 
 - ### [Exam Readiness Course](https://training.resources.awscloud.com/get-certified-machine-learning-specialty)
 
