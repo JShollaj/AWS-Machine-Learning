@@ -14,7 +14,11 @@
 
     - Amazon Glue.
 
+      - Glue Catalog &rarr; 
+
     - Sagemaker (Data Wrangler, Clarify).
+
+      - Data Wrangler &rarr; can ingest data from data lakes, warehouses, databases.
 
 - Prepare & transform:
 
