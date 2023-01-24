@@ -228,8 +228,10 @@
 
 - Data Quality and Monitoring:
 
-  - 
+![Alt text](Model%20Deployment%20for%20Drift%20Monitoring.png)
 
-  - Check schema, quality, baseline statistics, recommended constraints.
+- Executed via Sagemaker process job. Enable data capture.
 
-  - Uses SNS when boundaries are breached.
+- Check schema, quality, baseline statistics, recommended constraints.
+
+- Uses SNS when boundaries are breached.
