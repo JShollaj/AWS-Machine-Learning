@@ -1,6 +1,6 @@
 # Analyze Datasets and Train ML Models using AutoML
 
-- ## Introduction to **Practical Data Science**
+## Introduction to **Practical Data Science**
 
 </br>
 
@@ -20,14 +20,28 @@
 
   - Feature Engineering and Feature Store:
 
-    - Sagemaker Data Wrangler
+    - Sagemaker Data Wrangler.
 
-    - Sagemaker Feature Store
+    - Sagemaker Feature Store.
 
-    - Sagemaker Processing Jobs
+    - Sagemaker Processing Jobs.
 
 - Train & Tune:
 
   - Automated ML & Model Train/Tune
 
-    - 
+    - Sagemaker Autopilot.
+
+    - Sagemaker Training & Debugger.
+
+    - Sagemaker Hyperparameter Tuning.
+
+- Deployment & Production:
+
+  - Model Deployment & Automated Pipelines
+
+    - Sagemaker Endpoints
+
+    - Sagemaker Batch Transform
+
+    - Sagemaker Pipelines
