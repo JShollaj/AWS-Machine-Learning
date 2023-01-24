@@ -214,4 +214,6 @@
 
     - Version control to track your code or other model artifacts (can rollback to previous state).
 
-    
+- Use Sagemaker provided templates for:
+
+  - 
