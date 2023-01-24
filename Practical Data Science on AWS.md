@@ -64,4 +64,10 @@
 
   - Biased datasets &rarr; biased models. F.ex vastly more product reviews for A then B.
 
-  
+  - Different Types of Biases:
+
+    - Activity Bias (f.ex popularity of product B than A).
+
+    - Social Bias (f.ex preconceived notions about background).
+
+    - Selection Bias (f.ex streaming movie recommendation wolves vs favorite actors).
