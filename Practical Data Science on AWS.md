@@ -61,3 +61,7 @@
 - Statistical bias and feature importance:
 
   - Statistical Bias: Tendency to overestimate/underestimate a parameter.
+
+  - Biased datasets &rarr; biased models. F.ex vastly more product reviews for A then B.
+
+  
