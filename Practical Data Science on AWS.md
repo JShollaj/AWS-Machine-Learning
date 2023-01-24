@@ -102,4 +102,6 @@
 
   - SHAP &rarr; game theory approach; multiplayer game where outcome of the play is ML prediction. (Local & Global).
 
-  - 
+  - Analysis &rarr; Data Wrangler can create feature importance reports.
+
+- 
