@@ -123,3 +123,10 @@
   - Visibility in optimized in hyper-parameter tuning:
 
   ![Autopilot](images/Sagemaker%20Autopilot.png)
+
+
+- Model Hosting:
+  
+  - Batch & Real-Time Deployment:
+
+    - 
