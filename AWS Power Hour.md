@@ -186,7 +186,13 @@
 
 - Protecting against them:
 
-  - Launch ML instances in a VPC
+  - Launch ML instances in a VPC.
 
-    - 
+    - Control inbound and outbound fo traffic flow isolated compute and network environment
+
+  - Use least privilege to control access to ML artifacts.
+
+    - Apply IAM through Identity, Resource or Service based policies.
+
+  - 
 
