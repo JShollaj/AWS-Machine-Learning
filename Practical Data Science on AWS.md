@@ -76,4 +76,7 @@
 
     - Covariant Drift &rarr; distribution of features changes.
 
-    - Prior probability drift &rarr; 
+    - Prior probability drift &rarr; distribution of target variable changes.
+
+    - Concept Drift &rarr; relationship between both changes (f.ex age, geography location).
+
