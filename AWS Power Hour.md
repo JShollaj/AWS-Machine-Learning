@@ -208,4 +208,8 @@
 
   - Enable logging for model access.
 
-    - 
+    - Grant API Gateway permission to read and write logs to CloudWatch, and then enable CloudWatch Logs with API Gateway.
+
+  - Use version control on model artifacts.
+
+    - Version control to track your code or other model artifacts (can rollback to previous state).
