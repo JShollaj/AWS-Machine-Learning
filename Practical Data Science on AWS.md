@@ -129,4 +129,12 @@
   
   - Batch & Real-Time Deployment:
 
-    - 
+    - Multiple Containers (Pipeline Model):
+
+      - Data transformation container.
+
+      - Algorithm Container.
+
+      - Inverse Label Transformer Container.
+
+  - Inference Pipeline.
