@@ -223,3 +223,5 @@
   - Other pre-configurations include: image building, model monitoring etc.
 
   - Can see DAGS for flow of ML.
+
+- Service Catalog helps with automating the setup and implementation of MLOps.
