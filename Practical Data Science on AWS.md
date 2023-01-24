@@ -54,6 +54,10 @@
 
     - Sagemaker Pipelines
 
-- Statistical bias and feature importance
+- Typical ML workflow and tools:
+
+![Alt text](ML%20Workflow.png)
+
+- Statistical bias and feature importance:
 
   - 
