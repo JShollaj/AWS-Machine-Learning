@@ -402,3 +402,9 @@ Summary of the Coursera Series. Composed of three parts:
   - Use small number of concurrent training jobs.
 
   - Right size of compute resources.
+
+- Checkpointing:
+
+  - Not re-running the whole thing (just from a given checkpoint).
+
+  - 
