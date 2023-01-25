@@ -252,8 +252,14 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Configure dataset & evaluation metrics.
 
+    - Train/Test/Val Split
+
+    - 
+
   - Configure hyper-parameters.
 
   - Provide training script.
 
   - Fit the model.
+
+  ![Alt text](images/Configure%20Training.png)
