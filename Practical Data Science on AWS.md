@@ -191,3 +191,13 @@ Summary of the Coursera Series. Composed of three parts:
   - Split Dataset
 
   - Transform (Output of Features to be used for Training)
+
+</br>
+
+- BERT
+
+  - Based on Transformer Architecture.
+
+  - Operates on Sentence Level.
+  
+
