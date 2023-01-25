@@ -224,3 +224,13 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Discoverable (so that people can easily access it).
 
+  - Can be retrained, and deleted after training.
+
+- Sagemaker Feature Store
+
+  - Centralized repository for depositing features.
+
+  - Easily scalable.
+
+  - Real-time & batch ability to lookup up features.
+
