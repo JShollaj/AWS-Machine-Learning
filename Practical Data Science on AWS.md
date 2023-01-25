@@ -311,3 +311,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Captures debugging metrics (data, framework, output tensors etc.)
 
+</br>
+
+![Alt text](images/Debugger.png)
