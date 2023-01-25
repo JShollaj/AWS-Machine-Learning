@@ -1,6 +1,6 @@
-# Analyze Datasets and Train ML Models using AutoML
+# Introduction to **Practical Data Science**
 
-## Introduction to **Practical Data Science**
+## Analyze Datasets and Train ML Models using AutoML
 
 </br>
 
@@ -148,3 +148,6 @@
 
     - Built-in vs Bring Code vs Bring Containers.
 
+---
+
+## Analyze Datasets and Train ML Models using AutoML
