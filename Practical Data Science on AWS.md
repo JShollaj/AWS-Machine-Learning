@@ -337,4 +337,4 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Enable Traceability (Code Versioning & Data Versioning).
 
-  - Pipeline Checks (Bias, Schema, )
+  - Pipeline Checks (Bias, Schema, Quality)
