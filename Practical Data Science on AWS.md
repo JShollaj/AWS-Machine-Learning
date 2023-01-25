@@ -359,4 +359,8 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Data Processing (integrates with sagemaker processing job).
 
-  - 
+  - Data Training (integrates with sagemaker training job).
+
+  - Evaluation (using data processing to evaluate holdout test).
+
+  
