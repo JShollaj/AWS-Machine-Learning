@@ -361,8 +361,8 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Data Training (integrates with sagemaker training job).
 
-  - Evaluation (using data processing to evaluate holdout test).
+  - Evaluation (using sagemaker processing job to evaluate holdout test).
 
   - Add Accuracy Condition (sagemaker workflow condition).
 
-  - 
+  - Register Model &rarr; Create Model
