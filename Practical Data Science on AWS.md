@@ -389,4 +389,10 @@ Summary of the Coursera Series. Composed of three parts:
 
   - HyperBand &rarr; multiarmed bandits approach (explore / exploit). (Probably best for time, but might leave good candidates out early).
 
-- Sagemaker Hyper Parameter Tuner
+- Sagemaker Hyper Parameter Tuner.
+
+- Best Practices:
+
+  - Start with small range & number of HP.
+
+  - 
