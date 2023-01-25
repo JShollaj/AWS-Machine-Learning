@@ -387,4 +387,4 @@ Summary of the Coursera Series. Composed of three parts:
 
   - BayesianOptimizationCV &rarr; solver HPT as regression problem. (continuous improvement, but might get stuck in local minima).
 
-  - HyperBand
+  - HyperBand &rarr; multiarmed bandits approach (explore / exploit).
