@@ -240,5 +240,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Using pre-trained models, helps reduce training time & costs (adapting to our use case).
 
-  - 
+  - Built-in vs Pre-Trained Difference (Code vs Model)
 
+  - 
