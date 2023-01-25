@@ -179,3 +179,5 @@ Summary of the Coursera Series. Composed of three parts:
     </br>
 
   - **Feature Creation** &rarr; combine new features or infer new attributes to increase accuracy of predictions.
+
+  - **Feature Transformation** &rarr; imputing, scaling or transforming.
