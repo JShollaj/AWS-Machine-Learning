@@ -181,3 +181,14 @@ Summary of the Coursera Series. Composed of three parts:
   - **Feature Creation** &rarr; combine new features or infer new attributes to increase accuracy of predictions.
 
   - **Feature Transformation** &rarr; imputing, scaling or transforming.
+
+
+- Feature Engineering Pipeline:
+
+  - Select Features & Labels
+
+  - Balance Dataset by Label
+
+  - Split Dataset
+
+  - Transform
