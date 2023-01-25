@@ -321,4 +321,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 - MLOps
 
-  - 
+  - Different from Software Development Lifecycle
+
+    - Additional Pipeline tasks (new data generated).
+
+    - 
