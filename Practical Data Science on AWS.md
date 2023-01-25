@@ -427,5 +427,9 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Blue / Green  &rarr; shifting from original deployment to a new one through load balancer. (Rollback / Swap). However if there other deployment sucks we're bad.
 
-  - Shadow / Challenger  &rarr; serving both models requests, but only one gets response.
+  - Shadow / Challenger  &rarr; serving both models requests, but only one gets response. We analyze, first - if ok then we shift.
+
+  - Canary  &rarr; split traffic between smaller specific groups, while majority is still in one. Good for validating a bit first, before going all in.
+
+  - A/B Testing  &rarr; we split traffic between larger groups, to cross compare (even more than 2). Gathering live performance data.
 
