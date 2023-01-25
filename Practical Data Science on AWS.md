@@ -438,5 +438,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Amazon Sagemaker Hosting:
 
+  - Autoscaling workload demands.
+
   - 
 
