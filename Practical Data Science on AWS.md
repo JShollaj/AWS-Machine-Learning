@@ -385,6 +385,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - RandomSearchCV &rarr; tests random combinations within search space. (faster, but less accurate).
 
-  - BayesianOptimizationCV
+  - BayesianOptimizationCV &rarr; solver HPT as regression problem. (continuous improvement, but might get stuck in local minima).
 
   - HyperBand
