@@ -417,3 +417,6 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Optimizer
 
+- Beware of high frequency and number of checkpoints (storage).
+
+-
