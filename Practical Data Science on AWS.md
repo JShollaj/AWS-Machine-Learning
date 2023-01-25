@@ -407,4 +407,13 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Not re-running the whole thing (just from a given checkpoint).
 
-  - 
+  - Snapshots of:
+
+    - Model Architecture
+
+    - Model Weigths
+
+    - Training Configurations
+
+    - Optimizer
+
