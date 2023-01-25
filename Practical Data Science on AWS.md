@@ -238,5 +238,5 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Model Training & Tuning
 
-  - 
+  - Using pre-trained models, helps reduce training time & 
 
