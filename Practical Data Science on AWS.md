@@ -247,3 +247,13 @@ Summary of the Coursera Series. Composed of three parts:
   - Has pre-trained models from TensorFlow Hub & PyTorch Hub.
 
   - Lets us deploy and/or fine-tune (NLP, CV etc.) in one click.
+
+- Storing training images
+
+  - Configure dataset & evaluation metrics.
+
+  - Configure hyper-parameters.
+
+  - Provide training script.
+
+  - Fit the model.
