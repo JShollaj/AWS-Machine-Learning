@@ -245,3 +245,5 @@ Summary of the Coursera Series. Composed of three parts:
 - Sagemaker Jumpstart
 
   - Has pre-trained models from TensorFlow Hub & PyTorch Hub.
+
+  - Lets us deploy and/or fine-tune (NLP, CV etc.) in one click.
