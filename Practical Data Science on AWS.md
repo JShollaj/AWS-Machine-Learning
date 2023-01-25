@@ -363,4 +363,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Evaluation (using data processing to evaluate holdout test).
 
-  
+  - Add Accuracy Condition (sagemaker workflow condition).
+
+  - 
