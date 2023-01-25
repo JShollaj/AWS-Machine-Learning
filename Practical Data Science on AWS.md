@@ -291,4 +291,6 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Exploding Gradients &rarr; the inverse of the vanishing gradient and occurs when large error gradients accumulate, resulting in extremely large updates to neural network model weights during training. As a result, the model is unstable and incapable of learning from your training data.
 
-    
+    - Bad Initialization &rarr; issues when we have same initialization values, too small, or too big init values lead to vanishing/exploding.
+
+    - 
