@@ -66,31 +66,31 @@
 
   - Different Types of Biases:
 
-    - Activity Bias (f.ex popularity of product B than A).
+    - **Activity** Bias (f.ex popularity of product B than A).
 
-    - Social Bias (f.ex preconceived notions about background).
+    - **Social** Bias (f.ex preconceived notions about background).
 
-    - Selection Bias (f.ex streaming movie recommendation wolves vs favorite actors).
+    - **Selection** Bias (f.ex streaming movie recommendation wolves vs favorite actors).
 
   - Data Drifts types (data distribution significantly varies from ):
 
-    - Covariant Drift &rarr; distribution of features changes.
+    - *Covariant Drift* &rarr; distribution of features changes.
 
-    - Prior probability drift &rarr; distribution of target variable changes.
+    - *Prior probability Drift* &rarr; distribution of target variable changes.
 
-    - Concept Drift &rarr; relationship between both changes (f.ex age, geography location).
+    - *Concept Drift* &rarr; relationship between both changes (f.ex age, geography location).
 
-  - Class Imbalance &rarr; (Disproportionate reviews)?
+  - *Class Imbalance* &rarr; (Disproportionate reviews)?
 
-  - DPL - Difference in Proportions of Labels (imbalance between positive outcomes). F.ex way higher ratings?
+  - *DPL* - *Difference in Proportions of Labels* (imbalance between positive outcomes). F.ex way higher ratings?
 
 - Main service to use: **Sagemaker Clarify** (import as library). bias config &rarr; run_pre_training_bias
 
-  - Bias Detection
+  - **Bias** Detection
 
-  - ML explainability
+  - ML **explainability**
 
-  - Report generation
+  - **Report** generation
 
 - Detecting statistical biases:
 
@@ -100,11 +100,11 @@
 
 - Feature Importance:
 
-  - SHAP &rarr; game theory approach; multiplayer game where outcome of the play is ML prediction. (Local & Global).
+  - **SHAP** &rarr; game theory approach; multiplayer game where *outcome of the play is ML prediction*. (Local & Global).
 
-  - Analysis &rarr; Data Wrangler can create feature importance reports.
+  - Analysis &rarr; Data Wrangler can create *feature importance reports*.
 
-- Auto-ML
+- **Auto-ML**
 
   - Reduce Time-to-Market.
 
@@ -130,13 +130,13 @@
 
     - Multiple Containers (Pipeline Model):
 
-      - Data transformation container.
+      - *Data transformation* container.
 
-      - Algorithm Container.
+      - *Algorithm* Container.
 
-      - Inverse Label Transformer Container.
+      - *Inverse Label* Transformer Container.
 
-  - Inference Pipeline.
+  - *Inference* Pipeline.
 
 - **Built-in algorithms**
 
@@ -148,4 +148,3 @@
 
     - Built-in vs Bring Code vs Bring Containers.
 
-    
