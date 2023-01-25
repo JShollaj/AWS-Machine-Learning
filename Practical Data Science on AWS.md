@@ -212,3 +212,5 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Can scale through distributed clusters.
 
+  - Built-in Sklearn container.
+
