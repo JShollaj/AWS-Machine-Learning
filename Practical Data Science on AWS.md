@@ -268,7 +268,7 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Provide training script.
 
-    - Importing transformers, model configurations, 
+    - Importing transformers, model configurations, model name, train model (def - loss function & optimizer).
 
   - Fit the model.
 
