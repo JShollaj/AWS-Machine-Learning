@@ -395,4 +395,10 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Start with small range & number of HP.
 
-  - 
+  - Warm start. (Uses result from previous jobs).
+
+  - Enable early stop.
+
+  - Use small number of concurrent training jobs.
+
+  - Right size of compute resources.
