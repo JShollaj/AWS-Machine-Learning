@@ -254,7 +254,7 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Train/Test/Val Split
 
-    - Use Sagemaker Input 
+    - Use Sagemaker Training Input to configure data input flow, for the training.
 
     - Evaluation Metrics (Validation Loss VS Validation Accuracy)
 
