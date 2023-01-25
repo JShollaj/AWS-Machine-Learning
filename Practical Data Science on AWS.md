@@ -354,3 +354,9 @@ Summary of the Coursera Series. Composed of three parts:
   - Automatic tracking of models.
 
   - Bring CI/CD to Machine Learning.
+
+- Step by Step Integration:
+
+  - Data Processing (integrates with sagemaker processing job).
+
+  - 
