@@ -326,3 +326,8 @@ Summary of the Coursera Series. Composed of three parts:
     - Additional Pipeline tasks (new data generated).
 
     - Considerations (People, Tech, Process).
+
+    </br>
+
+![Automated Quality Gate](images/Automated%20Quality%20Gates.png)
+
