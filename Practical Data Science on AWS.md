@@ -334,3 +334,7 @@ Summary of the Coursera Series. Composed of three parts:
 - Best practice for MLOps:
 
   - Use Data Lakes.
+
+  - Enable Traceability (Code Versioning & Data Versioning).
+
+  - Pipeline Checks (Bias, Schema, )
