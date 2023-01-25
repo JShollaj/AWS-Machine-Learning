@@ -388,3 +388,5 @@ Summary of the Coursera Series. Composed of three parts:
   - BayesianOptimizationCV &rarr; solver HPT as regression problem. (continuous improvement, but might get stuck in local minima).
 
   - HyperBand &rarr; multiarmed bandits approach (explore / exploit). (Probably best for time, but might leave good candidates out early).
+
+- Sagemaker Hyper Parameter Tuner
