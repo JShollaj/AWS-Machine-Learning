@@ -172,4 +172,6 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Feature Engineering (Main Steps):
 
-  - Feature Selections &rarr; 
+  - **Feature Selection** &rarr; reduce dimensionality for faster training.
+
+    - Feature selection score
