@@ -48,19 +48,19 @@
 
   - Model Deployment & Automated Pipelines
 
-    - Sagemaker Endpoints
+    - Sagemaker **Endpoints**.
 
-    - Sagemaker Batch Transform
+    - Sagemaker **Batch Transform**.
 
-    - Sagemaker Pipelines
+    - Sagemaker **Pipelines**.
 
 - Typical ML workflow and tools:
 
-![Alt text](ML%20Workflow.png)
+![Alt text](images/ML%20Workflow.png)
 
 - Statistical bias and feature importance:
 
-  - Statistical Bias: Tendency to overestimate/underestimate a parameter.
+  - **Statistical Bias**: Tendency to *overestimate/underestimate* a parameter.
 
   - Biased datasets &rarr; biased models. F.ex vastly more product reviews for A then B.
 
