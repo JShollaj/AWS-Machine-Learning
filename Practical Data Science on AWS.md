@@ -287,4 +287,8 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Common training errors:
 
-    - 
+    - Vanishing Gradients &rarr; When there are more layers in the network, the value of the product of derivative decreases until at some point the partial derivative of the loss function approaches a value close to zero, and the partial derivative vanishes
+
+    - Exploding Gradients &rarr; the inverse of the vanishing gradient and occurs when large error gradients accumulate, resulting in extremely large updates to neural network model weights during training. As a result, the model is unstable and incapable of learning from your training data.
+
+    
