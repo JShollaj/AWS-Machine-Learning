@@ -254,13 +254,17 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Train/Test/Val Split
 
+    - Use Sagemaker Input 
+
     - Evaluation Metrics (Validation Loss VS Validation Accuracy)
 
   - Configure hyper-parameters.
 
-    - 
+    - Number of Epochs, learning rate.
 
   - Provide training script.
+
+    - 
 
   - Fit the model.
 
