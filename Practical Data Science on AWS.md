@@ -199,5 +199,8 @@ Summary of the Coursera Series. Composed of three parts:
   - Based on Transformer Architecture.
 
   - Operates on Sentence Level.
-  
+
+  - Using Bi-Directional form, it can capture context.
+
+
 
