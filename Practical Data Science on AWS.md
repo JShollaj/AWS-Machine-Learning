@@ -313,7 +313,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 </br>
 
-- Debugger Building Rules
+- Debugger Building Rules (Import rules & rules_config).
 
 ![Debugger](images/Debugger.png)
 
