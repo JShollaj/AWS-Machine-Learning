@@ -342,3 +342,5 @@ Summary of the Coursera Series. Composed of three parts:
   - Log (Model, System Data).
 
   - Monitoring (Collect Metrics, Setup Alerts, Trigger Events).
+
+  - Model Lineage & Artifacts.
