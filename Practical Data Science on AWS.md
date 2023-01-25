@@ -168,3 +168,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 ## Build, Train, and Deploy ML Pipelines using BERT
 
+</br>
+
+- Feature Engineering (Main Steps):
+
+  - Feature Selections &rarr; 
