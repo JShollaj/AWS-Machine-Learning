@@ -176,4 +176,6 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Feature selection *score* through **Data Wrangler**
 
-  - **Feature Creation** &rarr; 
+    </br>
+
+  - **Feature Creation** &rarr; combine new features or infer new attributes to increase accuracy of predictions.
