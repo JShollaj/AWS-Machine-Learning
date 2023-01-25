@@ -214,3 +214,13 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Built-in Sklearn container.
 
+- Feature Store
+
+  - Repository to store engineered features.
+
+  - Centralized (many people can contribute).
+
+  - Reusable (can be used in multiple projects).
+
+  - Discoverable (so that people can easily access it).
+
