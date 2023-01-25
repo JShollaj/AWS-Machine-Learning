@@ -293,4 +293,12 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Bad Initialization &rarr; issues when we have same initialization values, too small, or too big init values lead to vanishing/exploding.
 
-    - 
+    - Overfitting/Underfitting.
+
+  -System resources issues (bottlenecks):
+
+    - I/O usage (for loading data)
+
+    - CPU & Memory Usage ()
+
+    - GPU Usage
