@@ -305,4 +305,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Sagemaker Debugger
 
+  - Monitors & profiles system resources (CPU, GPU, network, memory) in real time.
+
+  - Given recommendations on reallocation of resources.
+
   - 
