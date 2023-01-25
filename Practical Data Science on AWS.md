@@ -344,3 +344,13 @@ Summary of the Coursera Series. Composed of three parts:
   - Monitoring (Collect Metrics, Setup Alerts, Trigger Events).
 
   - Model Lineage & Artifacts.
+
+- Sagemaker Pipelines:
+
+  - Create and visualize workflows.
+
+  - Choose best performing model to deploy.
+
+  - Automatic tracking of models.
+
+  - Bring CI/CD to Machine Learning.
