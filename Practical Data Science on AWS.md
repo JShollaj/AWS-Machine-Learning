@@ -236,7 +236,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 </br>
 
-- Model Training
+- Model Training & Tuning
 
   - 
 
