@@ -1,4 +1,4 @@
-# **Practical Data Science with AWS**
+# **[Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)**
 
 Summary of the Coursera Series. Composed of three parts:
 
@@ -8,6 +8,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Optimize ML Models and Deploy Human-in-the-Loop Pipelines.
 
+***Highly recommended to do the hands on lab!***
 
 ## Analyze Datasets and Train ML Models using AutoML
 
