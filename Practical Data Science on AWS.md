@@ -383,7 +383,7 @@ Summary of the Coursera Series. Composed of three parts:
 
   - GridSearchCV &rarr; tests every combination (time consuming, but most accurate).
 
-  - RandomSearchCV &rarr; 
+  - RandomSearchCV &rarr; tests random combinations within search space. (faster, but less accurate).
 
   - BayesianOptimizationCV
 
