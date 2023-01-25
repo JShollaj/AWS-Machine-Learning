@@ -204,5 +204,11 @@ Summary of the Coursera Series. Composed of three parts:
 
   - RoBERTa - A Robustly Optimized BERT Pretraining Approach
 
+  - Potential Challenge: Using feature engineering at scale!
 
+- Sagemaker Processing
+
+  - Performs preprocessing, postprocessing & data evaluation at scale.
+
+  - Can scale through distributed clusters.
 
