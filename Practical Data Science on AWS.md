@@ -433,3 +433,10 @@ Summary of the Coursera Series. Composed of three parts:
 
   - A/B Testing  &rarr; we split traffic between larger groups, to cross compare (even more than 2). Gathering live performance data.
 
+  - Multi-Armed Bandits  &rarr; the most dynamic and quickly adaptable. Reinforcement learning.
+
+
+- Amazon Sagemaker Hosting:
+
+  - 
+
