@@ -1,4 +1,13 @@
-# Introduction to **Practical Data Science**
+# **Practical Data Science with AWS**
+
+Summary of the Coursera Series. Composed of three parts:
+
+- Analyze Datasets and Train ML Models using AutoML.
+
+- Build, Train, and Deploy ML Pipelines using BERT.
+
+- Optimize ML Models and Deploy Human-in-the-Loop Pipelines.
+
 
 ## Analyze Datasets and Train ML Models using AutoML
 
@@ -148,6 +157,10 @@
 
     - Built-in vs Bring Code vs Bring Containers.
 
+</br>
+
 ---
 
-## Analyze Datasets and Train ML Models using AutoML
+</br>
+
+## Build, Train, and Deploy ML Pipelines using BERT
