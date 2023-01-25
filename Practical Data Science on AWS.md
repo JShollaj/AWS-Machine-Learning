@@ -242,4 +242,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Built-in vs Pre-Trained Difference (Code vs Model)
 
-  - 
+- Sagemaker Jumpstart
+
+  - Has pre-trained models from TensorFlow Hub & PyTorch Hub.
