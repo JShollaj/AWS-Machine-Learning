@@ -423,4 +423,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Data Parallelism & Model Parallelism
 
-  
+- Deployment Strategies:
+
+  - Blue / Green 
