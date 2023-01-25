@@ -435,10 +435,11 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Multi-Armed Bandits  &rarr; the most dynamic and quickly adaptable. Reinforcement learning.
 
-
 - Amazon Sagemaker Hosting:
 
   - Autoscaling workload demands.
+
+  - Add cloudwatch metrics to configure the endpoints.
 
   - 
 
