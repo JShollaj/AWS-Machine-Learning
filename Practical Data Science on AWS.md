@@ -10,6 +10,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 ***Highly recommended to do the hands on lab!***
 
+</br>
+
 ## Analyze Datasets and Train ML Models using AutoML
 
 </br>
@@ -165,3 +167,4 @@ Summary of the Coursera Series. Composed of three parts:
 </br>
 
 ## Build, Train, and Deploy ML Pipelines using BERT
+
