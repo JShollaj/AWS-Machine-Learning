@@ -425,4 +425,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Deployment Strategies:
 
-  - Blue / Green 
+  - Blue / Green  &rarr; shifting from original deployment to a new one through load balancer. (Rollback / Swap). However if there other deployment sucks we're bad.
+
+  - 
+
