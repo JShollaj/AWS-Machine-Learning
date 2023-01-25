@@ -365,4 +365,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Add Accuracy Condition (sagemaker workflow condition).
 
-  - Register Model &rarr; Create Model
+  - Register Model &rarr; Create Model.
+
+- Best practice &rarr; make use of already build in MLOps templates.
