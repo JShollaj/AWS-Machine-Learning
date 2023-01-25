@@ -295,10 +295,14 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Overfitting/Underfitting.
 
-  -System resources issues (bottlenecks):
+  - System resources issues (bottlenecks):
 
     - I/O usage (for loading data)
 
-    - CPU & Memory Usage ()
+    - CPU & Memory Usage (when processing data)
 
-    - GPU Usage
+    - GPU Usage (training data)
+
+- Sagemaker Debugger
+
+  - 
