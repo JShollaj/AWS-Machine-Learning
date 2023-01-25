@@ -174,4 +174,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - **Feature Selection** &rarr; reduce dimensionality for faster training.
 
-    - Feature selection score
+    - Feature selection *score* through **Data Wrangler**
+
+  - **Feature Creation** &rarr; 
