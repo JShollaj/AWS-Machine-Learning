@@ -272,4 +272,19 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Fit the model.
 
+    - Import Sagemaker PytorchEstimator.
+
+    - Add requirements & instance types.
+
+    - Pass defined hyperparameters.
+
+    - Add estimator.fit.
+
   ![Alt text](images/Configure%20Training.png)
+  
+
+- Debugging & Profiling
+
+  - Common training errors:
+
+    - 
