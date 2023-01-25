@@ -313,4 +313,7 @@ Summary of the Coursera Series. Composed of three parts:
 
 </br>
 
-![Alt text](images/Debugger.png)
+- Debugger Building Rules
+
+![Debugger](images/Debugger.png)
+
