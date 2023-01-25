@@ -331,3 +331,6 @@ Summary of the Coursera Series. Composed of three parts:
 
 ![Automated Quality Gate](images/Automated%20Quality%20Gates.png)
 
+- Best practice for MLOps:
+
+  - Use Data Lakes.
