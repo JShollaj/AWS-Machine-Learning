@@ -317,3 +317,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 ![Debugger](images/Debugger.png)
 
+</br>
+
+- MLOps
+
+  - 
