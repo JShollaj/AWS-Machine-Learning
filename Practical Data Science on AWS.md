@@ -368,3 +368,14 @@ Summary of the Coursera Series. Composed of three parts:
   - Register Model &rarr; Create Model.
 
 - Best practice &rarr; make use of already build in MLOps templates.
+
+</br>
+
+---
+
+</br>
+
+## Optimize ML Models and Deployment
+
+</br>
+
