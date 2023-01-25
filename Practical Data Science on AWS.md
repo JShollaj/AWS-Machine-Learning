@@ -256,11 +256,15 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Use Sagemaker Training Input to configure data input flow, for the training.
 
-    - Evaluation Metrics (Validation Loss VS Validation Accuracy)
+    - Use CloudWatch to define RegEx expressions 
+
+  - Evaluation Metrics (Validation Loss VS Validation Accuracy)
 
   - Configure hyper-parameters.
 
     - Number of Epochs, learning rate.
+
+  </br>
 
   - Provide training script.
 
