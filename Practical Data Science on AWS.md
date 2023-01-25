@@ -202,5 +202,7 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Using Bi-Directional form, it can capture context.
 
+  - RoBERTa - A Robustly Optimized BERT Pretraining Approach
+
 
 
