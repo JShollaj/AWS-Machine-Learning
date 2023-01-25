@@ -182,13 +182,12 @@ Summary of the Coursera Series. Composed of three parts:
 
   - **Feature Transformation** &rarr; imputing, scaling or transforming.
 
-
 - Feature Engineering Pipeline:
 
-  - Select Features & Labels
+  - Select Features & Labels (Input of Raw Data)
 
   - Balance Dataset by Label
 
   - Split Dataset
 
-  - Transform
+  - Transform (Output of Features to be used for Training)
