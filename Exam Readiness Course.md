@@ -90,6 +90,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Services which can enable batch ingestion:
 
+      - AWS Glue (ETL Service)
+
       - 
 
   - Identify and implement a data-transformation solution.
