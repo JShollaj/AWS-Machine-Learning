@@ -222,11 +222,15 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Frame business problems as ML problems.**
 
-  - Should we use ML?
+  - Use ML, when?
 
-    - If tons of data, and we can make prediction, yes!
+    - If tons of data, and we can make prediction.
 
-    - 
+    - If we cannot code rules.
+
+    - If we cannot scale current solution.
+
+
 
 - **Select appropriate model(s) for given problem.**
 
