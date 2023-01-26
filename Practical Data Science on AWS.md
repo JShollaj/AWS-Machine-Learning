@@ -476,3 +476,9 @@ Summary of the Coursera Series. Composed of three parts:
     - Enable data capture.
 
     - Set baselines.
+
+    - Set up monitor schedule.
+
+    - Interpreting Results (could be with cloud watch).
+
+  - 
