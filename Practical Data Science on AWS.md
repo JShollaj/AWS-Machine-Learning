@@ -456,3 +456,7 @@ Summary of the Coursera Series. Composed of three parts:
   - Models:
 
     - Decay or changed informations (degradation).
+
+    - Concept drift (change in environment - label).
+
+    - 
