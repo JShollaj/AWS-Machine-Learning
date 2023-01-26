@@ -88,7 +88,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Cheaper, simpler method for periodically ingesting data.
 
-    - 
+    - Services which can enable it
 
   - Identify and implement a data-transformation solution.
 
