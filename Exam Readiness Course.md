@@ -100,7 +100,17 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Streaming has the following attributes:
 
-    - 
+    - Data is sourced, manipulated, and loaded as soon as it is created or recognized.
+
+    - More expensive, harder to maintain.
+
+    - The following services are associated with streaming data:
+
+      - Kinesis Video Stream
+
+      - Kinesis Data Analytics
+
+      - Kinesis 
 
   - Identify and implement a data-transformation solution.
 
