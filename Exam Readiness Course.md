@@ -80,10 +80,16 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Amazon S3 lifecycle configuration &#x2610;
 
+</br>
+
 - **Identify and implement a data-ingestion solution**.
 
   - Batch vs Streaming Ingestion
 
+    - Cheaper, simpler method for periodically ingesting data.
+
+    - 
+
   - Identify and implement a data-transformation solution.
 
-</br>
+
