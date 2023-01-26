@@ -138,5 +138,11 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 ### **Domain 2: Exploratory Data Analysis**
 
+</br>
 
+- Sanitize and prepare data for modeling.
+
+- Perform feature engineering.
+
+- Analyze and visualize data for ML.
 
