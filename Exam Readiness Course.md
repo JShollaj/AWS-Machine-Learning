@@ -20,7 +20,13 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 </br>
 
-## 2. Main Domains Which Will be Tested
+## 2. Exam Overview and Test-Taking Strategies
+
+</br>
+
+- Focus on key phrases, and qualifier to easily discard distracting questions.
+
+- Eleminate the 
 
 </br>
 
