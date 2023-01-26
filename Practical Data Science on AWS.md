@@ -534,3 +534,15 @@ Summary of the Coursera Series. Composed of three parts:
     - Custom &rarr; GroundTruth Templates
 
       - Lambda &rarr; GroundTruth &rarr; Lambda
+
+</br>
+
+- Best Labeling practices:
+
+  - Provide clear instructions.
+
+  - Consolidate annotations to improve label quality.
+
+  - Verify and adjust labels.
+
+  - Use active learning / automated data labeling on large datasets.
