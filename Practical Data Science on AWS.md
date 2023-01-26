@@ -459,4 +459,8 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Concept drift (change in environment - label).
 
-    - 
+      - Continue to gather ground truth and keep checking performance.
+
+    - Data Drift (change in input / features).
+
+      - 
