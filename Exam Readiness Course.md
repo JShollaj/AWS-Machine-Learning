@@ -230,8 +230,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - If we cannot scale current solution.
 
-- **Select appropriate model(s) for given problem.**
-
   - ML Algorithms:
 
     - Supervised:
@@ -242,10 +240,29 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Regression problems.
 
-    - Unsupervised:
+    - Unsupervised
 
+    - Reinforcement
 
-    - Reinforcement:
+  - Topics to study:
+
+    - Supervised learning
+
+    - Regression and classification
+
+    - Unsupervised learning
+
+    - Clustering
+
+    - Anomaly detection
+
+    - Deep learning
+
+    - Perceptron
+
+    - Components of an artificial neuron
+
+- **Select appropriate model(s) for given problem.**
 
 - **Train ML models.**
 
