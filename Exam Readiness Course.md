@@ -160,9 +160,29 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Topics to study more:
 
-    - 
+    - Dataset generation
 
-- Perform feature engineering.
+      - Amazon SageMaker Ground Truth
+
+      - Amazon Mechanical Turk
+
+      - Amazon Kinesis Data Analytics
+
+      - Amazon Kinesis Video Streams
+
+    - Data augmentation
+
+    - Descriptive statistics
+
+    - Informative statistics
+
+    - Handling missing values and outliers
+
+- **Perform feature engineering.**
+
+  - Reduce features (PCA, t-distributed stochastic neighbor embedding).
+
+  - 
 
 - Analyze and visualize data for ML.
 
