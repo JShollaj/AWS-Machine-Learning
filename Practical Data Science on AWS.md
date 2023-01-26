@@ -490,3 +490,7 @@ Summary of the Coursera Series. Composed of three parts:
   - Statistical Bias Monitoring:
 
     - Integrate SageMaker Clarify with SageMaker Model monitor - and repeat same steps.
+
+  - Feature Attribution Monitor:
+
+    - 
