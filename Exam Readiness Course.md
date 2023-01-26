@@ -182,6 +182,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Reduce features (PCA, t-distributed stochastic neighbor embedding).
 
+  - For numerical we can transform (multiply, square, cube).
+
   - 
 
 - Analyze and visualize data for ML.
