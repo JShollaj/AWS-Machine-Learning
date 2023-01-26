@@ -129,3 +129,14 @@ A brief refresher into what will be tested. We have covered below a concise vers
       - Apache Kafka &#x2610;
 
   - Identify and implement a data-transformation solution.
+
+  </br>
+
+  ---
+
+  </br>
+
+### **Domain 2: Exploratory Data Analysis**
+
+
+
