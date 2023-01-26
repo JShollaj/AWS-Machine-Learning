@@ -441,5 +441,7 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Add cloudwatch metrics to configure the endpoints.
 
+ - Sagemaker batch transform job:
+
   - 
 
