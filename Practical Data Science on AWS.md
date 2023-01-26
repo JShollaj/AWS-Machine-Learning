@@ -546,3 +546,5 @@ Summary of the Coursera Series. Composed of three parts:
   - Verify and adjust labels.
 
   - Use active learning / automated data labeling on large datasets.
+
+  - Re-use prior labeling jobs.
