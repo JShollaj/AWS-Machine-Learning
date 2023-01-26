@@ -300,4 +300,14 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Data Hyperparameters (augementation - cropping, resizing).
 
+  - Topics to study:
+
+    - Amazon SageMaker hyperparameter tuning jobs
+
+    - Common hyperparameters to tune
+
+    - Regularization
+
+    - 
+
 - **Evaluate ML Models.**
