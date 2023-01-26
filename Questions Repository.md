@@ -51,3 +51,11 @@ This is a list of all questions I could gather from all the sources I used. You 
     **What techniques can the team use to reach the goal?**
 
 </br>
+
+8. A Machine Learning Engineer is creating and preparing data for a linear regression model. However, while preparing the data, the Engineer notices that about 20% of the numerical data contains missing values in the same two columns. The shape of the data is 500 rows by 4 columns, including the target column.
+
+   **How could the Engineer handle the missing values in the data?**
+
+</br>
+
+9. 
