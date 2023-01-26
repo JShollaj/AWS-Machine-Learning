@@ -272,6 +272,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
   
     - 80%:10%:10%. or 70%:15%:15%
 
+    - Cross Validation (compare the performance of multiple models)
+
+      - 
+
 - **Perform hyperparameter optimization.**
 
 - **Evaluate ML Models.**
