@@ -497,6 +497,8 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Humans in the Loop
 
-  - Data Labeling.
+  - Data Labeling (identifying raw data adding informative labels, f.ex X-Ray, Cat Images etc.)
 
-  - 
+  - Automated + Human Labeling:
+
+    - 
