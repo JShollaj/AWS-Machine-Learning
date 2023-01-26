@@ -216,3 +216,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 </br>
 
+### **Domain 3: Modeling**
+
+</br>
+
