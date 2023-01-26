@@ -16,4 +16,8 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
-3. 
+3. A healthcare company using the AWS Cloud has access to a variety of data types, including raw and preprocessed data. The company wants to start using this data for its ML pipeline, but also wants to make sure the data is highly available and located in a centralized repository.
+
+   **What approach should the company take to achieve the desired outcome?**
+
+   
