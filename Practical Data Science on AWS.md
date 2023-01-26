@@ -517,10 +517,18 @@ Summary of the Coursera Series. Composed of three parts:
 
       - Semantic Segmentation
 
-      - 
+      - Label Verification
 
     - Video
 
+      - Clip Classification.
+
+      - Object Detection.
+
     - Text
 
-    - Custom
+      - NER
+
+      - Single/Multi Label
+
+    - Custom &rarr; GroundTruth Templates
