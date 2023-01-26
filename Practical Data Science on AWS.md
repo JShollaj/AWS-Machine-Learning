@@ -501,4 +501,6 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Automated + Human Labeling:
 
-    - Amazon SageMaker GroundTruth &rarr; 
+    - Amazon SageMaker GroundTruth &rarr; Pointer to S3 &rarr; define labeling tasks.
+
+    - Human Workforce &rarr; 3rd party, or own workers (still S3). Manifest file (list of instructions & source ref).
