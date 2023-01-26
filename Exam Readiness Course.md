@@ -90,9 +90,11 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Services which can enable batch ingestion:
 
-      - AWS Glue (ETL Service)
+      - AWS Glue (ETL Service).
 
-      - 
+      - AWS Database Migration Service (Reads  historical data from source systems, such as RDS, Warehouses, and NoSQL databases, at any desired interval).
+
+      - AWS Step Functions (to automate the abovementioned).
 
   - Identify and implement a data-transformation solution.
 
