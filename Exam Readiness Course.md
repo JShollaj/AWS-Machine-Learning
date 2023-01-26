@@ -48,6 +48,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 ### **Data Engineering**
 
-- 
+- Main Subdomains:
+
+  - Create data repositories for Machine Learning.
+
+  - Identify and implement a data-ingestion solution.
+
+  - Identify and implement a data-transformation solution.
 
 </br>
