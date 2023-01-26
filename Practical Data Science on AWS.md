@@ -481,4 +481,12 @@ Summary of the Coursera Series. Composed of three parts:
 
     - Interpreting Results (could be with cloud watch).
 
-  - 
+  - Model Quality Monitor:
+
+    - Same steps as above.
+
+    - We need to configure collecting ground truth data to evaluate perfomance.
+
+  - Statistical Bias Monitoring:
+
+    - 
