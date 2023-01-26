@@ -2,3 +2,11 @@
 
 This is a list of all questions I could gather from all the sources I used. You can DM me for the solutions.
 
+---
+
+1. A data engineer needs to create a cost-effective data pipeline solution that ingests unstructured data from various sources and stores it for downstream analytics applications and ML. The solution should include a data store where the processed data is highly available for at least one year, so that data analysts and data scientists can run analytics and ML workloads on the most recent data. For compliance reasons, the solution should include both processed and raw data. The raw data does not need to be accessed regularly, but when needed, should be accessible within 24 hours.
+
+   **What solution should the data engineer deploy?**
+
+</br>
+
