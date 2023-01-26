@@ -58,7 +58,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Recall storage solutions and use cases.
 
-   ![S3](images/S3.png) 
+    - ![S3](images/S3.png)
+
+    - Amazon FSx for Lustre &rarr; 
 
   - Identify and implement a data-ingestion solution.
 
