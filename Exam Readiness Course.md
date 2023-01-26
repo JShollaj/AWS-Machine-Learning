@@ -64,7 +64,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - If data is already in EFS &rarr; use that as training data source (faster training start times).
 
-    - Images per second that each file system can load (S3 fastest &rarr; Amazon FSx slowest)
+    - Images per second that each file system can load (Amazon FSx fastest &rarr; S3 slowest)
 
   - Identify and implement a data-ingestion solution.
 
