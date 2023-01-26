@@ -30,6 +30,24 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - Prepare for some minor calculations at hand.
 
+- Read and understand the question before reading answer options (pretend the answer options aren't even there at first).
+
+- Identify the key phrases and qualifiers in the question.
+
+- Try to answer the question before even looking at the answer choices, then see if any of those answer choices match your original answer.
+
+- Eliminate answer options based on what you know about the question, including the key phrases and qualifiers you highlighted earlier.
+
+- If you still don't know the answer, consider flagging the question and moving on to easier questions. But remember to answer all questions before the time is up on the exam, as there are no penalties for guessing.
 
 </br>
 
+## 3. Domains Which Will Be Covered
+
+</br>
+
+### **Data Engineering**
+
+- 
+
+</br>
