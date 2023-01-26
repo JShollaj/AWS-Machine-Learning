@@ -20,4 +20,8 @@ This is a list of all questions I could gather from all the sources I used. You 
 
    **What approach should the company take to achieve the desired outcome?**
 
-   
+</br>
+
+4. A Data Scientist wants to implement a near-real-time anomaly detection solution for routine machine maintenance. The data is currently streamed from connected devices by AWS IoT to an Amazon S3 bucket and then sent downstream for further processing in a real-time dashboard.
+
+   **What service can the Data Scientist use to achieve the desired outcome with minimal change to the pipeline?**
