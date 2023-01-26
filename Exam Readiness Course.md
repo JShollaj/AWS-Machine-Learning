@@ -56,7 +56,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Lake Formation as a single place to manage access controls for data in your data lake
 
-    - 
+    - Recall storage solutions and use cases.
+
+   ![S3](images/S3.png) 
 
   - Identify and implement a data-ingestion solution.
 
