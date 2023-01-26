@@ -41,3 +41,13 @@ This is a list of all questions I could gather from all the sources I used. You 
    However, when the team tested this model in production, images were classified with a much lower accuracy. That was due to weather: The changing seasons had an impact on the quality of production images.
 
     **What can the team do to improve their model?**
+
+</br>
+
+7. A team of data scientists in a financial company wants to predict the risk for their incoming customer loan applications. The team has decided to do this by applying the XGBoost algorithm, which will predict the probability that a customer will default on a loan. In order to create this solution, the team wants to first merge the customer application data with demographic and location data before feeding it into the model.
+
+   However, the dimension of this data is really large, and the team wants to keep only those features that are the most relevant to the prediction.
+
+    **What techniques can the team use to reach the goal?**
+
+</br>
