@@ -184,7 +184,11 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - For numerical we can transform (multiply, square, cube).
 
-  - 
+  - Categorical Feature Engineering:
+
+    - Ordinal &rarr; ORDER MATTERS.
+
+    - Nominal &rarr; ORDER DOESN'T MATTER.
 
 - Analyze and visualize data for ML.
 
