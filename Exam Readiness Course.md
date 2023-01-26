@@ -114,6 +114,20 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Kinesis Data Stream
 
+    - Topics to study more in depth:
+
+      - Amazon Kinesis Data Streams &#x2610;
+
+      - Amazon Kinesis Data Firehose &#x2610;
+
+      - Amazon Kinesis Data Analytics &#x2610;
+
+      - Amazon Kinesis Video Streams &#x2610;
+      
+      - AWS Glue &#x2610;
+      
+      - Apache Kafka &#x2610;
+      
   - Identify and implement a data-transformation solution.
 
 
