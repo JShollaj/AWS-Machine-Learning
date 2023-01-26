@@ -532,3 +532,5 @@ Summary of the Coursera Series. Composed of three parts:
       - Single/Multi Label
 
     - Custom &rarr; GroundTruth Templates
+
+      - Lambda &rarr; GroundTruth &rarr; Lambda
