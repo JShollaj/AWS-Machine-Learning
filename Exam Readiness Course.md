@@ -326,4 +326,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Confusion Matrix.
 
+    - Accuracy (All trues / All)
+
+    - Precision (TP/ ALL Positives)
+
     - 
