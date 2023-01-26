@@ -446,3 +446,7 @@ Summary of the Coursera Series. Composed of three parts:
   - Has inference pipeline (chaining together multiple models).
 
   - Data transformation before sending to model for prediction.
+
+- Monitoring ML Workloads:
+
+  - 
