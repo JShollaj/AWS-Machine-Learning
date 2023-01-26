@@ -4,7 +4,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 --- 
 
-## 1. Have at least 1 Year of Experience in ML
+## 1. Course Introduction
 
 </br>
 
@@ -15,3 +15,4 @@ A brief refresher into what will be tested. We have covered below a concise vers
 - Experience with ML and Deep Learning frameworks.
 
 - Understanding of and experience in model training, deployment & operational best practices.
+
