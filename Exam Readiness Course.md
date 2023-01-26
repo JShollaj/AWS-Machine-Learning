@@ -148,6 +148,14 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Individual statistics (f.ex rows, columns).
 
+  - Clean data
+
+    - Same scale (f.ex miles vs km)
+
+    - Columns dont have multiple features (f.ex date, text)
+
+    - Clear Outliers
+
 - Perform feature engineering.
 
 - Analyze and visualize data for ML.
