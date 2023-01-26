@@ -296,6 +296,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Model Hyperparameters (filter size, pooling, architecture).
 
-    - 
+    - Optimizers (how model learns - Adagrad, Xavier Init etc.).
+
+    - Data Hyperparameters (augementation - cropping, resizing).
 
 - **Evaluate ML Models.**
