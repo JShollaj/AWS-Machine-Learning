@@ -150,11 +150,17 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Clean data
 
-    - Same scale (f.ex miles vs km)
+    - Same scale (f.ex miles vs km).
 
-    - Columns dont have multiple features (f.ex date, text)
+    - Columns dont have multiple features (f.ex date, text).
 
-    - Clear Outliers
+    - Clear Outliers.
+
+    - Imputation & dealing with missing data.
+
+  - Topics to study more:
+
+    - 
 
 - Perform feature engineering.
 
