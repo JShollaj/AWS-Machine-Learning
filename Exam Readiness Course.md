@@ -330,4 +330,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Precision (TP/ ALL Positives)
 
-    - 
+    - Recall (TP / TP + FN)
+
+    - F1-Score
