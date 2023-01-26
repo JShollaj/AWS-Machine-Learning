@@ -501,4 +501,4 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Automated + Human Labeling:
 
-    - 
+    - Amazon SageMaker GroundTruth &rarr; 
