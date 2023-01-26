@@ -62,6 +62,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - *Amazon FSx* for Lustre &rarr; for running training jobs several times using different algorithms and parameter (when data is already on S3).
 
+    - If data is already in EFS &rarr; use that as training data source (faster training start times).
+
   - Identify and implement a data-ingestion solution.
 
   - Identify and implement a data-transformation solution.
