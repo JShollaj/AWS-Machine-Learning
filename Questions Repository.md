@@ -33,3 +33,11 @@ This is a list of all questions I could gather from all the sources I used. You 
    The company wants less operational overhead for their transformation pipeline. They want a new solution that does not make significant changes to the current pipeline and only requires minimal management.
 
     **What AWS services should the company use to build this new pipeline?**
+
+</br>
+
+6. A team of data scientists in a company focusing on security and smart home devices created an ML model that can classify guest types at a front door using a video doorbell. The team is getting an accuracy of 96.23% on the validation dataset.
+
+   However, when the team tested this model in production, images were classified with a much lower accuracy. That was due to weather: The changing seasons had an impact on the quality of production images.
+
+    **What can the team do to improve their model?**
