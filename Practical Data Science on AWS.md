@@ -493,4 +493,4 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Feature Attribution Monitor:
 
-    - 
+    - SageMaker Clarify + Model Monitor & Using SHAP values for baselining.
