@@ -294,6 +294,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Different types of Hyperparameters:
 
+    - Model Hyperparameters (filter size, pooling, architecture).
+
     - 
 
 - **Evaluate ML Models.**
