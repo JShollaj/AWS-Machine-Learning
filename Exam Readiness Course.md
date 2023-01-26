@@ -328,9 +328,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Accuracy (All trues / All) &rarr; dont use when we have many true negatives.
 
-    - Precision (TP/ ALL Positives)
+    - Precision (TP/ ALL Positives) &rarr; when cost of False positives is high (hiring for FAANG).
 
-    - Recall (TP / TP + FN)
+    - Recall (TP / TP + FN) &rarr; when cost of False negatives is high (customers for fraud, execution).
 
     - F1-Score
 
