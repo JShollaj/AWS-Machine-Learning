@@ -471,4 +471,8 @@ Summary of the Coursera Series. Composed of three parts:
 
   - Data Quality Monitor:
 
-    - 
+    - Deploy endpoint.
+
+    - Enable data capture.
+
+    - Set baselines.
