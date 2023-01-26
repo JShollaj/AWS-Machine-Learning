@@ -54,13 +54,13 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Think of Data Lake as an all encompassing solution for ML tasks.
 
-    - Lake Formation as a single place to manage access controls for data in your data lake
+    - *Lake Formation* as a single place to manage access controls for data in your data lake
 
     - Recall storage solutions and use cases.
 
     - ![S3](images/S3.png)
 
-    - Amazon FSx for Lustre &rarr; 
+    - *Amazon FSx* for Lustre &rarr; for running training jobs several times using different algorithms and parameter (when data is already on S3).
 
   - Identify and implement a data-ingestion solution.
 
