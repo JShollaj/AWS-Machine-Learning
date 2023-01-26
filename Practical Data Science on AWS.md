@@ -556,5 +556,3 @@ Summary of the Coursera Series. Composed of three parts:
   - Allows human reviewer to step in and audit.
 
   - Define workforce (turk, private, vendor).
-
-  
