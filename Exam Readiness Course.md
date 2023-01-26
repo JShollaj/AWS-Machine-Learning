@@ -26,7 +26,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - Focus on key phrases, and qualifier to easily discard distracting questions.
 
-- Eleminate the 
+- Focus on AWS Services, and see if there is a correlation between the assumption and the service.
+
+- Prepare for some minor calculations at hand.
+
 
 </br>
 
