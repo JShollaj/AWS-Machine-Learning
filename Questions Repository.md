@@ -58,4 +58,6 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
-9. 
+9. A social networking organization wants to analyze all the comments and likes from its users to flag offensive language on the site. The organization’s data science team wants to use a Long Short-term Memory (LSTM) architecture to classify the raw sentences from the comments into one of two categories: offensive and non-offensive.
+
+   **What should the team do to prepare the data for the LSTM?**
