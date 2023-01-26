@@ -230,9 +230,15 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - If we cannot scale current solution.
 
-
-
 - **Select appropriate model(s) for given problem.**
+
+  - ML Algorithms:
+
+    - Supervised:
+
+    - Unsupervised:
+
+    - Reinforcement:
 
 - **Train ML models.**
 
