@@ -64,7 +64,24 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - If data is already in EFS &rarr; use that as training data source (faster training start times).
 
-    - Images per second that each file system can load (Amazon FSx fastest &rarr; S3 slowest)
+    - Images per second that each file system can load (Amazon FSx fastest &rarr; S3 slowest).
+
+    - Topics to study in depth:
+
+      - AWS Lake Formation &#x2610;
+
+      - Amazon S3 (as storage for a data lake) &#x2610;
+
+      - Amazon FSx for Lustre &#x2610;
+
+      - Amazon EFS &#x2610;
+
+      - Amazon EBS volumes &#x2610;
+
+      - Amazon S3 lifecycle configuration &#x2610;
+
+
+Amazon S3 data storage options
 
   - Identify and implement a data-ingestion solution.
 
