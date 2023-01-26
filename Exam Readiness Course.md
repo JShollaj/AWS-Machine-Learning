@@ -123,11 +123,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
       - Amazon Kinesis Data Analytics &#x2610;
 
       - Amazon Kinesis Video Streams &#x2610;
-      
+
       - AWS Glue &#x2610;
-      
+
       - Apache Kafka &#x2610;
-      
+
   - Identify and implement a data-transformation solution.
-
-
