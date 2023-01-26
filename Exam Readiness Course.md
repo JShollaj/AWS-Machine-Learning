@@ -236,7 +236,14 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Supervised:
 
+      - Binary Classification.
+
+      - Multiclass Classification.
+
+      - Regression problems.
+
     - Unsupervised:
+
 
     - Reinforcement:
 
