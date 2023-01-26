@@ -222,6 +222,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Frame business problems as ML problems.**
 
+  - Should we use ML?
+
+    - If tons of data, and we can make prediction, yes!
+
+    - 
+
 - **Select appropriate model(s) for given problem.**
 
 - **Train ML models.**
