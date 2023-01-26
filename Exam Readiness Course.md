@@ -264,7 +264,11 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Select appropriate model(s) for given problem.**
 
+![ML Map](images/ml_map.png)
+
 - **Train ML models.**
+
+
 
 - **Perform hyperparameter optimization.**
 
