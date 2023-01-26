@@ -10,3 +10,10 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
+2. An ad-tech company has hired a data engineer to create and maintain a machine learning pipeline for its clickstream data. The data will be gathered from various sources, including on premises, and will need to be streamed to the company’s Amazon EMR instances for further processing.
+
+   **What service or combination of services can the company use to meet these requirements?**
+
+</br>
+
+3. 
