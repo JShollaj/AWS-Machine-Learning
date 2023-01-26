@@ -449,4 +449,10 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Monitoring ML Workloads:
 
-  - 
+  - Business
+
+  - System
+
+  - Models:
+
+    - Decay or changed informations (degradation).
