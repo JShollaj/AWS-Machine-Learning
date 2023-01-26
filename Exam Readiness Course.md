@@ -276,8 +276,24 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - K-Fold (split the input data into k subsets of data).
 
-      - 
+  - Topics to study:
+
+    - Amazon SageMaker workflow for training jobs.
+
+    - Running a training job using containers.
+
+    - Build your own containers.
+
+    - P3 instances.
+
+    - Components of an ML training job for deep learning.
+
+  </br>
 
 - **Perform hyperparameter optimization.**
+
+  - Different types of Hyperparameters:
+
+    - 
 
 - **Evaluate ML Models.**
