@@ -274,6 +274,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Cross Validation (compare the performance of multiple models)
 
+      - K-Fold (split the input data into k subsets of data).
+
       - 
 
 - **Perform hyperparameter optimization.**
