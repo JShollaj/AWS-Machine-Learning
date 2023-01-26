@@ -220,3 +220,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 </br>
 
+- **Frame business problems as ML problems.**
+
+- **Select appropriate model(s) for given problem.**
+
+- **Train ML models.**
+
+- **Perform hyperparameter optimization.**
+
+- **Evaluate ML Models.**
