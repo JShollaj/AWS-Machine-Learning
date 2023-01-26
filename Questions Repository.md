@@ -25,3 +25,11 @@ This is a list of all questions I could gather from all the sources I used. You 
 4. A Data Scientist wants to implement a near-real-time anomaly detection solution for routine machine maintenance. The data is currently streamed from connected devices by AWS IoT to an Amazon S3 bucket and then sent downstream for further processing in a real-time dashboard.
 
    **What service can the Data Scientist use to achieve the desired outcome with minimal change to the pipeline?**
+
+</br>
+
+5. A transportation company currently uses Amazon EMR with Apache Spark for some of its data transformation workloads. It transforms columns of geographical data (like latitudes and longitudes) and adds columns to segment the data into different clusters per city to attain additional features for the k-nearest neighbors algorithm being used.
+
+   The company wants less operational overhead for their transformation pipeline. They want a new solution that does not make significant changes to the current pipeline and only requires minimal management.
+
+    **What AWS services should the company use to build this new pipeline?**
