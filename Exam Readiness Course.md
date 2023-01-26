@@ -190,5 +190,34 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Nominal &rarr; ORDER DOESN'T MATTER.
 
-- Analyze and visualize data for ML.
+  - Common techniques for scaling (clues in names):
 
+    - Mean/variance standardization.
+
+    - MinMax scaling.
+
+    - Maxabs scaling.
+
+    - Robust scaling.
+
+    - Normalizer.
+
+  - Topics to study:
+
+    - Scaling.
+
+    - Normalizing.
+
+    - Dimensionality Reduction.
+
+    - Date Formatting.
+
+    - One-Hot Encoding.
+
+</br>
+
+- **Analyze and visualize data for ML.**
+
+</br>
+
+  - 
