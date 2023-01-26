@@ -142,6 +142,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - Sanitize and prepare data for modeling.
 
+  - Multivariate statistics (correlation & relationships).
+
+  - Attribute statistics (f.ex mean, SD).
+
+  - Individual statistics (f.ex rows, columns).
+
 - Perform feature engineering.
 
 - Analyze and visualize data for ML.
