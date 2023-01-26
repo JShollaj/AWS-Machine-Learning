@@ -326,7 +326,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Confusion Matrix.
 
-    - Accuracy (All trues / All)
+    - Accuracy (All trues / All) &rarr; dont use when we have many true negatives.
 
     - Precision (TP/ ALL Positives)
 
