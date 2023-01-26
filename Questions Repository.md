@@ -61,3 +61,9 @@ This is a list of all questions I could gather from all the sources I used. You 
 9. A social networking organization wants to analyze all the comments and likes from its users to flag offensive language on the site. The organization’s data science team wants to use a Long Short-term Memory (LSTM) architecture to classify the raw sentences from the comments into one of two categories: offensive and non-offensive.
 
    **What should the team do to prepare the data for the LSTM?**
+
+</br>
+
+10. A Data Scientist created a correlation matrix between nine variables and the target variable. The correlation coefficient between two of the numerical variables, variable 1 and variable 5, is -0.95.
+
+    **How should the Data Scientist interpret the correlation coefficient?**
