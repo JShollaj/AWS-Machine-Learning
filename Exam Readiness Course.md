@@ -268,7 +268,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Train ML models.**
 
-
+  - Splitting data (train/test/val):
+  
+    - 80%:10%:10%. or 70%:15%:15%
 
 - **Perform hyperparameter optimization.**
 
