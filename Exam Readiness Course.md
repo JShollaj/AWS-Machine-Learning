@@ -48,42 +48,41 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 ### **Data Engineering**
 
-- Main Subdomains:
+</br>
 
-  - Create data repositories for Machine Learning.
+- **Create data repositories for Machine Learning**.
 
-    - Think of Data Lake as an all encompassing solution for ML tasks.
+  - Think of Data Lake as an all encompassing solution for ML tasks.
 
-    - *Lake Formation* as a single place to manage access controls for data in your data lake
+  - *Lake Formation* as a single place to manage access controls for data in your data lake
 
-    - Recall storage solutions and use cases.
+  - Recall storage solutions and use cases.
 
-    - ![S3](images/S3.png)
+  - ![S3](images/S3.png)
 
-    - *Amazon FSx* for Lustre &rarr; for running training jobs several times using different algorithms and parameter (when data is already on S3).
+  - *Amazon FSx* for Lustre &rarr; for running training jobs several times using different algorithms and parameter (when data is already on S3).
 
-    - If data is already in EFS &rarr; use that as training data source (faster training start times).
+  - If data is already in EFS &rarr; use that as training data source (faster training start times).
 
-    - Images per second that each file system can load (Amazon FSx fastest &rarr; S3 slowest).
+  - Images per second that each file system can load (Amazon FSx fastest &rarr; S3 slowest).
 
-    - Topics to study in depth:
+  - Topics to study in depth:
 
-      - AWS Lake Formation &#x2610;
+    - AWS Lake Formation &#x2610;
 
-      - Amazon S3 (as storage for a data lake) &#x2610;
+    - Amazon S3 (as storage for a data lake) &#x2610;
 
-      - Amazon FSx for Lustre &#x2610;
+    - Amazon FSx for Lustre &#x2610;
 
-      - Amazon EFS &#x2610;
+    - Amazon EFS &#x2610;
 
-      - Amazon EBS volumes &#x2610;
+    - Amazon EBS volumes &#x2610;
 
-      - Amazon S3 lifecycle configuration &#x2610;
+    - Amazon S3 lifecycle configuration &#x2610;
 
+- **Identify and implement a data-ingestion solution**.
 
-Amazon S3 data storage options
-
-  - Identify and implement a data-ingestion solution.
+  - Batch vs Streaming Ingestion
 
   - Identify and implement a data-transformation solution.
 
