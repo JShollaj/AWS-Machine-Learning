@@ -333,3 +333,13 @@ A brief refresher into what will be tested. We have covered below a concise vers
     - Recall (TP / TP + FN)
 
     - F1-Score
+
+  - Topics to Study
+  
+    - Metrics for regression: sum of squared errors, RMSE
+
+    - Sensitivity
+
+    - Specificity
+
+    - Neural network functions like Softmax for the last layer
