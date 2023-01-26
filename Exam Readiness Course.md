@@ -110,7 +110,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Kinesis Data Analytics
 
-      - Kinesis 
+      - Kinesis Firehose
+
+      - Kinesis Data Stream
 
   - Identify and implement a data-transformation solution.
 
