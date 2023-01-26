@@ -52,6 +52,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Create data repositories for Machine Learning.
 
+    - Think of Data Lake as an all encompassing solution for ML tasks.
+
+    - Lake Formation as a single place to manage access controls for data in your data lake
+
+    - 
+
   - Identify and implement a data-ingestion solution.
 
   - Identify and implement a data-transformation solution.
