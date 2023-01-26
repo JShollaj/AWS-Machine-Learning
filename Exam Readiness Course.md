@@ -16,3 +16,5 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - Understanding of and experience in model training, deployment & operational best practices.
 
+- Use this guide as a starting point (or before exam) - to identify weaknesses and dig deeper.
+
