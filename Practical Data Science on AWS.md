@@ -548,3 +548,13 @@ Summary of the Coursera Series. Composed of three parts:
   - Use active learning / automated data labeling on large datasets.
 
   - Re-use prior labeling jobs.
+
+- Amazon Augmented AI (A2I)
+
+  - Provides built-in human review workflow.
+
+  - Allows human reviewer to step in and audit.
+
+  - Define workforce (turk, private, vendor).
+
+  
