@@ -443,4 +443,6 @@ Summary of the Coursera Series. Composed of three parts:
 
 - Sagemaker batch transform job:
 
-  - Has inference pipeline (chaining together multiple models)
+  - Has inference pipeline (chaining together multiple models).
+
+  - Data transformation before sending to model for prediction.
