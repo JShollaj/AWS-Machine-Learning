@@ -306,8 +306,24 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Common hyperparameters to tune
 
+      - Momentum
+
+      - Optimizers
+
+      - Activation functions
+
+      - Dropout
+
+      - Learning rate
+
     - Regularization
 
-    - 
+      - Dropout
+
+      - L1/L2
 
 - **Evaluate ML Models.**
+
+  - Confusion Matrix.
+
+    - 
