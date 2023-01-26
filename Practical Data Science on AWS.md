@@ -504,3 +504,23 @@ Summary of the Coursera Series. Composed of three parts:
     - Amazon SageMaker GroundTruth &rarr; Pointer to S3 &rarr; define labeling tasks.
 
     - Human Workforce &rarr; 3rd party, or own workers (still S3). Manifest file (list of instructions & source ref).
+
+  - Type of labeling:
+
+    - Image
+
+      - Single Label
+
+      - Multi Label
+
+      - Bounding Box
+
+      - Semantic Segmentation
+
+      - 
+
+    - Video
+
+    - Text
+
+    - Custom
