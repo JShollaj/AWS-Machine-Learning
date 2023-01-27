@@ -450,6 +450,26 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Data protection at rest
 
-      - 
+      - AWS KMS-based encryption for:
+
+        - Notebooks
+
+        - Training jobs
+
+        - Amazon S3 location to store modelsEndpoint
+
+    - Data protection at motion
+
+      - HTTPS for:
+
+        - API/Console
+
+        - Notebooks
+
+        - VPC-enabled
+
+        - Interface endpoint
+
+        - Limit by IPTraining jobs/endpoints
 
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
