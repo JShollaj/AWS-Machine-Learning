@@ -538,4 +538,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Define and apply a scaling policy that uses Amazon CloudWatch metrics:
 
-    - 
+    - Load-test your automatic scaling configuration.
+
+    - Automatic scaling uses the policy to adjust the number of instances up or down in response to actual workloads.
