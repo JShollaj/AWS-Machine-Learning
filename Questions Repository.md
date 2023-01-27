@@ -102,5 +102,9 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
+16. A Data Scientist is training a convolutional neural network model to detect incoming employees at the company’s front gate using a camera so that the system opens for them automatically. However, the model is taking too long to converge and the error oscillates for more than 10 epochs.
 
+      **What should the Data Scientist do to improve upon this situation?**
+      
+</br>
 
