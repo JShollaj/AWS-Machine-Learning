@@ -70,4 +70,8 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
-11. 
+11. An oil and natural gas company is using machine learning to discover prime locations for drilling. The company has chosen Amazon SageMaker as its service for creating machine learning models. The company’s data scientists are using notebook instances to develop those models. However, the data scientists spend a long time waiting for the training jobs to complete.
+
+     The company wants improve this idle time to more effectively iterate on the models with minimal change to the code to enable data scientists to quickly experiment with their models without having to wait for the training job to load the data and train the model.
+
+      **What should the team of data scientists do to solve this issue?**
