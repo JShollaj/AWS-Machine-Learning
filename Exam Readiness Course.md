@@ -394,7 +394,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 ![Alt text](images/Architectures%20and%20Frameworks.png)
 
-- 
+![Alt text](images/Sagemaker%20Services.png)
 
 - **Apply basic AWS security practices for ML solutions.**
 
