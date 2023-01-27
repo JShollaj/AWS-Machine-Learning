@@ -424,6 +424,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Specify subnets & security groups (creates elastic network interfaces associated with them).
 
-  - Encrypt data at rest with SageMaker 
+  - Encrypt data at rest with SageMaker with AWS KMS (create, import, rotate, disable, delete, define usage policies for, and audit the use of encryption keys).
 
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
