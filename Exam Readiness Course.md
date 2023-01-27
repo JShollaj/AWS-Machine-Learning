@@ -343,3 +343,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
     - Specificity
 
     - Neural network functions like Softmax for the last layer
+
+</br>
+
+### **Domain 4: ML Implementation and Operations**
+
+</br>
+
