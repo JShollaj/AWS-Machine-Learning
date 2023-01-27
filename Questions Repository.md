@@ -90,5 +90,9 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
-14. 
+14. A manufacturing company wants to increase the longevity of its factory machines by predicting when a machine part is about to stop working, jeopardizing the health of the machine. The company’s team of Data Scientists will build an ML model to accomplish this goal. The model will be trained on data made up of consumption metrics from similar factory machines, and will span a time frame from one hour before a machine part broke down to five minutes after the part degraded.
+
+      **What kind of machine learning algorithm should the company use to build this model?**
+
+
 
