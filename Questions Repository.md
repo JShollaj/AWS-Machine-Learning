@@ -113,3 +113,7 @@ This is a list of all questions I could gather from all the sources I used. You 
       During model testing, the F1 score was 0.918. The company’s senior leadership originally asked the Data Scientist to reach an F1 score of at least 0.95.
 
       **What should the Data Scientist do to improve this score without spending too much time optimizing the model?**
+
+</br>
+
+18. 
