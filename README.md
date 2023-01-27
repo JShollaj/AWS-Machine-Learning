@@ -24,9 +24,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf) &#x2611;
 
-## **Optional Resources**
-
-- ### List of AWS Summits & Talks (Listed in the Appendix) &#x2611;
+- ### [Questions Repository](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Questions%20Repository.md) &#x2611;
 
 - ### [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/ref=sr_1_1?crid=2W9DDSYY2511C&keywords=data+science+on+AWS&qid=1672118055&sprefix=data+science+on+aws%2Caps%2C377&sr=8-1) &#x2611;
 
