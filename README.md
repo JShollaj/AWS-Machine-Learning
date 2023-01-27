@@ -12,7 +12,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Practical Data Science on the AWS Cloud Specialization](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Practical%20Data%20Science%20on%20AWS.md) &#x2611;
 
-- ### [Exam Readiness Course](https://training.resources.awscloud.com/get-certified-machine-learning-specialty) &#x2611;
+- ### [Exam Readiness Course](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Exam%20Readiness%20Course.md) &#x2611;
 
 - ### [AWS Certified Machine Learning Specialty 2022 - Hands On!](https://www.udemy.com/course/aws-machine-learning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397245857_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_9062524_._pd__._&matchtype=&gclid=CjwKCAiAqaWdBhAvEiwAGAQltkQaikE2I_x_1Wa5NQwC0c91UMmaxTw-frGIyrediC-eMjEx01a6bxoCPaIQAvD_BwE) &#x2611;
 
