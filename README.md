@@ -20,12 +20,5 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Amazon Machine Learning - Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html) &#x2611;
 
-- ### [Official Practice Test](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12469/aws-certified-machine-learning-specialty-practice-question-set-mls-c01-english?ml=sec&sec=prep) &#x2611;
+- ### [Full Exams](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Questions%20Repository.md) &#x2611;
 
-- ### [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf) &#x2611;
-
-- ### [Questions Repository](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Questions%20Repository.md) &#x2611;
-
-- ### [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/ref=sr_1_1?crid=2W9DDSYY2511C&keywords=data+science+on+AWS&qid=1672118055&sprefix=data+science+on+aws%2Caps%2C377&sr=8-1) &#x2611;
-
-- ### [Whiz Labs Exam](https://www.whizlabs.com/aws-certified-machine-learning-specialty/) &#x2611;
