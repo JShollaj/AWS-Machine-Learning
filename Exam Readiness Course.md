@@ -512,7 +512,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Perform ongoing monitoring and evaluation of results.
 
-    - Create methods to collect data from production inferences that can be used to improve future models. 
+    - Create methods to collect data from production inferences that can be used to improve future models.
 
   - Manage following practices:
 
@@ -534,6 +534,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Name for deployment steps.
 
-  - Create an endpoint configuration for an HTTPS endpoint:
+  - Create an endpoint configuration for an HTTPS endpoint
+
+  - Define and apply a scaling policy that uses Amazon CloudWatch metrics:
 
     - 
