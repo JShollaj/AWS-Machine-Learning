@@ -350,3 +350,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 </br>
 
+- **Build ML solutions for performance, availability, scalability, resiliency and fault tolerance.**
+
+- **Recommend and implement the appropriate ML services and features for a given problem**.
