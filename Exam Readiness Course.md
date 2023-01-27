@@ -370,7 +370,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Decouple ETL process from ML pipeline (AWS GLUE & Amazon EMR) &rarr; use Apache Spark to handle large amounts.
 
-      
+      - Deploy Amazon Sagemakes Endpoints backed by multiple instances across availability zones.
+
+
 
 
 
