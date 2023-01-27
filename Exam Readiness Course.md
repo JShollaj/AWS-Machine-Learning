@@ -352,6 +352,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Build ML solutions for performance, availability, scalability, resiliency and fault tolerance.**
 
+  - Design for high-availability & fault tolerance:
+
+    - 
+
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
 - **Apply basic AWS security practices for ML solutions.**
