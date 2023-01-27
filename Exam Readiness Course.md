@@ -356,7 +356,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - High Availability &rarr; system will keep working even when some component in architecture stops working.
 
-    - Fault Tolerance &rarr; 
+    - Fault Tolerance &rarr; ensures no degradation (despite failure in architecture).
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
