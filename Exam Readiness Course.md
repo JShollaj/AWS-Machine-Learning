@@ -546,4 +546,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - A/B testing with Amazon SageMaker
 
-  - 
+  - Amazon SageMaker endpoints
+
+    - Production variants
+
+    - Endpoint configuration
+
+  - Using Lambda with Amazon SageMaker
+
+---
