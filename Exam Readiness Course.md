@@ -396,6 +396,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 ![Alt text](images/Sagemaker%20Services.png)
 
+- Topics to study more:
+
+  - 
+
 - **Apply basic AWS security practices for ML solutions.**
 
-- **Deploy and operationalize ML solutions.**
+- **Deploy and operationalize ML solutions.**AWS CloudTrail
