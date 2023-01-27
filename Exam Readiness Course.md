@@ -420,6 +420,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - IAM Role-Based Access (Least Privilige Access).
 
-  
+  - Launch Instances in customer managed VPC.
+
+    - Specify subnets & security groups (creates elastic network interfaces associated with them).
+
+  - Encrypt data at rest with SageMaker 
 
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
