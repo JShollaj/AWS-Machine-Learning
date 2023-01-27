@@ -480,4 +480,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - ISO
 
+  - Topics related to this subdomain:
+
+    - Security on Amazon SageMaker
+
+    - Infrastructure security on Amazon SageMaker
+
+    - 
+
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
