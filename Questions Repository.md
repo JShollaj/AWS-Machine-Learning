@@ -105,6 +105,11 @@ This is a list of all questions I could gather from all the sources I used. You 
 16. A Data Scientist is training a convolutional neural network model to detect incoming employees at the company’s front gate using a camera so that the system opens for them automatically. However, the model is taking too long to converge and the error oscillates for more than 10 epochs.
 
       **What should the Data Scientist do to improve upon this situation?**
-      
+
 </br>
 
+17. A Data Scientist at a waste recycling company trained a CNN model to classify waste at the company’s sites. Incoming waste was classified as either trash, compost, or recyclable to make it easier for the machines to split the incoming waste into the appropriate bins.
+
+      During model testing, the F1 score was 0.918. The company’s senior leadership originally asked the Data Scientist to reach an F1 score of at least 0.95.
+
+      **What should the Data Scientist do to improve this score without spending too much time optimizing the model?**
