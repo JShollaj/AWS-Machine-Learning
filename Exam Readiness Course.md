@@ -502,7 +502,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Deploy and operationalize ML solutions.**
 
-  - Apply all software engineering practices:
+  - Apply all software engineering practices(f.ex security, logging and monitoring, task management, API versioning):
 
     - Security
 
