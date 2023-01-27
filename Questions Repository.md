@@ -67,3 +67,7 @@ This is a list of all questions I could gather from all the sources I used. You 
 10. A Data Scientist created a correlation matrix between nine variables and the target variable. The correlation coefficient between two of the numerical variables, variable 1 and variable 5, is -0.95.
 
     **How should the Data Scientist interpret the correlation coefficient?**
+
+</br>
+
+11. 
