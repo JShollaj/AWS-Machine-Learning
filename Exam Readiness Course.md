@@ -386,13 +386,15 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - AWS GPU (P2 and P3) and CPU instances
 
-      - 
+      - Amazon CloudWatch
 
-
-
-
+      - AWS CloudTrail
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
+
+![Alt text](images/Architectures%20and%20Frameworks.png)
+
+- 
 
 - **Apply basic AWS security practices for ML solutions.**
 
