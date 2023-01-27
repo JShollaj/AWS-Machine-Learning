@@ -398,7 +398,23 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - Topics to study more:
 
-  - 
+  - Amazon SageMaker Spark containers
+
+  - Amazon SageMaker build your own containers
+
+  - Amazon AI services 
+
+    - Amazon Translate
+
+    - Amazon Lex
+
+    - Amazon Polly
+
+    - Amazon Transcribe
+
+    - Amazon Rekognition
+
+    - Amazon Comprehend
 
 - **Apply basic AWS security practices for ML solutions.**
 
