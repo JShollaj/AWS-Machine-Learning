@@ -360,7 +360,7 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Decoupling resources in a distributed fashion (f.ex storage & training jobs).
 
-    - 
+    - Use queues like Amazon SQS or Step Functions.
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
