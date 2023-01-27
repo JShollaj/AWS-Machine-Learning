@@ -82,4 +82,13 @@ This is a list of all questions I could gather from all the sources I used. You 
 
       **What technique should the data scientist use in this situation?**
 
+</br>
+
+13. A real estate company wants to provide its customers with a more accurate prediction of the final sale price for houses they are considering in various cities. To do this, the company wants to use a fully connected neural network trained on data from the previous ten years of home sales, as well as other features.
+
+      **What kind of machine learning problem does this situation represent?**
+
+</br>
+
+14. 
 
