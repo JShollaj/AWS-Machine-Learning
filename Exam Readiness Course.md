@@ -364,6 +364,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Monitor with CloudWatch (logs, alarms, events).
 
+    - Use AWS CloudTrain to capture API calls, related events on behalf of AWS account (store in S3).
+
 
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
