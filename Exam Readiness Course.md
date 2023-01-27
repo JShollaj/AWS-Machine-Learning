@@ -502,12 +502,26 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Deploy and operationalize ML solutions.**
 
-  - Apply all software engineering practices(f.ex security, logging and monitoring, task management, API versioning):
+  - Apply all software engineering practices(f.ex security, logging and monitoring, task management, API versioning).
 
-    - Security
+  - Manage following practices:
 
-    - Logging
+    - End-to-end and A/B testing
 
-    - Monitoring
+    - API versioning, if multiple versions of the model are used
 
-    - 
+    - Reliability and failover
+
+    - Ongoing maintenance
+
+    - Cloud infrastructure best practices, such as continuous integration/continuous deployment (CI/CD).
+
+  - Deploy a model using Sagemaker hosting services:
+
+    - S3 Path to store artifacts.
+
+    - Docker registry path for image with inference code.
+
+    - Name for deployment steps.
+
+  - 
