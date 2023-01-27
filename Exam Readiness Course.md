@@ -418,4 +418,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
 - **Apply basic AWS security practices for ML solutions.**
 
+  - IAM Role-Based Access (Least Privilige Access).
+
+  
+
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
