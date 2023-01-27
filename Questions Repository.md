@@ -78,8 +78,8 @@ This is a list of all questions I could gather from all the sources I used. You 
 
 </br>
 
-A data scientist trained an XGBoost model to classify internal documents for further inquiry, and now wants to evaluate the model’s performance by looking at the results visually.
+12. A data scientist trained an XGBoost model to classify internal documents for further inquiry, and now wants to evaluate the model’s performance by looking at the results visually.
 
       **What technique should the data scientist use in this situation?**
 
-      
+
