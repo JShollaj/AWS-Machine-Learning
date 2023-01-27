@@ -354,7 +354,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Design for high-availability & fault tolerance:
 
-    - High Availability &rarr; 
+    - High Availability &rarr; system will keep working even when some component in architecture stops working.
+
+    - Fault Tolerance &rarr; 
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
