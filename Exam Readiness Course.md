@@ -376,6 +376,18 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Use AWS Auto-Scaling 
 
+    - Topics to study in depth:
+
+      - Amazon Deep Learning containers
+
+      - AWS Deep Learning AMI (Amazon Machine Image)
+
+      - AWS Auto Scaling
+
+      - AWS GPU (P2 and P3) and CPU instances
+
+      - 
+
 
 
 
