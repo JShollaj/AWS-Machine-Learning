@@ -541,3 +541,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
     - Load-test your automatic scaling configuration.
 
     - Automatic scaling uses the policy to adjust the number of instances up or down in response to actual workloads.
+
+- Topics related to this subdomain:
+
+  - A/B testing with Amazon SageMaker
+
+  - 
