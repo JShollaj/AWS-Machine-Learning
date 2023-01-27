@@ -486,6 +486,20 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Infrastructure security on Amazon SageMaker
 
-    - 
+    - What is a:
 
-- **Deploy and operationalize ML solutions.**AWS CloudTrail
+      - VPC
+
+      - Security Group
+
+      - NAT gateway
+
+      - Internet Gateway
+
+    - AWS Key Management Service (AWS KMS)
+
+    - AWS Identity and Access Management (IAM)
+
+- **Deploy and operationalize ML solutions.**
+
+  - 
