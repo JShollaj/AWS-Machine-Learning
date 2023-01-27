@@ -472,4 +472,12 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
         - Limit by IPTraining jobs/endpoints
 
+    - Compliance programs
+
+      - PCI DSS
+
+      - HIPAA-eligible with BAA
+
+      - ISO
+
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
