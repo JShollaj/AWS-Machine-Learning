@@ -358,6 +358,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Fault Tolerance &rarr; ensures no degradation (despite failure in architecture).
 
+    - Decoupling resources in a distributed fashion (f.ex storage & training jobs).
+
+    - 
+
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
 - **Apply basic AWS security practices for ML solutions.**
