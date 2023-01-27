@@ -366,6 +366,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Use AWS CloudTrain to capture API calls, related events on behalf of AWS account (store in S3).
 
+    - Common practices for designing for failure:
+
+      - 
+
 
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
