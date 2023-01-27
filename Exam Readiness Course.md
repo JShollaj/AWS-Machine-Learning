@@ -362,9 +362,9 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Use queues like Amazon SQS or Step Functions.
 
-    - Monitor with CloudWatch (alarms, events).
+    - Monitor with CloudWatch (logs, alarms, events).
 
-    
+
 
 - **Recommend and implement the appropriate ML services and features for a given problem**.
 
