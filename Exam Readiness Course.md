@@ -504,6 +504,8 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Apply all software engineering practices(f.ex security, logging and monitoring, task management, API versioning).
 
+    - Add error recovery code and make sure that tests for unexpected data inputs exist (Unit Testing, Quality Assurance, UAT).
+
   - Manage following practices:
 
     - End-to-end and A/B testing
@@ -524,4 +526,6 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Name for deployment steps.
 
-  - 
+  - Create an endpoint configuration for an HTTPS endpoint:
+
+    - 
