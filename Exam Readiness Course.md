@@ -428,6 +428,28 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
   - Ways to manage AWS KMS with Amazon S3:
 
-    - 
+    - Custom KMS
+  
+      - SSE-S3 requires that Amazon S3 manage the data and master encryption keys.
+
+    - AWS KMS
+
+      - SSE-C requires that you manage the encryption key.
+
+    - S3 built-in
+
+      - SSE-KMS requires that AWS manage the data key, but you manage the customer master key in AWS KMS.
+
+  - Security features integrated with SageMaker:
+
+    - Authentication (IAM federation).
+
+    - Gaining Insight (Restrict access by IAM policy and condition keys).
+
+    - Audit (API logs to AWS CloudTrail - exception of InvokeEndpoint).
+
+    - Data protection at rest
+
+      - 
 
 - **Deploy and operationalize ML solutions.**AWS CloudTrail
