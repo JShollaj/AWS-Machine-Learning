@@ -75,3 +75,11 @@ This is a list of all questions I could gather from all the sources I used. You 
      The company wants improve this idle time to more effectively iterate on the models with minimal change to the code to enable data scientists to quickly experiment with their models without having to wait for the training job to load the data and train the model.
 
       **What should the team of data scientists do to solve this issue?**
+
+</br>
+
+A data scientist trained an XGBoost model to classify internal documents for further inquiry, and now wants to evaluate the model’s performance by looking at the results visually.
+
+      **What technique should the data scientist use in this situation?**
+
+      
