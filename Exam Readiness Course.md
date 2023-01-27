@@ -506,6 +506,14 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
     - Add error recovery code and make sure that tests for unexpected data inputs exist (Unit Testing, Quality Assurance, UAT).
 
+    - Automate system (AWS CodeBuild and AWS CodeCommit).
+
+    - Track, identify, and account for changes in data sources.
+
+    - Perform ongoing monitoring and evaluation of results.
+
+    - Create methods to collect data from production inferences that can be used to improve future models. 
+
   - Manage following practices:
 
     - End-to-end and A/B testing
