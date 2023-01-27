@@ -372,6 +372,10 @@ A brief refresher into what will be tested. We have covered below a concise vers
 
       - Deploy Amazon Sagemakes Endpoints backed by multiple instances across availability zones.
 
+      - Containerize ML models for both inference & training in Sagemaker.
+
+      - Use AWS Auto-Scaling 
+
 
 
 
