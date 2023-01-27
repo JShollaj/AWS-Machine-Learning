@@ -94,5 +94,13 @@ This is a list of all questions I could gather from all the sources I used. You 
 
       **What kind of machine learning algorithm should the company use to build this model?**
 
+</br>
+
+15. A Data Scientist working for an autonomous vehicle company is building an ML model to detect and label people and various objects (for instance, cars and traffic signs) that may be encountered on a street. The Data Scientist has a dataset made up of labeled images, which will be used to train their machine learning model.
+
+      **What kind of ML algorithm should be used?**
+
+</br>
+
 
 
