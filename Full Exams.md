@@ -24,3 +24,7 @@ Enter your score:
 Enter your score:
 
 ## [Exam #6](testmoz.com/12501284)
+
+---
+
+(*Take note of weaker areas and go for 1 day or 2 deep in them &rarr; repeat again after a week*)
