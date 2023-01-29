@@ -18,3 +18,9 @@ Enter your score:
 ## [Exam #4](testmoz.com/12500822)
 
 Enter your score: 
+
+## [Exam #5](testmoz.com/12501020)
+
+Enter your score: 
+
+## [Exam #6](testmoz.com/12501020)
