@@ -8,6 +8,8 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [AWS Ramp Up Guide](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Ramp%20Up%20Guide.md) &#x2611;
 
+- ### [One Minute AWS MLE Playlist](https://github.com/JShollaj/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/One%20Minute%20AWS%20MLE%20Playlist)
+
 - ### [AWS Power Hour: 4 Episodes](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Power%20Hour.md) &#x2611;
 
 - ### [Practical Data Science on the AWS Cloud Specialization](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Practical%20Data%20Science%20on%20AWS.md) &#x2611;
