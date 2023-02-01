@@ -4,6 +4,8 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 ---
 
+- **[Amazon Rekognition](https://www.youtube.com/watch?v=Jw2zF_oj-I8)**
+
 - **[Amazon Textract](https://www.youtube.com/watch?v=Qz2Rdho0VIM)**
 
 - **Amazon Transcribe**
@@ -17,8 +19,6 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 - **Amazon Kendra**
 
 - **Amazon Forecast**
-
-- **Amazon Comprehend**
 
 - **Amazon CodeGuru**
 
