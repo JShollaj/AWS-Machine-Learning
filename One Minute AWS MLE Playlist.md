@@ -10,7 +10,7 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 - **[Amazon Transcribe](https://www.youtube.com/watch?v=oHNRrXq5ZD0)**
 
-- **Amazon Translate**
+- **[Amazon Translate](https://www.youtube.com/watch?v=e4R7UUcTVs4)**
 
 - **Amazon Polly**
 
