@@ -152,3 +152,8 @@
 ---
 
 ### Amazon Glue
+
+- **Glue Data Catalog**
+
+  - Automated and versioned schema inference (useful for DB).
+  - Use Glue Crawlers.
