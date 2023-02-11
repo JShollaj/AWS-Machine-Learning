@@ -168,3 +168,13 @@
     - ML Transformations (Matching Records).
     - Apache Spark Transformations.
     - Format transformations (CSV, JSON, Avro, Parquet, ORC, XML).
+
+---
+
+### Stores for ML
+
+- **Redshift**
+
+  - Data Warehousing (S3 &rarr; Redshift).
+  - Can query data in S3 through Redshift Spectrum.
+  
