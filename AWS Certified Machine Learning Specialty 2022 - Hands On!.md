@@ -98,6 +98,10 @@
   - Object based.
   - Expiration/Deletion based on inactivity.
   
-- S3 Encryption for Objects
+- S3 Encryption for Objects (4 Types)
 
-   - 
+  - **SSE-S3**: encrypts S3 objects using keys handled & managed by AWS.
+
+  - **SSE-KMS**: use AWS Key Management Service to manage encryption keys (audit trail & increased security).
+
+  - 
