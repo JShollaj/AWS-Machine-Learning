@@ -196,3 +196,8 @@
   - Indexing of data
   - Search amongst data points
   - Clickstream Analytics
+
+- **ElastiCache**
+
+  - Caching mechanism
+  - Not really used for Machine Learning
