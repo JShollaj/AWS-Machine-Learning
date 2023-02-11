@@ -177,4 +177,12 @@
 
   - Data Warehousing; OLAP (S3 &rarr; Redshift).
   - Can query data in S3 through Redshift Spectrum.
+
+- **RDS, Aurora**
+
+  - Relational Store, SQL (OLTP Online Transaction Processing)
+  - Must provision servers in advance
+
+- **DynamoDB**
+
   - 
