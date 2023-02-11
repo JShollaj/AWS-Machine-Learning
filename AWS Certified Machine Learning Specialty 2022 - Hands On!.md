@@ -126,5 +126,8 @@
 - Real-time processing service for big data.
 - Composed of 4 main sub-groups:
   
-  - 
+  - Kinesis Streams (Ingesting in Real Time)
+  - Kinesis Analytics (Analytics in Real-Time)
+  - Kinesis Firehose (Loading in Real-Time)
+  - Kinesis Video Streams (Video Streaming)
 
