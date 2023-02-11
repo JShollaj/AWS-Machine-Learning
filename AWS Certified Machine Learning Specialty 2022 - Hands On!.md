@@ -164,3 +164,5 @@
 - **Glue ETL**
 
   - Serverless ETL Tool, used for batch transformations.
+    - Bundled Transformations (Drop/Filter/Join/Map).
+    - 
