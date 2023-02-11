@@ -187,6 +187,12 @@
 
   - NoSQL data store, serverless, provision, read/write capacity.
 
-- **S3** 
+- **S3**
 
-  - 
+  - Object storage, Serverless, infinite storage
+
+- **OpenSearch**
+
+  - Indexing of data
+  - Search amongst data points
+  - Clickstream Analytics
