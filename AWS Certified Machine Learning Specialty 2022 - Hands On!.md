@@ -47,8 +47,8 @@
 
   - Less frequent, but required rapid access.
   - Lower cost than S3.
-  - Low latency & High throughput.
-  - Used for Big Data Analytics, Mobile & Gaming etc.
+  - Lower Availability (99.9%).
+  - Used for Disaster Recovery, Backups etc.
 
 - Amazon S3 One Zone - Infrequent Access
 - Amazon S3 Glacier - Instant Retrieval
