@@ -129,6 +129,8 @@
   - Kinesis Streams (Ingesting in Real Time)
 
     - Ingests data in divided shards.
+      - Provisioned we choose between 1MBs/s or 2MBs/s.
+      - On-Demand 
     - Records can be max of 1MB in size (and are immutable).
     - Data retention of 24hrs (up to 365 days).
 
