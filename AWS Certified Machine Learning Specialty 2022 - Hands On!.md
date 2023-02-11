@@ -24,4 +24,10 @@
 
 - We can perform data partitioning to optimize performance.
 
-  - 
+  - By Date (Hourly, Daily, Monthly).
+  - By Product (ID, Family).
+  - Query Patterns
+
+#### **S3 Storage Classes**
+
+- 
