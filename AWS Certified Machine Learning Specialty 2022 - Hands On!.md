@@ -204,7 +204,16 @@
 
 ---
 
-### AWS Data Pipeline Features
+### AWS Data Pipelines Features
 
-- Destinations such as S3, RDS, DynamoDB, EMR, Redshift
-- Notifies on failure, and is highly available
+- **AWS Data Pipeline**
+
+  - Orchestration service (controls environment, EC2, Code).
+  - Destinations such as S3, RDS, DynamoDB, EMR, Redshift.
+  - Notifies on failure, and is highly available.
+
+- **AWS Batch**
+
+  - 
+
+
