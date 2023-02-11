@@ -165,4 +165,6 @@
 
   - Serverless ETL Tool, used for batch transformations.
     - Bundled Transformations (Drop/Filter/Join/Map).
-    - 
+    - ML Transformations (Matching Records).
+    - Apache Spark Transformations.
+    - Format transformations (CSV, JSON, Avro, Parquet, ORC, XML).
