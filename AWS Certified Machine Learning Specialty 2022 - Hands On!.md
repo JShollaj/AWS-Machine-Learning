@@ -104,4 +104,4 @@
 
   - **SSE-KMS**: use AWS Key Management Service to manage encryption keys (audit trail & increased security).
 
-  - 
+  - **SSE-C**: client manages encryption keys.
