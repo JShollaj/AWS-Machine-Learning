@@ -70,4 +70,10 @@
     - Bulk (5-12 hours) - Free tier
 
 - Amazon S3 Glacier - Deep Archive
+
+  - Cheapest ($1 per TB)
+  - Longest term storage.
+  - Minimum storage duration (180 days).
+  - 
+
 - Amazon S3 Intelligent Tiering
