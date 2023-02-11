@@ -131,8 +131,9 @@
     - Ingests data in divided shards.
       - Provisioned Mode: We choose between 1MBs/s or 2MBs/s.
       - On-Demand Mode: 4MBs/s - we pay for stream/hr & data instead of shards.
-    - Records can be max of 1MB in size (and are immutable).
-    - Data retention of 24hrs (up to 365 days).
+    - Limits:
+      - 1MB/s or 1000 messages/s at write per shard
+      - 
 
   - Kinesis Analytics (Analytics in Real-Time)
   - Kinesis Firehose (Loading in Real-Time)
