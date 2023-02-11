@@ -108,4 +108,7 @@
 
   - **Client-Side**
 
-- S3 Security
+- S3 Security Layers
+
+  - User Based (IAM Policies)
+  - Resource Based (Object & Bucket policies)
