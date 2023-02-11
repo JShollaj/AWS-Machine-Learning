@@ -132,8 +132,10 @@
       - Provisioned Mode: We choose between 1MBs/s or 2MBs/s.
       - On-Demand Mode: 4MBs/s - we pay for stream/hr & data instead of shards.
     - Limits:
-      - 1MB/s or 1000 messages/s at write per shard
-      - 
+      - 1MB/s or 1000 messages/s at write per shard (Producer)
+      - 2MB/s at read PER SHARD across all consumers
+      - 5 API calls per second PER SHARD across all consumers
+      - Data retention (24hrs - 365days)
 
   - Kinesis Analytics (Analytics in Real-Time)
   - Kinesis Firehose (Loading in Real-Time)
