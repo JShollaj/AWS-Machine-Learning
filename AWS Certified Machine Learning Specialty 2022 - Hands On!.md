@@ -181,8 +181,12 @@
 - **RDS, Aurora**
 
   - Relational Store, SQL (OLTP Online Transaction Processing)
-  - Must provision servers in advance
+  - Must provision servers in advance.
 
 - **DynamoDB**
+
+  - NoSQL data store, serverless, provision, read/write capacity.
+
+- **S3** 
 
   - 
