@@ -87,4 +87,4 @@
     - **Frequent Access** tier (within 30 days)
     - **Infrequent Access** tier (> 30 days, but still low latency & high throughput)
     - **Archive Instant Access** tier (> 90 days, but still low latency & high throughput)
-    - 
+    - **Archive Access** tier (> 90 days; we choose async access, to save costs).
