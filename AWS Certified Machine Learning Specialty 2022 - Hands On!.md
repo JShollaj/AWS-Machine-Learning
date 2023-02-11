@@ -138,6 +138,7 @@
       - Data retention (24hrs - 365days)
 
   - Kinesis Analytics (Analytics in Real-Time)
-  - Kinesis Firehose (Loading in Real-Time)
+  - Kinesis Firehose (Storing in Real-Time
+    - 
   - Kinesis Video Streams (Video Streaming)
 
