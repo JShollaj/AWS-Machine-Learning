@@ -205,3 +205,6 @@
 ---
 
 ### AWS Data Pipeline Features
+
+- Destinations such as S3, RDS, DynamoDB, EMR, Redshift
+- Notifies on failure, and is highly available
