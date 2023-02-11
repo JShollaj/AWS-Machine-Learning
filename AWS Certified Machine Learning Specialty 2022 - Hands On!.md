@@ -13,7 +13,9 @@
 
 - Durability and Availability:
 
-  - 11 x 9s &rarr; 
+  - Durability of: **11 x 9s** &rarr; If we have 10 million objects, lose 1 every 10,000 years.
+
+  - Availability of: **4 x 9s** &rarr; 
 
 #### **S3 For ML**
 
