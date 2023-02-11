@@ -129,7 +129,8 @@
   - Kinesis Streams (Ingesting in Real Time)
 
     - Ingests data in divided shards.
-    - 
+    - Records can be max of 1MB in size (and are immutable).
+    - Data retention of 24hrs (up to 365 days).
 
   - Kinesis Analytics (Analytics in Real-Time)
   - Kinesis Firehose (Loading in Real-Time)
