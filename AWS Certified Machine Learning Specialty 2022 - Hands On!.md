@@ -163,4 +163,4 @@
 
 - **Glue ETL**
 
-  - 
+  - Serverless ETL Tool, used for batch transformations.
