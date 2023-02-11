@@ -140,10 +140,10 @@
   - Kinesis Analytics (Analytics in Real-Time)
     - Serverless responsive analytics in real time.
     - Continuous metric generation (f.ex live leaderboard).
-    - 
+    - Can be configured through IAM for permissions.
+    - Lambda can be used for preprocessing.
   - Kinesis Firehose (Storing in Real-Time
     - Automatic scaling & fully managed data storing for  *near* real time.
     - Supports data conversion, transformantion & compression.
-
   - Kinesis Video Streams (Video Streaming)
 
