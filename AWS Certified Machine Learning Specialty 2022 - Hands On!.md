@@ -89,3 +89,10 @@
     - **Archive Instant Access** tier (> 90 days, but still low latency & high throughput)
     - **Archive Access** tier (> 90 days; we choose async access, to save costs; 3-5 hours to access)
     - **Deep Archive Access** tier (> 180 days, 12 hours to access)
+
+- We can also configure lifecycle rules based on:
+
+  - Transition to storage class.
+  - Costs.
+  - Object based.
+  - Expiration/Deletion based on inactivity.
