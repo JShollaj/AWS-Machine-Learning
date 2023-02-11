@@ -80,3 +80,5 @@
     - Bulk (48 hours)
 
 - Amazon S3 Intelligent Tiering
+
+  - Shifts data through different storages.
