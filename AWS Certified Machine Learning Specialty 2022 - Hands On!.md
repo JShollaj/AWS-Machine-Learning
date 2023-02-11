@@ -74,6 +74,9 @@
   - Cheapest ($1 per TB)
   - Longest term storage.
   - Minimum storage duration (180 days).
-  - 
+  - For regulatory and compliance cases.
+  - Data retrieval options:
+    - Standard (12 hours)
+    - Bulk (48 hours)
 
 - Amazon S3 Intelligent Tiering
