@@ -51,6 +51,11 @@
   - Used for Disaster Recovery, Backups etc.
 
 - Amazon S3 One Zone - Infrequent Access
+
+  - High durability (11x9s), but only in single AZ.
+  - Lower cost than S3 Standard IA.
+  - Storing secondary data.
+
 - Amazon S3 Glacier - Instant Retrieval
 - Amazon S3 Glacier - Flexible Retrieval
 - Amazon S3 Glacier - Deep Archive
