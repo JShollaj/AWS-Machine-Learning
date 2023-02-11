@@ -114,3 +114,7 @@
   - Resource Based (Object & Bucket policies)
   - JSON Based (Objects/Buckets, Actions, Effect, Principal)
   - Networking (Allowing traffic within configured VPC)
+
+---
+
+### Amazon Kinesis
