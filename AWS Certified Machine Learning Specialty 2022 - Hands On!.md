@@ -11,6 +11,10 @@
 - Buckets must have a globally unique name.
 - Max object size is 5TB.
 
+- Durability and Availability:
+
+  - 11 x 9s &rarr; 
+
 #### **S3 For ML**
 
 - We can create **Data Lakes** with S3 as the storage.
