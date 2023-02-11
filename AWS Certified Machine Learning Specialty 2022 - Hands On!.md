@@ -121,4 +121,10 @@
 
 ### Amazon Kinesis
 
- - Overview
+#### **Kinesis Overview**
+
+- Real-time processing service for big data.
+- Composed of 4 main sub-groups:
+  
+  - 
+
