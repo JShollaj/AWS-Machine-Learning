@@ -156,4 +156,4 @@
 - **Glue Data Catalog**
 
   - Automated and versioned schema inference (useful for DB).
-  - Use Glue Crawlers.
+  - Uses Glue Crawlers to built the catalog on schedule or demand.
