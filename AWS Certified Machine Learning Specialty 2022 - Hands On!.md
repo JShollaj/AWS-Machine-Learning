@@ -62,5 +62,11 @@
   - Millisecond retrieval, objects but needs to be stored for at least 90 days.
 
 - Amazon S3 Glacier - Flexible Retrieval
+
+  - Different types of retrievals:
+    - Expedited (1-5 minutes)
+    - Standard (3-5 hours)
+    - Bulk (5-12 hours)
+
 - Amazon S3 Glacier - Deep Archive
 - Amazon S3 Intelligent Tiering
