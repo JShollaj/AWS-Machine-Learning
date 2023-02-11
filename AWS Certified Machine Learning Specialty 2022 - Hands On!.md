@@ -13,7 +13,11 @@
 
 #### **S3 For ML**
 
-- We can create Data Lakes with S3 as the storage.
+- We can create **Data Lakes** with S3 as the storage.
 
   - Fully managed & 11 x 9s Durability
-  - 
+  - Storage is decoupled from Computing resources.
+
+- Object storage supports any file format.
+  
+  - Best files formats for performance are Avro & Parquet.
