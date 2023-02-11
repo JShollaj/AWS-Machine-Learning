@@ -21,3 +21,7 @@
 - Object storage supports any file format.
   
   - Best files formats for performance are Avro & Parquet.
+
+- We can perform data partitioning to optimize performance.
+
+  - 
