@@ -92,7 +92,12 @@
 
 - We can also configure lifecycle rules based on:
 
+  - Start with S3 Storage Analysis to create rules.
   - Transition to storage class.
   - Costs.
   - Object based.
   - Expiration/Deletion based on inactivity.
+  
+- S3 Encryption for Objects
+
+   - 
