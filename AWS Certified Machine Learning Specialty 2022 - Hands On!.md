@@ -97,6 +97,8 @@
   - Costs.
   - Object based.
   - Expiration/Deletion based on inactivity.
+
+#### **S3 Security**
   
 - S3 Encryption for Objects (4 Types)
 
@@ -118,3 +120,5 @@
 ---
 
 ### Amazon Kinesis
+
+ - Overview
