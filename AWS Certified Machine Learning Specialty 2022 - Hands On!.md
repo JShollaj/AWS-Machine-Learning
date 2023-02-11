@@ -107,4 +107,5 @@
   - **SSE-C**: client manages encryption keys.
 
   - **Client-Side**
-  
+
+- S3 Security
