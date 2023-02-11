@@ -146,4 +146,6 @@
     - Automatic scaling & fully managed data storing for  *near* real time.
     - Supports data conversion, transformantion & compression.
   - Kinesis Video Streams (Video Streaming)
+    - Keeps data for 1hr - 10years.
+    - Used for security cameras, RADAR etc.
 
