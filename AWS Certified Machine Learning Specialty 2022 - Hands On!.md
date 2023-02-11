@@ -13,4 +13,7 @@
 
 #### **S3 For ML**
 
+- We can create Data Lakes with S3 as the storage.
 
+  - Fully managed & 11 x 9s Durability
+  - 
