@@ -140,6 +140,7 @@
   - Kinesis Analytics (Analytics in Real-Time)
   - Kinesis Firehose (Storing in Real-Time
     - Automatic scaling & fully managed data storing for  *near* real time.
+    - Supports data conversion, transformantion & compression.
 
   - Kinesis Video Streams (Video Streaming)
 
