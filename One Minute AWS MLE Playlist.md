@@ -16,7 +16,7 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 - **[Amazon Lex](https://www.youtube.com/watch?v=ePn-1hHXC3s)**
 
-- **Amazon Kendra**
+- **[Amazon Kendra](https://www.youtube.com/watch?v=zmccRoe82FE)**
 
 - **Amazon Forecast**
 
