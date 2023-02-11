@@ -36,8 +36,20 @@
 
 #### **S3 Storage Classes**
 
-- Amazon S3 Standard - General Purpose
-- Amazon S3 Standard - Infrequent Access (IA)
+- Amazon S3 **Standard - General Purpose**
+
+  - Used for frequently accessed data
+  - Sustain 2 concurrent facility failures.
+  - Low latency & High throughput.
+  - Used for Big Data Analytics, Mobile & Gaming etc.
+
+- Amazon S3 **Standard - Infrequent Access (IA)**
+
+  - Used for frequently accessed data
+  - Sustain 2 concurrent facility failures.
+  - Low latency & High throughput.
+  - Used for Big Data Analytics, Mobile & Gaming etc.
+
 - Amazon S3 One Zone - Infrequent Access
 - Amazon S3 Glacier - Instant Retrieval
 - Amazon S3 Glacier - Flexible Retrieval
