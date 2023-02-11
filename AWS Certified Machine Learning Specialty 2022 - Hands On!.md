@@ -175,6 +175,6 @@
 
 - **Redshift**
 
-  - Data Warehousing (S3 &rarr; Redshift).
+  - Data Warehousing; OLAP (S3 &rarr; Redshift).
   - Can query data in S3 through Redshift Spectrum.
-  
+  - 
