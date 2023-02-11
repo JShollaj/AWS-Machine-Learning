@@ -57,6 +57,10 @@
   - Storing secondary data.
 
 - Amazon S3 Glacier - Instant Retrieval
+
+  - Lowest cost (meant for deep archives).
+  - Millisecond retrieval, objects but needs to be stored for at least 90 days.
+
 - Amazon S3 Glacier - Flexible Retrieval
 - Amazon S3 Glacier - Deep Archive
 - Amazon S3 Intelligent Tiering
