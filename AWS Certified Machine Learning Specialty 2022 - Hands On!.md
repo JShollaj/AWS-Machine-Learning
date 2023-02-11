@@ -158,4 +158,4 @@
   - Automated and versioned schema inference (useful for DB).
   - Glue Crawlers to built the catalog on schedule or demand.
     - They need IAM role to access data stores.
-    - 
+    - Works with JSON, Parquet, CSV & S3, Redshift, RDS.
