@@ -214,6 +214,7 @@
 
 - **AWS Batch**
 
-  - 
+  - Run batch jobs as Docker images & Dynamic Provisioning.
+  - Can be integrated to schedule jobs with CloudWatch/StepFunctions
 
 
