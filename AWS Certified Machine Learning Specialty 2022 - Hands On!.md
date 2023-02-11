@@ -138,6 +138,9 @@
       - Data retention (24hrs - 365days)
 
   - Kinesis Analytics (Analytics in Real-Time)
+    - Serverless responsive analytics in real time.
+    - Continuous metric generation (f.ex live leaderboard).
+    - 
   - Kinesis Firehose (Storing in Real-Time
     - Automatic scaling & fully managed data storing for  *near* real time.
     - Supports data conversion, transformantion & compression.
