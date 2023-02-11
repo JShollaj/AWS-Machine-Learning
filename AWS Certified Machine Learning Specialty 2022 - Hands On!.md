@@ -162,3 +162,5 @@
     - Extracts partitions on how data is organized in S3.
 
 - **Glue ETL**
+
+  - 
