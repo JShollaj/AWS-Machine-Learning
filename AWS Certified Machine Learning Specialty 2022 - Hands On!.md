@@ -82,3 +82,8 @@
 - Amazon S3 Intelligent Tiering
 
   - Shifts data through different storages.
+  - Has 5 different access tiers, based on frequency:
+  
+    - Frequent Access tier (within 30 days)
+    - Infrequent Access tier (> 30 days, but still low latency & high throughput)
+    - 
