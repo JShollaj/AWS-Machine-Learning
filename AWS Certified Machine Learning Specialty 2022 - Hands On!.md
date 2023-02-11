@@ -151,7 +151,7 @@
 
 ---
 
-### Amazon Glue
+### Amazon Glue (Batch)
 
 - **Glue Data Catalog**
 
@@ -159,3 +159,6 @@
   - Glue Crawlers to built the catalog on schedule or demand.
     - They need IAM role to access data stores.
     - Works with JSON, Parquet, CSV & S3, Redshift, RDS.
+    - Extracts partitions on how data is organized in S3.
+
+- **Glue ETL**
