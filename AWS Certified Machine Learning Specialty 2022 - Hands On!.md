@@ -45,8 +45,8 @@
 
 - Amazon S3 **Standard - Infrequent Access (IA)**
 
-  - Used for frequently accessed data
-  - Sustain 2 concurrent facility failures.
+  - Less frequent, but required rapid access.
+  - Lower cost than S3.
   - Low latency & High throughput.
   - Used for Big Data Analytics, Mobile & Gaming etc.
 
