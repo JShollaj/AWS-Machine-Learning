@@ -112,3 +112,5 @@
 
   - User Based (IAM Policies)
   - Resource Based (Object & Bucket policies)
+  - JSON Based (Objects/Buckets, Actions, Effect, Principal)
+  - 
