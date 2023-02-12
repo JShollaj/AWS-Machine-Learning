@@ -18,8 +18,6 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 - **[Amazon Kendra](https://www.youtube.com/watch?v=zmccRoe82FE)**
 
-- **Amazon Forecast**
-
 - **Amazon CodeGuru**
 
 - **Amazon Augmented AI**
