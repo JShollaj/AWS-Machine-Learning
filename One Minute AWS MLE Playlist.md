@@ -20,10 +20,6 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 - **[Amazon CodeGuru](https://www.youtube.com/watch?v=LqCoZlnZMGA)**
 
-- **Amazon Augmented AI**
-
-- **Amazon SageMaker**
-
 - **AWS DeepLens**
 
 - **AWS DeepRacer**
@@ -31,5 +27,7 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 - **AWS DeepComposer**
 
 - **AWS Panorama Device and SDK**
+
+- **Amazon SageMaker**
 
 ---
