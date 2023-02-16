@@ -20,7 +20,9 @@ Playlist of ~1-Minute Videos On Most Important AWS Services for the MLE Specialt
 
 - **[Amazon CodeGuru](https://www.youtube.com/watch?v=LqCoZlnZMGA)**
 
-- **AWS DeepLens**
+- **[AWS Augmented AI]()**
+
+- **[AWS DeepLens]()**
 
 - **AWS DeepRacer**
 
