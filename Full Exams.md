@@ -7,19 +7,19 @@ Put your score on each and check if you make more than the 70% mark.
 
 Enter your score:
 
-## [Exam #2](testmoz.com/12497422)
+## [Exam #2](https://testmoz.com/12497422)
 
 Enter your score:
 
-## [Exam #3](testmoz.com/12500822)
+## [Exam #3](https://testmoz.com/12500822)
 
 Enter your score:
 
-## [Exam #4](testmoz.com/12501020)
+## [Exam #4](https://testmoz.com/12501020)
 
 Enter your score:
 
-## [Exam #5](testmoz.com/12501284)
+## [Exam #5](https://testmoz.com/12501284)
 
 ---
 
