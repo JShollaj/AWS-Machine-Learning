@@ -3,7 +3,7 @@
 List of exams gathered from various sources (books, builders, youtube and official questions).
 Put your score on each and check if you make more than the 70% mark.
 
-## [Exam #1](testmoz.com/12497100)
+## [Exam #1](https://testmoz.com/12497100)
 
 Enter your score:
 
