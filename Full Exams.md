@@ -5,29 +5,23 @@ Put your score on each and check if you make more than the 70% mark.
 
 ## Exam #1
 
-https://testmoz.com/12497100
+https://testmoz.com/12497422
 
 Enter your score:
 
 ## Exam #2
 
-https://testmoz.com/12497422
+https://testmoz.com/12500822
 
 Enter your score:
 
 ## Exam #3
 
-https://testmoz.com/12500822
-
-Enter your score:
-
-## Exam #4 
-
 https://testmoz.com/12501020
 
 Enter your score:
 
-## Exam #5 
+## Exam #4
 
 https://testmoz.com/12501284
 
