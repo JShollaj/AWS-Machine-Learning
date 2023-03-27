@@ -16,7 +16,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Exam Readiness Course](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Exam%20Readiness%20Course.md) &#x2611;
 
-- ### [AWS Certified Machine Learning Specialty 2022 - Hands On!](https://github.com/JShollaj/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Certified%20Machine%20Learning%20Specialty%202022%20-%20Hands%20On!.md) &#x2611;
+- ### [AWS Certified Machine Learning Specialty 2022 - Hands On!](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/AWS%20Certified%20Machine%20Learning%20Specialty%202022%20-%20Hands%20On!.md) &#x2611;
 
 - ### [Related Whitepapers](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Related%20Whitepapers.md) &#x2611;
 
