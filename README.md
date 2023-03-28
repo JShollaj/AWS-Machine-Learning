@@ -22,5 +22,7 @@ Here is a summary of the main resources used on each separate file for accomplis
 
 - ### [Amazon Machine Learning - Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html) &#x2611;
 
+- ### [AWS AI Services Guide](https://github.com/koreva-liubov/AWS-Certified-Machine-Learning-Specialty-Guide/blob/aca0e1ebd08a693d9d83a24606d65483eb7b9e6c/pdf/AWS-AI-Services-2023.pdf) &#x2611;
+
 - ### [Full Exams](https://github.com/Xns140/AWS-Certified-Machine-Learning-Specialty-Guide/blob/master/Full%20Exams.md) &#x2611;
 
